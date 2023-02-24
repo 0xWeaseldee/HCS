@@ -1,5 +1,6 @@
-regex cheat sheet
+regex cheat sheet: Find the following values in VS-Code and replace them with "" so PII doesn't get leaked.
 
 "aliasWithHash": "([^;]*)
 "aliasHash": "([^;]*)
 "email": "([^;]*)
+"rules": "([^;]*)
