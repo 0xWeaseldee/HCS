@@ -1,0 +1,5 @@
+regex cheat sheet
+
+"aliasWithHash": "([^;]*)
+"aliasHash": "([^;]*)
+"email": "([^;]*)
