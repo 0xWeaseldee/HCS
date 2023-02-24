@@ -1,0 +1,1889 @@
+{
+  "pageProps": {
+    "dehydratedState": {
+      "mutations": [],
+      "queries": [
+        {
+          "state": {
+            "data": {
+              "publicId": "d6327886-70cf-4efe-9c68-c47cbd541863",
+              "name": "HCS Kickoff Major Charlotte 2023",
+              "startDate": "2023-02-24",
+              "endDate": "2023-02-26",
+              "description": "<p>Welcome back Spartans! Join us in Charlotte, NC as we kickoff the first Major of the 2023 HCS season.</p><p>With fresh rosters, new storylines, and heated rivalries, the stage is set for this to be an intense year of Halo Esports. Will OpTic Gaming keep their crown and defend their title or will there be a new champion? Year 2 of HCS starts now!</p>",
+              "timezone": "America/New_York",
+              "venue": {
+                "name": "Charlotte Convention Center Hall B",
+                "address": {
+                  "address1": "501 S College St",
+                  "address2": null,
+                  "city": "Charlotte",
+                  "stateProv": "NC",
+                  "zipPostal": "28202",
+                  "country": "United States"
+                },
+                "link": null
+              },
+              "state": "LIVE",
+              "tournaments": [
+                {
+                  "publicId": "86641508-1698-46ff-a43b-1cb7a2a16dc5",
+                  "slug": "ffa",
+                  "name": "HCS Kickoff Major Charlotte 2023 FFA",
+                  "location": null,
+                  "startDateTime": "2023-02-24T15:00:00Z",
+                  "endDateTime": "2023-02-27T04:00:00Z",
+                  "rosterLockTime": null,
+                  "description": "HCS Kickoff Major Charlotte 2023 features a free Halo FFA tournament! The event will be open for up to 512 players. Best of luck to those competing for their shot at the largest piece of the $5,000 prize pool!",
+                  "shortDescription": "HCS Kickoff Major Charlotte 2023 features a free Halo FFA tournament! The event will be open for up to 512 players. Best of luck to those competing for their shot at the largest piece of the $5,000 prize pool!",
+                  "teamPassInfo": "<p> </p>",
+                  "heroImageUrl": "https://images.contentstack.io/v3/assets/bltd0ebcae2b735695d/blt77edff3dfa54a053/63bf4ae00dc3963ccff8ad0a/HCS_Charolette_Vis_ID_1920x675.png",
+                  "state": "UPCOMING",
+                  "rulesLink": null,
+                  "roster": null,
+                  "placement": null,
+                  "drop": null,
+                  "teamPass": null,
+                  "links": [],
+                  "rosterRules": {
+                    "maxSubs": 0,
+                    "minSubs": 0,
+                    "starters": 1,
+                    "maxCoaches": 0,
+                    "minCoaches": 0
+                  },
+                  "competitionStatus": "Waiting",
+                  "tournamentEntryType": "openRegistration",
+                  "registrationStatus": true
+                },
+                {
+                  "publicId": "74939edf-1e65-4e7d-9c39-cc2e8791e63c",
+                  "slug": "4v4",
+                  "name": "HCS Kickoff Major Charlotte 2023 4v4",
+                  "location": null,
+                  "startDateTime": "2023-02-24T14:00:00Z",
+                  "endDateTime": "2023-02-27T03:00:00Z",
+                  "rosterLockTime": "2023-02-20T23:00:00Z",
+                  "description": "The best Halo Infinite teams from around the world will be competing at the HCS Kickoff Major Charlotte 2023 for their chance to claim the top reward from the $250,000 prize pool! Be sure to secure your team pass and prepare for an epic tournament.",
+                  "shortDescription": "The best Halo Infinite teams from around the world will be competing at the HCS Kickoff Major Charlotte 2023 for their chance to claim the top reward from the $250,000 prize pool! Be sure to secure your team pass and prepare for an epic tournament.",
+                  "teamPassInfo": "<p> </p>",
+                  "heroImageUrl": "https://images.contentstack.io/v3/assets/bltd0ebcae2b735695d/blt77edff3dfa54a053/63bf4ae00dc3963ccff8ad0a/HCS_Charolette_Vis_ID_1920x675.png",
+                  "state": "LIVE",
+                  "rulesLink": null,
+                  "roster": null,
+                  "placement": null,
+                  "drop": null,
+                  "teamPass": null,
+                  "links": [],
+                  "rosterRules": {
+                    "maxSubs": 0,
+                    "minSubs": 0,
+                    "starters": 4,
+                    "maxCoaches": 1,
+                    "minCoaches": 0
+                  },
+                  "competitionStatus": "Active",
+                  "tournamentEntryType": "passPurchase",
+                  "registrationStatus": false
+                }
+              ],
+              "isSpecialEvent": false,
+              "region": {
+                "publicId": "63bded71-f101-4212-b6ad-de477d5a75eb",
+                "name": "North America"
+              },
+              "eventSlug": "charlotte"
+            },
+            "dataUpdateCount": 1,
+            "dataUpdatedAt": 1677251233501,
+            "error": null,
+            "errorUpdateCount": 0,
+            "errorUpdatedAt": 0,
+            "fetchFailureCount": 0,
+            "fetchMeta": null,
+            "isFetching": false,
+            "isInvalidated": false,
+            "isPaused": false,
+            "status": "success"
+          },
+          "queryKey": [
+            "event",
+            "charlotte",
+            false
+          ],
+          "queryHash": [
+            "event",
+            "charlotte",
+            false
+          ]
+        },
+        {
+          "state": {
+            "data": [
+              {
+                "name": "Pool Play",
+                "stage": 2,
+                "type": "pools",
+                "format": {
+                  "teamsPerMatch": 2,
+                  "advancePerMatch": 1,
+                  "winnersOut": 12,
+                  "numPools": 4,
+                  "poolStandings": {
+                    "1": {
+                      "1": {
+                        "roster": {
+                          "publicId": "8d44fe10-b042-4d21-af0c-5f9930783067",
+                          "name": "FaZe Clan",
+                          "wins": 0,
+                          "losses": 0
+                        },
+                        "locked": false,
+                        "phasePlacementConnection": 1
+                      },
+                      "2": {
+                        "roster": {
+                          "publicId": "684f7b00-f40f-4905-af0f-198dfd4bc9b8",
+                          "name": "Shopify Rebellion",
+                          "wins": 0,
+                          "losses": 0
+                        },
+                        "locked": false,
+                        "phasePlacementConnection": 8
+                      },
+                      "3": {
+                        "roster": {
+                          "publicId": "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2",
+                          "name": "NaVi",
+                          "wins": 0,
+                          "losses": 0
+                        },
+                        "locked": false,
+                        "phasePlacementConnection": 9
+                      },
+                      "4": {
+                        "roster": {
+                          "publicId": "OTHER_PHASE_ROSTER",
+                          "name": "Placement 4 from other phase",
+                          "wins": 0,
+                          "losses": 0
+                        },
+                        "locked": false,
+                        "phasePlacementConnection": 16
+                      }
+                    },
+                    "2": {
+                      "1": {
+                        "roster": {
+                          "publicId": "f38eea13-f027-467a-9f3a-e24630d25bf2",
+                          "name": "OpTic Gaming",
+                          "wins": 0,
+                          "losses": 0
+                        },
+                        "locked": false,
+                        "phasePlacementConnection": 2
+                      },
+                      "2": {
+                        "roster": {
+                          "publicId": "b8fbeb83-109d-424b-bb13-304647094df7",
+                          "name": "Sentinels",
+                          "wins": 0,
+                          "losses": 0
+                        },
+                        "locked": false,
+                        "phasePlacementConnection": 7
+                      },
+                      "3": {
+                        "roster": {
+                          "publicId": "5a43bf41-e26c-4da5-a916-b791ca4d33d6",
+                          "name": "Quadrant",
+                          "wins": 0,
+                          "losses": 0
+                        },
+                        "locked": false,
+                        "phasePlacementConnection": 10
+                      },
+                      "4": {
+                        "roster": {
+                          "publicId": "OTHER_PHASE_ROSTER",
+                          "name": "Placement 3 from other phase",
+                          "wins": 0,
+                          "losses": 0
+                        },
+                        "locked": false,
+                        "phasePlacementConnection": 15
+                      }
+                    },
+                    "3": {
+                      "1": {
+                        "roster": {
+                          "publicId": "ee4cc932-1be9-47c6-ab0c-ddcd60f9a81b",
+                          "name": "G1",
+                          "wins": 0,
+                          "losses": 0
+                        },
+                        "locked": false,
+                        "phasePlacementConnection": 3
+                      },
+                      "2": {
+                        "roster": {
+                          "publicId": "935be205-2642-4a00-b70b-cf4989365fcb",
+                          "name": "Believe the Hype",
+                          "wins": 0,
+                          "losses": 0
+                        },
+                        "locked": false,
+                        "phasePlacementConnection": 6
+                      },
+                      "3": {
+                        "roster": {
+                          "publicId": "2f9b6387-49b0-48b1-8bee-3bf29ddc8e60",
+                          "name": "Luminosity Gaming",
+                          "wins": 0,
+                          "losses": 0
+                        },
+                        "locked": false,
+                        "phasePlacementConnection": 11
+                      },
+                      "4": {
+                        "roster": {
+                          "publicId": "OTHER_PHASE_ROSTER",
+                          "name": "Placement 2 from other phase",
+                          "wins": 0,
+                          "losses": 0
+                        },
+                        "locked": false,
+                        "phasePlacementConnection": 14
+                      }
+                    },
+                    "4": {
+                      "1": {
+                        "roster": {
+                          "publicId": "51e9a5f5-660f-4677-81e0-af24c5869d51",
+                          "name": "TSS Esports",
+                          "wins": 0,
+                          "losses": 0
+                        },
+                        "locked": false,
+                        "phasePlacementConnection": 4
+                      },
+                      "2": {
+                        "roster": {
+                          "publicId": "393c68a8-1428-4324-9d93-360c5ee0b0a0",
+                          "name": "Spacestation Gaming",
+                          "wins": 0,
+                          "losses": 0
+                        },
+                        "locked": false,
+                        "phasePlacementConnection": 5
+                      },
+                      "3": {
+                        "roster": {
+                          "publicId": "ec9751f9-553a-471a-b694-08bf8b81eef6",
+                          "name": "Divine Mind",
+                          "wins": 0,
+                          "losses": 0
+                        },
+                        "locked": false,
+                        "phasePlacementConnection": 12
+                      },
+                      "4": {
+                        "roster": {
+                          "publicId": "OTHER_PHASE_ROSTER",
+                          "name": "Placement 1 from other phase",
+                          "wins": 0,
+                          "losses": 0
+                        },
+                        "locked": false,
+                        "phasePlacementConnection": 13
+                      }
+                    }
+                  }
+                },
+                "data": {
+                  "pools": [
+                    {
+                      "teams": [
+                        {
+                          "placement": 1,
+                          "wins": 0,
+                          "losses": 0,
+                          "locked": false,
+                          "roster": {
+                            "publicId": "8d44fe10-b042-4d21-af0c-5f9930783067",
+                            "creationDate": "2023-02-16T19:15:05Z",
+                            "updatedDate": "2023-02-23T18:58:28Z",
+                            "deletedAt": null,
+                            "name": "FaZe Clan",
+                            "creationReason": "adminCreated",
+                            "status": "checkedIn",
+                            "locked": true,
+                            "nameLocked": true,
+                            "disabled": false,
+                            "acceptedRules": true,
+                            "logoURL": "https://assets.esportsengine.co/logos/8d44fe10-b042-4d21-af0c-5f9930783067.png",
+                            "hasPendingLogo": false,
+                            "imageUploadEnabled": true,
+                            "seedNumber": 1
+                          }
+                        },
+                        {
+                          "placement": 2,
+                          "wins": 0,
+                          "losses": 0,
+                          "locked": false,
+                          "roster": {
+                            "publicId": "684f7b00-f40f-4905-af0f-198dfd4bc9b8",
+                            "creationDate": "2023-01-23T19:36:29Z",
+                            "updatedDate": "2023-02-23T17:54:58Z",
+                            "deletedAt": null,
+                            "name": "Shopify Rebellion",
+                            "creationReason": "boughtPass",
+                            "status": "checkedIn",
+                            "locked": true,
+                            "nameLocked": true,
+                            "disabled": false,
+                            "acceptedRules": true,
+                            "logoURL": "https://assets.esportsengine.co/logos/684f7b00-f40f-4905-af0f-198dfd4bc9b8.png",
+                            "hasPendingLogo": false,
+                            "imageUploadEnabled": true,
+                            "seedNumber": 8
+                          }
+                        },
+                        {
+                          "placement": 3,
+                          "wins": 0,
+                          "losses": 0,
+                          "locked": false,
+                          "roster": {
+                            "publicId": "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2",
+                            "creationDate": "2023-02-16T22:36:34Z",
+                            "updatedDate": "2023-02-23T17:31:14Z",
+                            "deletedAt": null,
+                            "name": "NaVi",
+                            "creationReason": "adminCreated",
+                            "status": "checkedIn",
+                            "locked": true,
+                            "nameLocked": true,
+                            "disabled": false,
+                            "acceptedRules": true,
+                            "logoURL": "https://assets.esportsengine.co/logos/d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2.png",
+                            "hasPendingLogo": false,
+                            "imageUploadEnabled": true,
+                            "seedNumber": 9
+                          }
+                        },
+                        {
+                          "placement": 4,
+                          "wins": 0,
+                          "losses": 0,
+                          "locked": false,
+                          "roster": {
+                            "seedNumber": 16,
+                            "name": "To Be Determined",
+                            "publicId": "toBeDeterminedRoster16",
+                            "creationDate": "",
+                            "updatedDate": "",
+                            "deletedAt": "",
+                            "creationReason": "adminCreated",
+                            "status": "complete",
+                            "locked": true,
+                            "nameLocked": true,
+                            "disabled": false,
+                            "acceptedRules": true,
+                            "logoURL": null,
+                            "hasPendingLogo": true
+                          }
+                        }
+                      ],
+                      "rounds": [
+                        {
+                          "id": 232,
+                          "roundNum": 1,
+                          "matches": [
+                            {
+                              "publicId": "87f40b1c-3afd-4f73-a0aa-61d3ddc45d95",
+                              "matchNum": "Pool 1 - 1 vs 16",
+                              "actualStartTime": null,
+                              "actualEndTime": null,
+                              "verifiedTime": null,
+                              "status": "Waiting to be Announced",
+                              "teams": [
+                                {
+                                  "publicId": "8d44fe10-b042-4d21-af0c-5f9930783067",
+                                  "creationDate": "2023-02-16T19:15:05Z",
+                                  "updatedDate": "2023-02-23T18:58:28Z",
+                                  "deletedAt": null,
+                                  "name": "FaZe Clan",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/8d44fe10-b042-4d21-af0c-5f9930783067.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 1
+                                }
+                              ],
+                              "result": null,
+                              "projectedStartTime": "2023-02-25T15:00:00Z",
+                              "isBroadcast": false,
+                              "broadcastLinks": []
+                            },
+                            {
+                              "publicId": "9591d1e4-5692-4c16-8b65-a64f823c4798",
+                              "matchNum": "Pool 1 - 8 vs 9",
+                              "actualStartTime": null,
+                              "actualEndTime": null,
+                              "verifiedTime": null,
+                              "status": "Waiting to be Announced",
+                              "teams": [
+                                {
+                                  "publicId": "684f7b00-f40f-4905-af0f-198dfd4bc9b8",
+                                  "creationDate": "2023-01-23T19:36:29Z",
+                                  "updatedDate": "2023-02-23T17:54:58Z",
+                                  "deletedAt": null,
+                                  "name": "Shopify Rebellion",
+                                  "creationReason": "boughtPass",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/684f7b00-f40f-4905-af0f-198dfd4bc9b8.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 8
+                                },
+                                {
+                                  "publicId": "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2",
+                                  "creationDate": "2023-02-16T22:36:34Z",
+                                  "updatedDate": "2023-02-23T17:31:14Z",
+                                  "deletedAt": null,
+                                  "name": "NaVi",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 9
+                                }
+                              ],
+                              "result": null,
+                              "projectedStartTime": "2023-02-24T18:30:00Z",
+                              "isBroadcast": true,
+                              "broadcastLinks": [
+                                {
+                                  "url": "https://www.youtube.com/c/HaloEsportsHCS",
+                                  "name": "HCS YouTube",
+                                  "publicId": "d19de06d-f144-491b-ba5d-42b2c7f5bccb",
+                                  "tournamentId": null
+                                },
+                                {
+                                  "url": "https://www.twitch.tv/halo",
+                                  "name": "Halo",
+                                  "publicId": "68daedbc-dfdd-400e-91bc-c49fdd9ab806",
+                                  "tournamentId": null
+                                }
+                              ]
+                            },
+                            {
+                              "publicId": "ea51b972-8d12-4ba8-b9b4-00afa358cded",
+                              "matchNum": "Pool 1 - 1 vs 9",
+                              "actualStartTime": null,
+                              "actualEndTime": null,
+                              "verifiedTime": null,
+                              "status": "Waiting to be Announced",
+                              "teams": [
+                                {
+                                  "publicId": "8d44fe10-b042-4d21-af0c-5f9930783067",
+                                  "creationDate": "2023-02-16T19:15:05Z",
+                                  "updatedDate": "2023-02-23T18:58:28Z",
+                                  "deletedAt": null,
+                                  "name": "FaZe Clan",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/8d44fe10-b042-4d21-af0c-5f9930783067.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 1
+                                },
+                                {
+                                  "publicId": "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2",
+                                  "creationDate": "2023-02-16T22:36:34Z",
+                                  "updatedDate": "2023-02-23T17:31:14Z",
+                                  "deletedAt": null,
+                                  "name": "NaVi",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 9
+                                }
+                              ],
+                              "result": null,
+                              "projectedStartTime": "2023-02-24T17:00:00Z",
+                              "isBroadcast": true,
+                              "broadcastLinks": [
+                                {
+                                  "url": "https://www.twitch.tv/hcs",
+                                  "name": "HCS",
+                                  "publicId": "a4806fb6-d289-4663-b535-aae4030810fd",
+                                  "tournamentId": null
+                                },
+                                {
+                                  "url": "https://www.youtube.com/c/HaloEsportsHCS",
+                                  "name": "HCS YouTube",
+                                  "publicId": "d19de06d-f144-491b-ba5d-42b2c7f5bccb",
+                                  "tournamentId": null
+                                }
+                              ]
+                            },
+                            {
+                              "publicId": "b3941014-ad8c-4902-9908-24b892680fad",
+                              "matchNum": "Pool 1 - 16 vs 8",
+                              "actualStartTime": null,
+                              "actualEndTime": null,
+                              "verifiedTime": null,
+                              "status": "Waiting to be Announced",
+                              "teams": [
+                                {
+                                  "publicId": "684f7b00-f40f-4905-af0f-198dfd4bc9b8",
+                                  "creationDate": "2023-01-23T19:36:29Z",
+                                  "updatedDate": "2023-02-23T17:54:58Z",
+                                  "deletedAt": null,
+                                  "name": "Shopify Rebellion",
+                                  "creationReason": "boughtPass",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/684f7b00-f40f-4905-af0f-198dfd4bc9b8.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 8
+                                }
+                              ],
+                              "result": null,
+                              "projectedStartTime": "2023-02-25T18:00:00Z",
+                              "isBroadcast": false,
+                              "broadcastLinks": []
+                            },
+                            {
+                              "publicId": "1de023f3-d0f4-4440-b327-92d8046055c1",
+                              "matchNum": "Pool 1 - 1 vs 8",
+                              "actualStartTime": null,
+                              "actualEndTime": null,
+                              "verifiedTime": null,
+                              "status": "Waiting to be Announced",
+                              "teams": [
+                                {
+                                  "publicId": "8d44fe10-b042-4d21-af0c-5f9930783067",
+                                  "creationDate": "2023-02-16T19:15:05Z",
+                                  "updatedDate": "2023-02-23T18:58:28Z",
+                                  "deletedAt": null,
+                                  "name": "FaZe Clan",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/8d44fe10-b042-4d21-af0c-5f9930783067.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 1
+                                },
+                                {
+                                  "publicId": "684f7b00-f40f-4905-af0f-198dfd4bc9b8",
+                                  "creationDate": "2023-01-23T19:36:29Z",
+                                  "updatedDate": "2023-02-23T17:54:58Z",
+                                  "deletedAt": null,
+                                  "name": "Shopify Rebellion",
+                                  "creationReason": "boughtPass",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/684f7b00-f40f-4905-af0f-198dfd4bc9b8.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 8
+                                }
+                              ],
+                              "result": null,
+                              "projectedStartTime": "2023-02-24T21:30:00Z",
+                              "isBroadcast": true,
+                              "broadcastLinks": [
+                                {
+                                  "url": "https://www.youtube.com/c/HaloEsportsHCS",
+                                  "name": "HCS YouTube",
+                                  "publicId": "d19de06d-f144-491b-ba5d-42b2c7f5bccb",
+                                  "tournamentId": null
+                                },
+                                {
+                                  "url": "https://www.twitch.tv/halo",
+                                  "name": "Halo",
+                                  "publicId": "68daedbc-dfdd-400e-91bc-c49fdd9ab806",
+                                  "tournamentId": null
+                                }
+                              ]
+                            },
+                            {
+                              "publicId": "795a1cfb-bf4b-4bb2-a547-10058459f0ac",
+                              "matchNum": "Pool 1 - 9 vs 16",
+                              "actualStartTime": null,
+                              "actualEndTime": null,
+                              "verifiedTime": null,
+                              "status": "Waiting to be Announced",
+                              "teams": [
+                                {
+                                  "publicId": "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2",
+                                  "creationDate": "2023-02-16T22:36:34Z",
+                                  "updatedDate": "2023-02-23T17:31:14Z",
+                                  "deletedAt": null,
+                                  "name": "NaVi",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 9
+                                }
+                              ],
+                              "result": null,
+                              "projectedStartTime": "2023-02-25T16:30:00Z",
+                              "isBroadcast": false,
+                              "broadcastLinks": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "teams": [
+                        {
+                          "placement": 1,
+                          "wins": 0,
+                          "losses": 0,
+                          "locked": false,
+                          "roster": {
+                            "publicId": "f38eea13-f027-467a-9f3a-e24630d25bf2",
+                            "creationDate": "2023-02-16T19:18:52Z",
+                            "updatedDate": "2023-02-23T20:38:48Z",
+                            "deletedAt": null,
+                            "name": "OpTic Gaming",
+                            "creationReason": "adminCreated",
+                            "status": "checkedIn",
+                            "locked": true,
+                            "nameLocked": true,
+                            "disabled": false,
+                            "acceptedRules": true,
+                            "logoURL": "https://assets.esportsengine.co/logos/f38eea13-f027-467a-9f3a-e24630d25bf2.png",
+                            "hasPendingLogo": false,
+                            "imageUploadEnabled": true,
+                            "seedNumber": 2
+                          }
+                        },
+                        {
+                          "placement": 2,
+                          "wins": 0,
+                          "losses": 0,
+                          "locked": false,
+                          "roster": {
+                            "publicId": "b8fbeb83-109d-424b-bb13-304647094df7",
+                            "creationDate": "2023-02-16T22:29:25Z",
+                            "updatedDate": "2023-02-23T21:18:34Z",
+                            "deletedAt": null,
+                            "name": "Sentinels",
+                            "creationReason": "adminCreated",
+                            "status": "checkedIn",
+                            "locked": true,
+                            "nameLocked": true,
+                            "disabled": false,
+                            "acceptedRules": true,
+                            "logoURL": "https://assets.esportsengine.co/logos/b8fbeb83-109d-424b-bb13-304647094df7.png",
+                            "hasPendingLogo": false,
+                            "imageUploadEnabled": true,
+                            "seedNumber": 7
+                          }
+                        },
+                        {
+                          "placement": 3,
+                          "wins": 0,
+                          "losses": 0,
+                          "locked": false,
+                          "roster": {
+                            "publicId": "5a43bf41-e26c-4da5-a916-b791ca4d33d6",
+                            "creationDate": "2023-02-16T22:49:11Z",
+                            "updatedDate": "2023-02-23T17:31:31Z",
+                            "deletedAt": null,
+                            "name": "Quadrant",
+                            "creationReason": "adminCreated",
+                            "status": "checkedIn",
+                            "locked": true,
+                            "nameLocked": true,
+                            "disabled": false,
+                            "acceptedRules": true,
+                            "logoURL": "https://assets.esportsengine.co/logos/5a43bf41-e26c-4da5-a916-b791ca4d33d6.png",
+                            "hasPendingLogo": false,
+                            "imageUploadEnabled": true,
+                            "seedNumber": 10
+                          }
+                        },
+                        {
+                          "placement": 4,
+                          "wins": 0,
+                          "losses": 0,
+                          "locked": false,
+                          "roster": {
+                            "seedNumber": 15,
+                            "name": "To Be Determined",
+                            "publicId": "toBeDeterminedRoster15",
+                            "creationDate": "",
+                            "updatedDate": "",
+                            "deletedAt": "",
+                            "creationReason": "adminCreated",
+                            "status": "complete",
+                            "locked": true,
+                            "nameLocked": true,
+                            "disabled": false,
+                            "acceptedRules": true,
+                            "logoURL": null,
+                            "hasPendingLogo": true
+                          }
+                        }
+                      ],
+                      "rounds": [
+                        {
+                          "id": 232,
+                          "roundNum": 1,
+                          "matches": [
+                            {
+                              "publicId": "7b67c3c4-1a10-4e53-afd3-d4ad56acf79c",
+                              "matchNum": "Pool 2 - 2 vs 15",
+                              "actualStartTime": null,
+                              "actualEndTime": null,
+                              "verifiedTime": null,
+                              "status": "Waiting to be Announced",
+                              "teams": [
+                                {
+                                  "publicId": "f38eea13-f027-467a-9f3a-e24630d25bf2",
+                                  "creationDate": "2023-02-16T19:18:52Z",
+                                  "updatedDate": "2023-02-23T20:38:48Z",
+                                  "deletedAt": null,
+                                  "name": "OpTic Gaming",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/f38eea13-f027-467a-9f3a-e24630d25bf2.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 2
+                                }
+                              ],
+                              "result": null,
+                              "projectedStartTime": "2023-02-25T16:30:00Z",
+                              "isBroadcast": false,
+                              "broadcastLinks": []
+                            },
+                            {
+                              "publicId": "4233bf61-5892-401d-b977-81869804c378",
+                              "matchNum": "Pool 2 - 7 vs 10",
+                              "actualStartTime": null,
+                              "actualEndTime": null,
+                              "verifiedTime": null,
+                              "status": "Waiting to be Announced",
+                              "teams": [
+                                {
+                                  "publicId": "b8fbeb83-109d-424b-bb13-304647094df7",
+                                  "creationDate": "2023-02-16T22:29:25Z",
+                                  "updatedDate": "2023-02-23T21:18:34Z",
+                                  "deletedAt": null,
+                                  "name": "Sentinels",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/b8fbeb83-109d-424b-bb13-304647094df7.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 7
+                                },
+                                {
+                                  "publicId": "5a43bf41-e26c-4da5-a916-b791ca4d33d6",
+                                  "creationDate": "2023-02-16T22:49:11Z",
+                                  "updatedDate": "2023-02-23T17:31:31Z",
+                                  "deletedAt": null,
+                                  "name": "Quadrant",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/5a43bf41-e26c-4da5-a916-b791ca4d33d6.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 10
+                                }
+                              ],
+                              "result": null,
+                              "projectedStartTime": "2023-02-24T20:00:00Z",
+                              "isBroadcast": true,
+                              "broadcastLinks": [
+                                {
+                                  "url": "https://www.youtube.com/c/HaloEsportsHCS",
+                                  "name": "HCS YouTube",
+                                  "publicId": "d19de06d-f144-491b-ba5d-42b2c7f5bccb",
+                                  "tournamentId": null
+                                },
+                                {
+                                  "url": "https://www.twitch.tv/halo",
+                                  "name": "Halo",
+                                  "publicId": "68daedbc-dfdd-400e-91bc-c49fdd9ab806",
+                                  "tournamentId": null
+                                }
+                              ]
+                            },
+                            {
+                              "publicId": "cddf59c3-2915-4dc1-9d5a-78a15caa30ee",
+                              "matchNum": "Pool 2 - 2 vs 10",
+                              "actualStartTime": null,
+                              "actualEndTime": null,
+                              "verifiedTime": null,
+                              "status": "Waiting to be Announced",
+                              "teams": [
+                                {
+                                  "publicId": "f38eea13-f027-467a-9f3a-e24630d25bf2",
+                                  "creationDate": "2023-02-16T19:18:52Z",
+                                  "updatedDate": "2023-02-23T20:38:48Z",
+                                  "deletedAt": null,
+                                  "name": "OpTic Gaming",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/f38eea13-f027-467a-9f3a-e24630d25bf2.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 2
+                                },
+                                {
+                                  "publicId": "5a43bf41-e26c-4da5-a916-b791ca4d33d6",
+                                  "creationDate": "2023-02-16T22:49:11Z",
+                                  "updatedDate": "2023-02-23T17:31:31Z",
+                                  "deletedAt": null,
+                                  "name": "Quadrant",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/5a43bf41-e26c-4da5-a916-b791ca4d33d6.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 10
+                                }
+                              ],
+                              "result": null,
+                              "projectedStartTime": "2023-02-24T21:30:00Z",
+                              "isBroadcast": true,
+                              "broadcastLinks": [
+                                {
+                                  "url": "https://www.youtube.com/c/HaloEsportsHCS",
+                                  "name": "HCS YouTube",
+                                  "publicId": "d19de06d-f144-491b-ba5d-42b2c7f5bccb",
+                                  "tournamentId": null
+                                },
+                                {
+                                  "url": "https://www.twitch.tv/hcs",
+                                  "name": "HCS",
+                                  "publicId": "a4806fb6-d289-4663-b535-aae4030810fd",
+                                  "tournamentId": null
+                                }
+                              ]
+                            },
+                            {
+                              "publicId": "dd6b99ae-6010-4b9e-ac5d-eccd0e15ae48",
+                              "matchNum": "Pool 2 - 15 vs 7",
+                              "actualStartTime": null,
+                              "actualEndTime": null,
+                              "verifiedTime": null,
+                              "status": "Waiting to be Announced",
+                              "teams": [
+                                {
+                                  "publicId": "b8fbeb83-109d-424b-bb13-304647094df7",
+                                  "creationDate": "2023-02-16T22:29:25Z",
+                                  "updatedDate": "2023-02-23T21:18:34Z",
+                                  "deletedAt": null,
+                                  "name": "Sentinels",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/b8fbeb83-109d-424b-bb13-304647094df7.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 7
+                                }
+                              ],
+                              "result": null,
+                              "projectedStartTime": "2023-02-25T15:00:00Z",
+                              "isBroadcast": false,
+                              "broadcastLinks": []
+                            },
+                            {
+                              "publicId": "ddc056fa-077e-4ec6-a202-ee51d7fc5e3c",
+                              "matchNum": "Pool 2 - 2 vs 7",
+                              "actualStartTime": null,
+                              "actualEndTime": null,
+                              "verifiedTime": null,
+                              "status": "Waiting to be Announced",
+                              "teams": [
+                                {
+                                  "publicId": "f38eea13-f027-467a-9f3a-e24630d25bf2",
+                                  "creationDate": "2023-02-16T19:18:52Z",
+                                  "updatedDate": "2023-02-23T20:38:48Z",
+                                  "deletedAt": null,
+                                  "name": "OpTic Gaming",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/f38eea13-f027-467a-9f3a-e24630d25bf2.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 2
+                                },
+                                {
+                                  "publicId": "b8fbeb83-109d-424b-bb13-304647094df7",
+                                  "creationDate": "2023-02-16T22:29:25Z",
+                                  "updatedDate": "2023-02-23T21:18:34Z",
+                                  "deletedAt": null,
+                                  "name": "Sentinels",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/b8fbeb83-109d-424b-bb13-304647094df7.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 7
+                                }
+                              ],
+                              "result": null,
+                              "projectedStartTime": "2023-02-24T17:00:00Z",
+                              "isBroadcast": true,
+                              "broadcastLinks": [
+                                {
+                                  "url": "https://www.twitch.tv/halo",
+                                  "name": "Halo",
+                                  "publicId": "68daedbc-dfdd-400e-91bc-c49fdd9ab806",
+                                  "tournamentId": null
+                                },
+                                {
+                                  "url": "https://www.youtube.com/c/HaloEsportsHCS",
+                                  "name": "HCS YouTube",
+                                  "publicId": "d19de06d-f144-491b-ba5d-42b2c7f5bccb",
+                                  "tournamentId": null
+                                }
+                              ]
+                            },
+                            {
+                              "publicId": "c1c096db-b0b4-4d46-b925-a0633bb7eed1",
+                              "matchNum": "Pool 2 - 10 vs 15",
+                              "actualStartTime": null,
+                              "actualEndTime": null,
+                              "verifiedTime": null,
+                              "status": "Waiting to be Announced",
+                              "teams": [
+                                {
+                                  "publicId": "5a43bf41-e26c-4da5-a916-b791ca4d33d6",
+                                  "creationDate": "2023-02-16T22:49:11Z",
+                                  "updatedDate": "2023-02-23T17:31:31Z",
+                                  "deletedAt": null,
+                                  "name": "Quadrant",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/5a43bf41-e26c-4da5-a916-b791ca4d33d6.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 10
+                                }
+                              ],
+                              "result": null,
+                              "projectedStartTime": "2023-02-25T16:30:00Z",
+                              "isBroadcast": false,
+                              "broadcastLinks": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "teams": [
+                        {
+                          "placement": 1,
+                          "wins": 0,
+                          "losses": 0,
+                          "locked": false,
+                          "roster": {
+                            "publicId": "ee4cc932-1be9-47c6-ab0c-ddcd60f9a81b",
+                            "creationDate": "2023-02-03T20:03:21Z",
+                            "updatedDate": "2023-02-23T17:39:51Z",
+                            "deletedAt": null,
+                            "name": "G1",
+                            "creationReason": "boughtPass",
+                            "status": "checkedIn",
+                            "locked": true,
+                            "nameLocked": true,
+                            "disabled": false,
+                            "acceptedRules": true,
+                            "logoURL": "https://assets.esportsengine.co/logos/ee4cc932-1be9-47c6-ab0c-ddcd60f9a81b.png",
+                            "hasPendingLogo": false,
+                            "imageUploadEnabled": true,
+                            "seedNumber": 3
+                          }
+                        },
+                        {
+                          "placement": 2,
+                          "wins": 0,
+                          "losses": 0,
+                          "locked": false,
+                          "roster": {
+                            "publicId": "935be205-2642-4a00-b70b-cf4989365fcb",
+                            "creationDate": "2023-02-16T22:26:01Z",
+                            "updatedDate": "2023-02-23T20:38:24Z",
+                            "deletedAt": null,
+                            "name": "Believe the Hype",
+                            "creationReason": "adminCreated",
+                            "status": "checkedIn",
+                            "locked": true,
+                            "nameLocked": true,
+                            "disabled": false,
+                            "acceptedRules": true,
+                            "logoURL": "https://assets.esportsengine.co/logos/935be205-2642-4a00-b70b-cf4989365fcb.png",
+                            "hasPendingLogo": false,
+                            "imageUploadEnabled": true,
+                            "seedNumber": 6
+                          }
+                        },
+                        {
+                          "placement": 3,
+                          "wins": 0,
+                          "losses": 0,
+                          "locked": false,
+                          "roster": {
+                            "publicId": "2f9b6387-49b0-48b1-8bee-3bf29ddc8e60",
+                            "creationDate": "2023-02-16T22:51:53Z",
+                            "updatedDate": "2023-02-23T17:31:48Z",
+                            "deletedAt": null,
+                            "name": "Luminosity Gaming",
+                            "creationReason": "adminCreated",
+                            "status": "checkedIn",
+                            "locked": true,
+                            "nameLocked": true,
+                            "disabled": false,
+                            "acceptedRules": true,
+                            "logoURL": "https://assets.esportsengine.co/logos/2f9b6387-49b0-48b1-8bee-3bf29ddc8e60.png",
+                            "hasPendingLogo": false,
+                            "imageUploadEnabled": true,
+                            "seedNumber": 11
+                          }
+                        },
+                        {
+                          "placement": 4,
+                          "wins": 0,
+                          "losses": 0,
+                          "locked": false,
+                          "roster": {
+                            "seedNumber": 14,
+                            "name": "To Be Determined",
+                            "publicId": "toBeDeterminedRoster14",
+                            "creationDate": "",
+                            "updatedDate": "",
+                            "deletedAt": "",
+                            "creationReason": "adminCreated",
+                            "status": "complete",
+                            "locked": true,
+                            "nameLocked": true,
+                            "disabled": false,
+                            "acceptedRules": true,
+                            "logoURL": null,
+                            "hasPendingLogo": true
+                          }
+                        }
+                      ],
+                      "rounds": [
+                        {
+                          "id": 232,
+                          "roundNum": 1,
+                          "matches": [
+                            {
+                              "publicId": "b66be22a-ec18-4987-8ca8-7bbd4134de2b",
+                              "matchNum": "Pool 3 - 3 vs 14",
+                              "actualStartTime": null,
+                              "actualEndTime": null,
+                              "verifiedTime": null,
+                              "status": "Waiting to be Announced",
+                              "teams": [
+                                {
+                                  "publicId": "ee4cc932-1be9-47c6-ab0c-ddcd60f9a81b",
+                                  "creationDate": "2023-02-03T20:03:21Z",
+                                  "updatedDate": "2023-02-23T17:39:51Z",
+                                  "deletedAt": null,
+                                  "name": "G1",
+                                  "creationReason": "boughtPass",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/ee4cc932-1be9-47c6-ab0c-ddcd60f9a81b.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 3
+                                }
+                              ],
+                              "result": null,
+                              "projectedStartTime": "2023-02-25T18:00:00Z",
+                              "isBroadcast": false,
+                              "broadcastLinks": []
+                            },
+                            {
+                              "publicId": "8d3c0548-aa77-46d4-85d7-ca5ad3e19e76",
+                              "matchNum": "Pool 3 - 6 vs 11",
+                              "actualStartTime": null,
+                              "actualEndTime": null,
+                              "verifiedTime": null,
+                              "status": "Waiting to be Announced",
+                              "teams": [
+                                {
+                                  "publicId": "935be205-2642-4a00-b70b-cf4989365fcb",
+                                  "creationDate": "2023-02-16T22:26:01Z",
+                                  "updatedDate": "2023-02-23T20:38:24Z",
+                                  "deletedAt": null,
+                                  "name": "Believe the Hype",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/935be205-2642-4a00-b70b-cf4989365fcb.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 6
+                                },
+                                {
+                                  "publicId": "2f9b6387-49b0-48b1-8bee-3bf29ddc8e60",
+                                  "creationDate": "2023-02-16T22:51:53Z",
+                                  "updatedDate": "2023-02-23T17:31:48Z",
+                                  "deletedAt": null,
+                                  "name": "Luminosity Gaming",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/2f9b6387-49b0-48b1-8bee-3bf29ddc8e60.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 11
+                                }
+                              ],
+                              "result": null,
+                              "projectedStartTime": "2023-02-24T20:00:00Z",
+                              "isBroadcast": true,
+                              "broadcastLinks": [
+                                {
+                                  "url": "https://www.youtube.com/c/HaloEsportsHCS",
+                                  "name": "HCS YouTube",
+                                  "publicId": "d19de06d-f144-491b-ba5d-42b2c7f5bccb",
+                                  "tournamentId": null
+                                },
+                                {
+                                  "url": "https://www.twitch.tv/hcs",
+                                  "name": "HCS",
+                                  "publicId": "a4806fb6-d289-4663-b535-aae4030810fd",
+                                  "tournamentId": null
+                                }
+                              ]
+                            },
+                            {
+                              "publicId": "7f15fd05-6d3d-4fa9-813f-d1af08df782a",
+                              "matchNum": "Pool 3 - 3 vs 11",
+                              "actualStartTime": null,
+                              "actualEndTime": null,
+                              "verifiedTime": null,
+                              "status": "Waiting to be Announced",
+                              "teams": [
+                                {
+                                  "publicId": "ee4cc932-1be9-47c6-ab0c-ddcd60f9a81b",
+                                  "creationDate": "2023-02-03T20:03:21Z",
+                                  "updatedDate": "2023-02-23T17:39:51Z",
+                                  "deletedAt": null,
+                                  "name": "G1",
+                                  "creationReason": "boughtPass",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/ee4cc932-1be9-47c6-ab0c-ddcd60f9a81b.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 3
+                                },
+                                {
+                                  "publicId": "2f9b6387-49b0-48b1-8bee-3bf29ddc8e60",
+                                  "creationDate": "2023-02-16T22:51:53Z",
+                                  "updatedDate": "2023-02-23T17:31:48Z",
+                                  "deletedAt": null,
+                                  "name": "Luminosity Gaming",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/2f9b6387-49b0-48b1-8bee-3bf29ddc8e60.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 11
+                                }
+                              ],
+                              "result": null,
+                              "projectedStartTime": "2023-02-24T18:30:00Z",
+                              "isBroadcast": true,
+                              "broadcastLinks": [
+                                {
+                                  "url": "https://www.youtube.com/c/HaloEsportsHCS",
+                                  "name": "HCS YouTube",
+                                  "publicId": "d19de06d-f144-491b-ba5d-42b2c7f5bccb",
+                                  "tournamentId": null
+                                },
+                                {
+                                  "url": "https://www.twitch.tv/hcs",
+                                  "name": "HCS",
+                                  "publicId": "a4806fb6-d289-4663-b535-aae4030810fd",
+                                  "tournamentId": null
+                                }
+                              ]
+                            },
+                            {
+                              "publicId": "8031aa73-4d33-42c1-95a6-e99b58654912",
+                              "matchNum": "Pool 3 - 14 vs 6",
+                              "actualStartTime": null,
+                              "actualEndTime": null,
+                              "verifiedTime": null,
+                              "status": "Waiting to be Announced",
+                              "teams": [
+                                {
+                                  "publicId": "935be205-2642-4a00-b70b-cf4989365fcb",
+                                  "creationDate": "2023-02-16T22:26:01Z",
+                                  "updatedDate": "2023-02-23T20:38:24Z",
+                                  "deletedAt": null,
+                                  "name": "Believe the Hype",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/935be205-2642-4a00-b70b-cf4989365fcb.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 6
+                                }
+                              ],
+                              "result": null,
+                              "projectedStartTime": "2023-02-25T15:00:00Z",
+                              "isBroadcast": false,
+                              "broadcastLinks": []
+                            },
+                            {
+                              "publicId": "da99efe6-d664-40a7-96eb-279c4af422d1",
+                              "matchNum": "Pool 3 - 3 vs 6",
+                              "actualStartTime": null,
+                              "actualEndTime": null,
+                              "verifiedTime": null,
+                              "status": "Waiting to be Announced",
+                              "teams": [
+                                {
+                                  "publicId": "ee4cc932-1be9-47c6-ab0c-ddcd60f9a81b",
+                                  "creationDate": "2023-02-03T20:03:21Z",
+                                  "updatedDate": "2023-02-23T17:39:51Z",
+                                  "deletedAt": null,
+                                  "name": "G1",
+                                  "creationReason": "boughtPass",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/ee4cc932-1be9-47c6-ab0c-ddcd60f9a81b.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 3
+                                },
+                                {
+                                  "publicId": "935be205-2642-4a00-b70b-cf4989365fcb",
+                                  "creationDate": "2023-02-16T22:26:01Z",
+                                  "updatedDate": "2023-02-23T20:38:24Z",
+                                  "deletedAt": null,
+                                  "name": "Believe the Hype",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/935be205-2642-4a00-b70b-cf4989365fcb.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 6
+                                }
+                              ],
+                              "result": null,
+                              "projectedStartTime": "2023-02-24T23:00:00Z",
+                              "isBroadcast": true,
+                              "broadcastLinks": [
+                                {
+                                  "url": "https://www.youtube.com/c/HaloEsportsHCS",
+                                  "name": "HCS YouTube",
+                                  "publicId": "d19de06d-f144-491b-ba5d-42b2c7f5bccb",
+                                  "tournamentId": null
+                                },
+                                {
+                                  "url": "https://www.twitch.tv/halo",
+                                  "name": "Halo",
+                                  "publicId": "68daedbc-dfdd-400e-91bc-c49fdd9ab806",
+                                  "tournamentId": null
+                                }
+                              ]
+                            },
+                            {
+                              "publicId": "a375bc19-aaa3-4c55-ae65-627d87be5196",
+                              "matchNum": "Pool 3 - 11 vs 14",
+                              "actualStartTime": null,
+                              "actualEndTime": null,
+                              "verifiedTime": null,
+                              "status": "Waiting to be Announced",
+                              "teams": [
+                                {
+                                  "publicId": "2f9b6387-49b0-48b1-8bee-3bf29ddc8e60",
+                                  "creationDate": "2023-02-16T22:51:53Z",
+                                  "updatedDate": "2023-02-23T17:31:48Z",
+                                  "deletedAt": null,
+                                  "name": "Luminosity Gaming",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/2f9b6387-49b0-48b1-8bee-3bf29ddc8e60.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 11
+                                }
+                              ],
+                              "result": null,
+                              "projectedStartTime": "2023-02-25T16:30:00Z",
+                              "isBroadcast": false,
+                              "broadcastLinks": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "teams": [
+                        {
+                          "placement": 1,
+                          "wins": 0,
+                          "losses": 0,
+                          "locked": false,
+                          "roster": {
+                            "publicId": "51e9a5f5-660f-4677-81e0-af24c5869d51",
+                            "creationDate": "2023-02-13T03:02:27Z",
+                            "updatedDate": "2023-02-24T14:40:42Z",
+                            "deletedAt": null,
+                            "name": "TSS Esports",
+                            "creationReason": "boughtPass",
+                            "status": "checkedIn",
+                            "locked": true,
+                            "nameLocked": true,
+                            "disabled": false,
+                            "acceptedRules": true,
+                            "logoURL": null,
+                            "hasPendingLogo": false,
+                            "imageUploadEnabled": true,
+                            "seedNumber": 4
+                          }
+                        },
+                        {
+                          "placement": 2,
+                          "wins": 0,
+                          "losses": 0,
+                          "locked": false,
+                          "roster": {
+                            "publicId": "393c68a8-1428-4324-9d93-360c5ee0b0a0",
+                            "creationDate": "2023-02-16T19:22:42Z",
+                            "updatedDate": "2023-02-23T17:18:53Z",
+                            "deletedAt": null,
+                            "name": "Spacestation Gaming",
+                            "creationReason": "adminCreated",
+                            "status": "checkedIn",
+                            "locked": true,
+                            "nameLocked": true,
+                            "disabled": false,
+                            "acceptedRules": true,
+                            "logoURL": "https://assets.esportsengine.co/logos/393c68a8-1428-4324-9d93-360c5ee0b0a0.png",
+                            "hasPendingLogo": false,
+                            "imageUploadEnabled": true,
+                            "seedNumber": 5
+                          }
+                        },
+                        {
+                          "placement": 3,
+                          "wins": 0,
+                          "losses": 0,
+                          "locked": false,
+                          "roster": {
+                            "publicId": "ec9751f9-553a-471a-b694-08bf8b81eef6",
+                            "creationDate": "2023-02-16T22:52:37Z",
+                            "updatedDate": "2023-02-23T17:31:59Z",
+                            "deletedAt": null,
+                            "name": "Divine Mind",
+                            "creationReason": "adminCreated",
+                            "status": "checkedIn",
+                            "locked": true,
+                            "nameLocked": true,
+                            "disabled": false,
+                            "acceptedRules": true,
+                            "logoURL": "https://assets.esportsengine.co/logos/ec9751f9-553a-471a-b694-08bf8b81eef6.png",
+                            "hasPendingLogo": false,
+                            "imageUploadEnabled": true,
+                            "seedNumber": 12
+                          }
+                        },
+                        {
+                          "placement": 4,
+                          "wins": 0,
+                          "losses": 0,
+                          "locked": false,
+                          "roster": {
+                            "seedNumber": 13,
+                            "name": "To Be Determined",
+                            "publicId": "toBeDeterminedRoster13",
+                            "creationDate": "",
+                            "updatedDate": "",
+                            "deletedAt": "",
+                            "creationReason": "adminCreated",
+                            "status": "complete",
+                            "locked": true,
+                            "nameLocked": true,
+                            "disabled": false,
+                            "acceptedRules": true,
+                            "logoURL": null,
+                            "hasPendingLogo": true
+                          }
+                        }
+                      ],
+                      "rounds": [
+                        {
+                          "id": 232,
+                          "roundNum": 1,
+                          "matches": [
+                            {
+                              "publicId": "411d2a30-fe18-4f35-961e-ed4229bece83",
+                              "matchNum": "Pool 4 - 4 vs 13",
+                              "actualStartTime": null,
+                              "actualEndTime": null,
+                              "verifiedTime": null,
+                              "status": "Waiting to be Announced",
+                              "teams": [
+                                {
+                                  "publicId": "51e9a5f5-660f-4677-81e0-af24c5869d51",
+                                  "creationDate": "2023-02-13T03:02:27Z",
+                                  "updatedDate": "2023-02-24T14:40:42Z",
+                                  "deletedAt": null,
+                                  "name": "TSS Esports",
+                                  "creationReason": "boughtPass",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": null,
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 4
+                                }
+                              ],
+                              "result": null,
+                              "projectedStartTime": "2023-02-25T15:00:00Z",
+                              "isBroadcast": false,
+                              "broadcastLinks": []
+                            },
+                            {
+                              "publicId": "9d626877-352e-441a-9ec4-798d6c47f3dc",
+                              "matchNum": "Pool 4 - 5 vs 12",
+                              "actualStartTime": null,
+                              "actualEndTime": null,
+                              "verifiedTime": null,
+                              "status": "Waiting to be Announced",
+                              "teams": [
+                                {
+                                  "publicId": "393c68a8-1428-4324-9d93-360c5ee0b0a0",
+                                  "creationDate": "2023-02-16T19:22:42Z",
+                                  "updatedDate": "2023-02-23T17:18:53Z",
+                                  "deletedAt": null,
+                                  "name": "Spacestation Gaming",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/393c68a8-1428-4324-9d93-360c5ee0b0a0.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 5
+                                },
+                                {
+                                  "publicId": "ec9751f9-553a-471a-b694-08bf8b81eef6",
+                                  "creationDate": "2023-02-16T22:52:37Z",
+                                  "updatedDate": "2023-02-23T17:31:59Z",
+                                  "deletedAt": null,
+                                  "name": "Divine Mind",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/ec9751f9-553a-471a-b694-08bf8b81eef6.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 12
+                                }
+                              ],
+                              "result": null,
+                              "projectedStartTime": "2023-02-24T20:00:00Z",
+                              "isBroadcast": true,
+                              "broadcastLinks": [
+                                {
+                                  "url": "https://www.youtube.com/c/HaloEsportsHCS",
+                                  "name": "HCS YouTube",
+                                  "publicId": "d19de06d-f144-491b-ba5d-42b2c7f5bccb",
+                                  "tournamentId": null
+                                },
+                                {
+                                  "url": "https://www.twitch.tv/hcs_red",
+                                  "name": "HCS Red",
+                                  "publicId": "f9a5d524-7b43-40bd-868b-ce1aed17990a",
+                                  "tournamentId": null
+                                }
+                              ]
+                            },
+                            {
+                              "publicId": "1ed55727-4663-4fa7-bd30-db8adfcd891d",
+                              "matchNum": "Pool 4 - 4 vs 12",
+                              "actualStartTime": null,
+                              "actualEndTime": null,
+                              "verifiedTime": null,
+                              "status": "Waiting to be Announced",
+                              "teams": [
+                                {
+                                  "publicId": "51e9a5f5-660f-4677-81e0-af24c5869d51",
+                                  "creationDate": "2023-02-13T03:02:27Z",
+                                  "updatedDate": "2023-02-24T14:40:42Z",
+                                  "deletedAt": null,
+                                  "name": "TSS Esports",
+                                  "creationReason": "boughtPass",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": null,
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 4
+                                },
+                                {
+                                  "publicId": "ec9751f9-553a-471a-b694-08bf8b81eef6",
+                                  "creationDate": "2023-02-16T22:52:37Z",
+                                  "updatedDate": "2023-02-23T17:31:59Z",
+                                  "deletedAt": null,
+                                  "name": "Divine Mind",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/ec9751f9-553a-471a-b694-08bf8b81eef6.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 12
+                                }
+                              ],
+                              "result": null,
+                              "projectedStartTime": "2023-02-24T18:30:00Z",
+                              "isBroadcast": true,
+                              "broadcastLinks": [
+                                {
+                                  "url": "https://www.youtube.com/c/HaloEsportsHCS",
+                                  "name": "HCS YouTube",
+                                  "publicId": "d19de06d-f144-491b-ba5d-42b2c7f5bccb",
+                                  "tournamentId": null
+                                },
+                                {
+                                  "url": "https://www.twitch.tv/hcs_red",
+                                  "name": "HCS Red",
+                                  "publicId": "f9a5d524-7b43-40bd-868b-ce1aed17990a",
+                                  "tournamentId": null
+                                }
+                              ]
+                            },
+                            {
+                              "publicId": "5a30ca77-8329-4537-80ba-7e0643cda094",
+                              "matchNum": "Pool 4 - 13 vs 5",
+                              "actualStartTime": null,
+                              "actualEndTime": null,
+                              "verifiedTime": null,
+                              "status": "Waiting to be Announced",
+                              "teams": [
+                                {
+                                  "publicId": "393c68a8-1428-4324-9d93-360c5ee0b0a0",
+                                  "creationDate": "2023-02-16T19:22:42Z",
+                                  "updatedDate": "2023-02-23T17:18:53Z",
+                                  "deletedAt": null,
+                                  "name": "Spacestation Gaming",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/393c68a8-1428-4324-9d93-360c5ee0b0a0.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 5
+                                }
+                              ],
+                              "result": null,
+                              "projectedStartTime": "2023-02-25T18:00:00Z",
+                              "isBroadcast": false,
+                              "broadcastLinks": []
+                            },
+                            {
+                              "publicId": "7e5804c0-9541-4a28-9151-83b6df118bbf",
+                              "matchNum": "Pool 4 - 4 vs 5",
+                              "actualStartTime": null,
+                              "actualEndTime": null,
+                              "verifiedTime": null,
+                              "status": "Waiting to be Announced",
+                              "teams": [
+                                {
+                                  "publicId": "51e9a5f5-660f-4677-81e0-af24c5869d51",
+                                  "creationDate": "2023-02-13T03:02:27Z",
+                                  "updatedDate": "2023-02-24T14:40:42Z",
+                                  "deletedAt": null,
+                                  "name": "TSS Esports",
+                                  "creationReason": "boughtPass",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": null,
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 4
+                                },
+                                {
+                                  "publicId": "393c68a8-1428-4324-9d93-360c5ee0b0a0",
+                                  "creationDate": "2023-02-16T19:22:42Z",
+                                  "updatedDate": "2023-02-23T17:18:53Z",
+                                  "deletedAt": null,
+                                  "name": "Spacestation Gaming",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/393c68a8-1428-4324-9d93-360c5ee0b0a0.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 5
+                                }
+                              ],
+                              "result": null,
+                              "projectedStartTime": "2023-02-24T23:00:00Z",
+                              "isBroadcast": true,
+                              "broadcastLinks": [
+                                {
+                                  "url": "https://www.youtube.com/c/HaloEsportsHCS",
+                                  "name": "HCS YouTube",
+                                  "publicId": "d19de06d-f144-491b-ba5d-42b2c7f5bccb",
+                                  "tournamentId": null
+                                },
+                                {
+                                  "url": "https://www.twitch.tv/hcs",
+                                  "name": "HCS",
+                                  "publicId": "a4806fb6-d289-4663-b535-aae4030810fd",
+                                  "tournamentId": null
+                                }
+                              ]
+                            },
+                            {
+                              "publicId": "fee1fc58-2b92-416e-a362-a9ee9b8b62e8",
+                              "matchNum": "Pool 4 - 12 vs 13",
+                              "actualStartTime": null,
+                              "actualEndTime": null,
+                              "verifiedTime": null,
+                              "status": "Waiting to be Announced",
+                              "teams": [
+                                {
+                                  "publicId": "ec9751f9-553a-471a-b694-08bf8b81eef6",
+                                  "creationDate": "2023-02-16T22:52:37Z",
+                                  "updatedDate": "2023-02-23T17:31:59Z",
+                                  "deletedAt": null,
+                                  "name": "Divine Mind",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/ec9751f9-553a-471a-b694-08bf8b81eef6.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 12
+                                }
+                              ],
+                              "result": null,
+                              "projectedStartTime": "2023-02-25T18:00:00Z",
+                              "isBroadcast": false,
+                              "broadcastLinks": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "competitionStatus": "Active",
+                "isBeingBroadcast": true,
+                "phaseSlug": "pool-play"
+              }
+            ],
+            "dataUpdateCount": 1,
+            "dataUpdatedAt": 1677251233572,
+            "error": null,
+            "errorUpdateCount": 0,
+            "errorUpdatedAt": 0,
+            "fetchFailureCount": 0,
+            "fetchMeta": null,
+            "isFetching": false,
+            "isInvalidated": false,
+            "isPaused": false,
+            "status": "success"
+          },
+          "queryKey": [
+            "brackets",
+            "charlotte",
+            "4v4"
+          ],
+          "queryHash": [
+            "brackets",
+            "charlotte",
+            "4v4"
+          ]
+        },
+        {
+          "state": {
+            "data": {
+              "total": 0,
+              "perPage": 25,
+              "currentPage": 1,
+              "lastPage": 1,
+              "results": []
+            },
+            "dataUpdateCount": 1,
+            "dataUpdatedAt": 1677251233630,
+            "error": null,
+            "errorUpdateCount": 0,
+            "errorUpdatedAt": 0,
+            "fetchFailureCount": 0,
+            "fetchMeta": null,
+            "isFetching": false,
+            "isInvalidated": false,
+            "isPaused": false,
+            "status": "success"
+          },
+          "queryKey": [
+            "standings",
+            "charlotte",
+            "4v4",
+            1
+          ],
+          "queryHash": [
+            "standings",
+            "charlotte",
+            "4v4",
+            1
+          ]
+        }
+      ]
+    }
+  },
+  "__N_SSP": true
+}
