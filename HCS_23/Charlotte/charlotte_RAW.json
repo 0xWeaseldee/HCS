@@ -95,7 +95,7 @@
               "eventSlug": "charlotte"
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677251233501,
+            "dataUpdatedAt": 1677255921123,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -441,23 +441,6 @@
                               "status": "Waiting to be Announced",
                               "teams": [
                                 {
-                                  "publicId": "684f7b00-f40f-4905-af0f-198dfd4bc9b8",
-                                  "creationDate": "2023-01-23T19:36:29Z",
-                                  "updatedDate": "2023-02-23T17:54:58Z",
-                                  "deletedAt": null,
-                                  "name": "Shopify Rebellion",
-                                  "creationReason": "boughtPass",
-                                  "status": "checkedIn",
-                                  "locked": true,
-                                  "nameLocked": true,
-                                  "disabled": false,
-                                  "acceptedRules": true,
-                                  "logoURL": "https://assets.esportsengine.co/logos/684f7b00-f40f-4905-af0f-198dfd4bc9b8.png",
-                                  "hasPendingLogo": false,
-                                  "imageUploadEnabled": true,
-                                  "seedNumber": 8
-                                },
-                                {
                                   "publicId": "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2",
                                   "creationDate": "2023-02-16T22:36:34Z",
                                   "updatedDate": "2023-02-23T17:31:14Z",
@@ -473,6 +456,23 @@
                                   "hasPendingLogo": false,
                                   "imageUploadEnabled": true,
                                   "seedNumber": 9
+                                },
+                                {
+                                  "publicId": "684f7b00-f40f-4905-af0f-198dfd4bc9b8",
+                                  "creationDate": "2023-01-23T19:36:29Z",
+                                  "updatedDate": "2023-02-23T17:54:58Z",
+                                  "deletedAt": null,
+                                  "name": "Shopify Rebellion",
+                                  "creationReason": "boughtPass",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/684f7b00-f40f-4905-af0f-198dfd4bc9b8.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 8
                                 }
                               ],
                               "result": null,
@@ -502,23 +502,6 @@
                               "status": "Waiting to be Announced",
                               "teams": [
                                 {
-                                  "publicId": "8d44fe10-b042-4d21-af0c-5f9930783067",
-                                  "creationDate": "2023-02-16T19:15:05Z",
-                                  "updatedDate": "2023-02-23T18:58:28Z",
-                                  "deletedAt": null,
-                                  "name": "FaZe Clan",
-                                  "creationReason": "adminCreated",
-                                  "status": "checkedIn",
-                                  "locked": true,
-                                  "nameLocked": true,
-                                  "disabled": false,
-                                  "acceptedRules": true,
-                                  "logoURL": "https://assets.esportsengine.co/logos/8d44fe10-b042-4d21-af0c-5f9930783067.png",
-                                  "hasPendingLogo": false,
-                                  "imageUploadEnabled": true,
-                                  "seedNumber": 1
-                                },
-                                {
                                   "publicId": "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2",
                                   "creationDate": "2023-02-16T22:36:34Z",
                                   "updatedDate": "2023-02-23T17:31:14Z",
@@ -534,6 +517,23 @@
                                   "hasPendingLogo": false,
                                   "imageUploadEnabled": true,
                                   "seedNumber": 9
+                                },
+                                {
+                                  "publicId": "8d44fe10-b042-4d21-af0c-5f9930783067",
+                                  "creationDate": "2023-02-16T19:15:05Z",
+                                  "updatedDate": "2023-02-23T18:58:28Z",
+                                  "deletedAt": null,
+                                  "name": "FaZe Clan",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/8d44fe10-b042-4d21-af0c-5f9930783067.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 1
                                 }
                               ],
                               "result": null,
@@ -594,23 +594,6 @@
                               "status": "Waiting to be Announced",
                               "teams": [
                                 {
-                                  "publicId": "8d44fe10-b042-4d21-af0c-5f9930783067",
-                                  "creationDate": "2023-02-16T19:15:05Z",
-                                  "updatedDate": "2023-02-23T18:58:28Z",
-                                  "deletedAt": null,
-                                  "name": "FaZe Clan",
-                                  "creationReason": "adminCreated",
-                                  "status": "checkedIn",
-                                  "locked": true,
-                                  "nameLocked": true,
-                                  "disabled": false,
-                                  "acceptedRules": true,
-                                  "logoURL": "https://assets.esportsengine.co/logos/8d44fe10-b042-4d21-af0c-5f9930783067.png",
-                                  "hasPendingLogo": false,
-                                  "imageUploadEnabled": true,
-                                  "seedNumber": 1
-                                },
-                                {
                                   "publicId": "684f7b00-f40f-4905-af0f-198dfd4bc9b8",
                                   "creationDate": "2023-01-23T19:36:29Z",
                                   "updatedDate": "2023-02-23T17:54:58Z",
@@ -626,6 +609,23 @@
                                   "hasPendingLogo": false,
                                   "imageUploadEnabled": true,
                                   "seedNumber": 8
+                                },
+                                {
+                                  "publicId": "8d44fe10-b042-4d21-af0c-5f9930783067",
+                                  "creationDate": "2023-02-16T19:15:05Z",
+                                  "updatedDate": "2023-02-23T18:58:28Z",
+                                  "deletedAt": null,
+                                  "name": "FaZe Clan",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/8d44fe10-b042-4d21-af0c-5f9930783067.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 1
                                 }
                               ],
                               "result": null,
@@ -820,23 +820,6 @@
                               "status": "Waiting to be Announced",
                               "teams": [
                                 {
-                                  "publicId": "b8fbeb83-109d-424b-bb13-304647094df7",
-                                  "creationDate": "2023-02-16T22:29:25Z",
-                                  "updatedDate": "2023-02-23T21:18:34Z",
-                                  "deletedAt": null,
-                                  "name": "Sentinels",
-                                  "creationReason": "adminCreated",
-                                  "status": "checkedIn",
-                                  "locked": true,
-                                  "nameLocked": true,
-                                  "disabled": false,
-                                  "acceptedRules": true,
-                                  "logoURL": "https://assets.esportsengine.co/logos/b8fbeb83-109d-424b-bb13-304647094df7.png",
-                                  "hasPendingLogo": false,
-                                  "imageUploadEnabled": true,
-                                  "seedNumber": 7
-                                },
-                                {
                                   "publicId": "5a43bf41-e26c-4da5-a916-b791ca4d33d6",
                                   "creationDate": "2023-02-16T22:49:11Z",
                                   "updatedDate": "2023-02-23T17:31:31Z",
@@ -852,6 +835,23 @@
                                   "hasPendingLogo": false,
                                   "imageUploadEnabled": true,
                                   "seedNumber": 10
+                                },
+                                {
+                                  "publicId": "b8fbeb83-109d-424b-bb13-304647094df7",
+                                  "creationDate": "2023-02-16T22:29:25Z",
+                                  "updatedDate": "2023-02-23T21:18:34Z",
+                                  "deletedAt": null,
+                                  "name": "Sentinels",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/b8fbeb83-109d-424b-bb13-304647094df7.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 7
                                 }
                               ],
                               "result": null,
@@ -881,23 +881,6 @@
                               "status": "Waiting to be Announced",
                               "teams": [
                                 {
-                                  "publicId": "f38eea13-f027-467a-9f3a-e24630d25bf2",
-                                  "creationDate": "2023-02-16T19:18:52Z",
-                                  "updatedDate": "2023-02-23T20:38:48Z",
-                                  "deletedAt": null,
-                                  "name": "OpTic Gaming",
-                                  "creationReason": "adminCreated",
-                                  "status": "checkedIn",
-                                  "locked": true,
-                                  "nameLocked": true,
-                                  "disabled": false,
-                                  "acceptedRules": true,
-                                  "logoURL": "https://assets.esportsengine.co/logos/f38eea13-f027-467a-9f3a-e24630d25bf2.png",
-                                  "hasPendingLogo": false,
-                                  "imageUploadEnabled": true,
-                                  "seedNumber": 2
-                                },
-                                {
                                   "publicId": "5a43bf41-e26c-4da5-a916-b791ca4d33d6",
                                   "creationDate": "2023-02-16T22:49:11Z",
                                   "updatedDate": "2023-02-23T17:31:31Z",
@@ -913,6 +896,23 @@
                                   "hasPendingLogo": false,
                                   "imageUploadEnabled": true,
                                   "seedNumber": 10
+                                },
+                                {
+                                  "publicId": "f38eea13-f027-467a-9f3a-e24630d25bf2",
+                                  "creationDate": "2023-02-16T19:18:52Z",
+                                  "updatedDate": "2023-02-23T20:38:48Z",
+                                  "deletedAt": null,
+                                  "name": "OpTic Gaming",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/f38eea13-f027-467a-9f3a-e24630d25bf2.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 2
                                 }
                               ],
                               "result": null,
@@ -973,23 +973,6 @@
                               "status": "Waiting to be Announced",
                               "teams": [
                                 {
-                                  "publicId": "f38eea13-f027-467a-9f3a-e24630d25bf2",
-                                  "creationDate": "2023-02-16T19:18:52Z",
-                                  "updatedDate": "2023-02-23T20:38:48Z",
-                                  "deletedAt": null,
-                                  "name": "OpTic Gaming",
-                                  "creationReason": "adminCreated",
-                                  "status": "checkedIn",
-                                  "locked": true,
-                                  "nameLocked": true,
-                                  "disabled": false,
-                                  "acceptedRules": true,
-                                  "logoURL": "https://assets.esportsengine.co/logos/f38eea13-f027-467a-9f3a-e24630d25bf2.png",
-                                  "hasPendingLogo": false,
-                                  "imageUploadEnabled": true,
-                                  "seedNumber": 2
-                                },
-                                {
                                   "publicId": "b8fbeb83-109d-424b-bb13-304647094df7",
                                   "creationDate": "2023-02-16T22:29:25Z",
                                   "updatedDate": "2023-02-23T21:18:34Z",
@@ -1005,6 +988,23 @@
                                   "hasPendingLogo": false,
                                   "imageUploadEnabled": true,
                                   "seedNumber": 7
+                                },
+                                {
+                                  "publicId": "f38eea13-f027-467a-9f3a-e24630d25bf2",
+                                  "creationDate": "2023-02-16T19:18:52Z",
+                                  "updatedDate": "2023-02-23T20:38:48Z",
+                                  "deletedAt": null,
+                                  "name": "OpTic Gaming",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/f38eea13-f027-467a-9f3a-e24630d25bf2.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 2
                                 }
                               ],
                               "result": null,
@@ -1199,23 +1199,6 @@
                               "status": "Waiting to be Announced",
                               "teams": [
                                 {
-                                  "publicId": "935be205-2642-4a00-b70b-cf4989365fcb",
-                                  "creationDate": "2023-02-16T22:26:01Z",
-                                  "updatedDate": "2023-02-23T20:38:24Z",
-                                  "deletedAt": null,
-                                  "name": "Believe the Hype",
-                                  "creationReason": "adminCreated",
-                                  "status": "checkedIn",
-                                  "locked": true,
-                                  "nameLocked": true,
-                                  "disabled": false,
-                                  "acceptedRules": true,
-                                  "logoURL": "https://assets.esportsengine.co/logos/935be205-2642-4a00-b70b-cf4989365fcb.png",
-                                  "hasPendingLogo": false,
-                                  "imageUploadEnabled": true,
-                                  "seedNumber": 6
-                                },
-                                {
                                   "publicId": "2f9b6387-49b0-48b1-8bee-3bf29ddc8e60",
                                   "creationDate": "2023-02-16T22:51:53Z",
                                   "updatedDate": "2023-02-23T17:31:48Z",
@@ -1231,6 +1214,23 @@
                                   "hasPendingLogo": false,
                                   "imageUploadEnabled": true,
                                   "seedNumber": 11
+                                },
+                                {
+                                  "publicId": "935be205-2642-4a00-b70b-cf4989365fcb",
+                                  "creationDate": "2023-02-16T22:26:01Z",
+                                  "updatedDate": "2023-02-23T20:38:24Z",
+                                  "deletedAt": null,
+                                  "name": "Believe the Hype",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/935be205-2642-4a00-b70b-cf4989365fcb.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 6
                                 }
                               ],
                               "result": null,
@@ -1260,23 +1260,6 @@
                               "status": "Waiting to be Announced",
                               "teams": [
                                 {
-                                  "publicId": "ee4cc932-1be9-47c6-ab0c-ddcd60f9a81b",
-                                  "creationDate": "2023-02-03T20:03:21Z",
-                                  "updatedDate": "2023-02-23T17:39:51Z",
-                                  "deletedAt": null,
-                                  "name": "G1",
-                                  "creationReason": "boughtPass",
-                                  "status": "checkedIn",
-                                  "locked": true,
-                                  "nameLocked": true,
-                                  "disabled": false,
-                                  "acceptedRules": true,
-                                  "logoURL": "https://assets.esportsengine.co/logos/ee4cc932-1be9-47c6-ab0c-ddcd60f9a81b.png",
-                                  "hasPendingLogo": false,
-                                  "imageUploadEnabled": true,
-                                  "seedNumber": 3
-                                },
-                                {
                                   "publicId": "2f9b6387-49b0-48b1-8bee-3bf29ddc8e60",
                                   "creationDate": "2023-02-16T22:51:53Z",
                                   "updatedDate": "2023-02-23T17:31:48Z",
@@ -1292,6 +1275,23 @@
                                   "hasPendingLogo": false,
                                   "imageUploadEnabled": true,
                                   "seedNumber": 11
+                                },
+                                {
+                                  "publicId": "ee4cc932-1be9-47c6-ab0c-ddcd60f9a81b",
+                                  "creationDate": "2023-02-03T20:03:21Z",
+                                  "updatedDate": "2023-02-23T17:39:51Z",
+                                  "deletedAt": null,
+                                  "name": "G1",
+                                  "creationReason": "boughtPass",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/ee4cc932-1be9-47c6-ab0c-ddcd60f9a81b.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 3
                                 }
                               ],
                               "result": null,
@@ -1352,23 +1352,6 @@
                               "status": "Waiting to be Announced",
                               "teams": [
                                 {
-                                  "publicId": "ee4cc932-1be9-47c6-ab0c-ddcd60f9a81b",
-                                  "creationDate": "2023-02-03T20:03:21Z",
-                                  "updatedDate": "2023-02-23T17:39:51Z",
-                                  "deletedAt": null,
-                                  "name": "G1",
-                                  "creationReason": "boughtPass",
-                                  "status": "checkedIn",
-                                  "locked": true,
-                                  "nameLocked": true,
-                                  "disabled": false,
-                                  "acceptedRules": true,
-                                  "logoURL": "https://assets.esportsengine.co/logos/ee4cc932-1be9-47c6-ab0c-ddcd60f9a81b.png",
-                                  "hasPendingLogo": false,
-                                  "imageUploadEnabled": true,
-                                  "seedNumber": 3
-                                },
-                                {
                                   "publicId": "935be205-2642-4a00-b70b-cf4989365fcb",
                                   "creationDate": "2023-02-16T22:26:01Z",
                                   "updatedDate": "2023-02-23T20:38:24Z",
@@ -1384,6 +1367,23 @@
                                   "hasPendingLogo": false,
                                   "imageUploadEnabled": true,
                                   "seedNumber": 6
+                                },
+                                {
+                                  "publicId": "ee4cc932-1be9-47c6-ab0c-ddcd60f9a81b",
+                                  "creationDate": "2023-02-03T20:03:21Z",
+                                  "updatedDate": "2023-02-23T17:39:51Z",
+                                  "deletedAt": null,
+                                  "name": "G1",
+                                  "creationReason": "boughtPass",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/ee4cc932-1be9-47c6-ab0c-ddcd60f9a81b.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 3
                                 }
                               ],
                               "result": null,
@@ -1578,23 +1578,6 @@
                               "status": "Waiting to be Announced",
                               "teams": [
                                 {
-                                  "publicId": "393c68a8-1428-4324-9d93-360c5ee0b0a0",
-                                  "creationDate": "2023-02-16T19:22:42Z",
-                                  "updatedDate": "2023-02-23T17:18:53Z",
-                                  "deletedAt": null,
-                                  "name": "Spacestation Gaming",
-                                  "creationReason": "adminCreated",
-                                  "status": "checkedIn",
-                                  "locked": true,
-                                  "nameLocked": true,
-                                  "disabled": false,
-                                  "acceptedRules": true,
-                                  "logoURL": "https://assets.esportsengine.co/logos/393c68a8-1428-4324-9d93-360c5ee0b0a0.png",
-                                  "hasPendingLogo": false,
-                                  "imageUploadEnabled": true,
-                                  "seedNumber": 5
-                                },
-                                {
                                   "publicId": "ec9751f9-553a-471a-b694-08bf8b81eef6",
                                   "creationDate": "2023-02-16T22:52:37Z",
                                   "updatedDate": "2023-02-23T17:31:59Z",
@@ -1610,6 +1593,23 @@
                                   "hasPendingLogo": false,
                                   "imageUploadEnabled": true,
                                   "seedNumber": 12
+                                },
+                                {
+                                  "publicId": "393c68a8-1428-4324-9d93-360c5ee0b0a0",
+                                  "creationDate": "2023-02-16T19:22:42Z",
+                                  "updatedDate": "2023-02-23T17:18:53Z",
+                                  "deletedAt": null,
+                                  "name": "Spacestation Gaming",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/393c68a8-1428-4324-9d93-360c5ee0b0a0.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 5
                                 }
                               ],
                               "result": null,
@@ -1639,23 +1639,6 @@
                               "status": "Waiting to be Announced",
                               "teams": [
                                 {
-                                  "publicId": "51e9a5f5-660f-4677-81e0-af24c5869d51",
-                                  "creationDate": "2023-02-13T03:02:27Z",
-                                  "updatedDate": "2023-02-24T14:40:42Z",
-                                  "deletedAt": null,
-                                  "name": "TSS Esports",
-                                  "creationReason": "boughtPass",
-                                  "status": "checkedIn",
-                                  "locked": true,
-                                  "nameLocked": true,
-                                  "disabled": false,
-                                  "acceptedRules": true,
-                                  "logoURL": null,
-                                  "hasPendingLogo": false,
-                                  "imageUploadEnabled": true,
-                                  "seedNumber": 4
-                                },
-                                {
                                   "publicId": "ec9751f9-553a-471a-b694-08bf8b81eef6",
                                   "creationDate": "2023-02-16T22:52:37Z",
                                   "updatedDate": "2023-02-23T17:31:59Z",
@@ -1671,6 +1654,23 @@
                                   "hasPendingLogo": false,
                                   "imageUploadEnabled": true,
                                   "seedNumber": 12
+                                },
+                                {
+                                  "publicId": "51e9a5f5-660f-4677-81e0-af24c5869d51",
+                                  "creationDate": "2023-02-13T03:02:27Z",
+                                  "updatedDate": "2023-02-24T14:40:42Z",
+                                  "deletedAt": null,
+                                  "name": "TSS Esports",
+                                  "creationReason": "boughtPass",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": null,
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 4
                                 }
                               ],
                               "result": null,
@@ -1731,23 +1731,6 @@
                               "status": "Waiting to be Announced",
                               "teams": [
                                 {
-                                  "publicId": "51e9a5f5-660f-4677-81e0-af24c5869d51",
-                                  "creationDate": "2023-02-13T03:02:27Z",
-                                  "updatedDate": "2023-02-24T14:40:42Z",
-                                  "deletedAt": null,
-                                  "name": "TSS Esports",
-                                  "creationReason": "boughtPass",
-                                  "status": "checkedIn",
-                                  "locked": true,
-                                  "nameLocked": true,
-                                  "disabled": false,
-                                  "acceptedRules": true,
-                                  "logoURL": null,
-                                  "hasPendingLogo": false,
-                                  "imageUploadEnabled": true,
-                                  "seedNumber": 4
-                                },
-                                {
                                   "publicId": "393c68a8-1428-4324-9d93-360c5ee0b0a0",
                                   "creationDate": "2023-02-16T19:22:42Z",
                                   "updatedDate": "2023-02-23T17:18:53Z",
@@ -1763,6 +1746,23 @@
                                   "hasPendingLogo": false,
                                   "imageUploadEnabled": true,
                                   "seedNumber": 5
+                                },
+                                {
+                                  "publicId": "51e9a5f5-660f-4677-81e0-af24c5869d51",
+                                  "creationDate": "2023-02-13T03:02:27Z",
+                                  "updatedDate": "2023-02-24T14:40:42Z",
+                                  "deletedAt": null,
+                                  "name": "TSS Esports",
+                                  "creationReason": "boughtPass",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": null,
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 4
                                 }
                               ],
                               "result": null,
@@ -1826,7 +1826,7 @@
               }
             ],
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677251233572,
+            "dataUpdatedAt": 1677255921193,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -1858,7 +1858,7 @@
               "results": []
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677251233630,
+            "dataUpdatedAt": 1677255921249,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
