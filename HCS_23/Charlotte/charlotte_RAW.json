@@ -97,7 +97,7 @@
               "eventSlug": "charlotte"
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677290287668,
+            "dataUpdatedAt": 1677291312191,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -17548,9 +17548,14 @@
                               "1": {
                                 "forfeit": [],
                                 "mapName": "Argyle",
-                                "winners": [],
+                                "winners": [
+                                  "28b20a98-c744-4125-9cd8-6dc77e1f759f"
+                                ],
                                 "gameMode": "Capture The Flag",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "28b20a98-c744-4125-9cd8-6dc77e1f759f": 2,
+                                  "6e426711-e5c3-4020-aa52-deb750dc64c6": 1
+                                },
                                 "mapModeCombo": "Capture The Flag - Argyle"
                               },
                               "2": {
@@ -17558,7 +17563,10 @@
                                 "mapName": "Recharge",
                                 "winners": [],
                                 "gameMode": "Slayer",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "28b20a98-c744-4125-9cd8-6dc77e1f759f": 0,
+                                  "6e426711-e5c3-4020-aa52-deb750dc64c6": 0
+                                },
                                 "mapModeCombo": "Slayer - Recharge"
                               },
                               "3": {
@@ -17566,7 +17574,10 @@
                                 "mapName": "Streets",
                                 "winners": [],
                                 "gameMode": "King Of The Hill",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "28b20a98-c744-4125-9cd8-6dc77e1f759f": 0,
+                                  "6e426711-e5c3-4020-aa52-deb750dc64c6": 0
+                                },
                                 "mapModeCombo": "King Of The Hill - Streets"
                               },
                               "4": {
@@ -17574,7 +17585,10 @@
                                 "mapName": "Live Fire",
                                 "winners": [],
                                 "gameMode": "Strongholds",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "28b20a98-c744-4125-9cd8-6dc77e1f759f": 0,
+                                  "6e426711-e5c3-4020-aa52-deb750dc64c6": 0
+                                },
                                 "mapModeCombo": "Strongholds - Live Fire"
                               },
                               "5": {
@@ -17582,11 +17596,16 @@
                                 "mapName": "Empyrean",
                                 "winners": [],
                                 "gameMode": "Slayer",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "28b20a98-c744-4125-9cd8-6dc77e1f759f": 0,
+                                  "6e426711-e5c3-4020-aa52-deb750dc64c6": 0
+                                },
                                 "mapModeCombo": "Slayer - Empyrean"
                               }
                             },
-                            "disqualified": []
+                            "disqualified": [],
+                            "numberOfGames": 5,
+                            "matchFormatType": "bestOf"
                           },
                           "projectedStartTime": "2023-02-25T01:00:00Z",
                           "isBroadcast": false,
@@ -17595,10 +17614,10 @@
                         {
                           "publicId": "54bee4aa-05bb-4d6d-ab8b-69bea286a38f",
                           "matchNum": "L122",
-                          "actualStartTime": null,
+                          "actualStartTime": "2023-02-25T02:10:57",
                           "actualEndTime": null,
                           "verifiedTime": null,
-                          "status": "Waiting to be Started",
+                          "status": "Waiting for Match Result",
                           "teams": [
                             {
                               "publicId": "ea75c808-7190-4894-a0aa-4d5bf488633b",
@@ -20455,7 +20474,7 @@
               }
             ],
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677290287795,
+            "dataUpdatedAt": 1677291312337,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -22613,7 +22632,7 @@
               ]
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677290287868,
+            "dataUpdatedAt": 1677291312417,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
