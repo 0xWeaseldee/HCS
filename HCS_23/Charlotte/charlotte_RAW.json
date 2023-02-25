@@ -95,7 +95,7 @@
               "eventSlug": "charlotte"
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677293481460,
+            "dataUpdatedAt": 1677294224958,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -17841,10 +17841,10 @@
                         {
                           "publicId": "eb5f630b-56ca-4972-908f-fc72cd64435a",
                           "matchNum": "L124",
-                          "actualStartTime": null,
+                          "actualStartTime": "2023-02-25T02:59:18",
                           "actualEndTime": null,
                           "verifiedTime": null,
-                          "status": "Waiting to be Started",
+                          "status": "Waiting for Match Result",
                           "teams": [
                             {
                               "publicId": "c9c64e94-f5b3-454f-9840-fa42846839bf",
@@ -20541,7 +20541,7 @@
               }
             ],
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677293481586,
+            "dataUpdatedAt": 1677294225085,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -22699,7 +22699,7 @@
               ]
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677293481658,
+            "dataUpdatedAt": 1677294225154,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
