@@ -38,7 +38,7 @@
                   "shortDescription": "HCS Kickoff Major Charlotte 2023 features a free Halo FFA tournament! The event will be open for up to 512 players. Best of luck to those competing for their shot at the largest piece of the $5,000 prize pool!",
                   "teamPassInfo": "<p> </p>",
                   "heroImageUrl": "https://images.contentstack.io/v3/assets/bltd0ebcae2b735695d/blt77edff3dfa54a053/63bf4ae00dc3963ccff8ad0a/HCS_Charolette_Vis_ID_1920x675.png",
-                  "state": "UPCOMING",
+                  "state": "LIVE",
                   "rulesLink": null,
                   "roster": null,
                   "placement": null,
@@ -52,7 +52,7 @@
                     "maxCoaches": 0,
                     "minCoaches": 0
                   },
-                  "competitionStatus": "Waiting",
+                  "competitionStatus": "Active",
                   "tournamentEntryType": "openRegistration",
                   "registrationStatus": false
                 },
@@ -95,7 +95,7 @@
               "eventSlug": "charlotte"
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677350502469,
+            "dataUpdatedAt": 1677350885455,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -18872,14 +18872,16 @@
                                   },
                                   "3": {
                                     "forfeit": [],
-                                    "mapName": "",
-                                    "winners": [],
-                                    "gameMode": "",
+                                    "mapName": "Live Fire",
+                                    "winners": [
+                                      "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2"
+                                    ],
+                                    "gameMode": "Strongholds",
                                     "teamScores": {
-                                      "c9c64e94-f5b3-454f-9840-fa42846839bf": 0,
-                                      "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2": 0
+                                      "c9c64e94-f5b3-454f-9840-fa42846839bf": 184,
+                                      "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2": 250
                                     },
-                                    "mapModeCombo": "-"
+                                    "mapModeCombo": "Strongholds - Live Fire"
                                   },
                                   "4": {
                                     "forfeit": [],
@@ -20095,14 +20097,16 @@
                                   },
                                   "2": {
                                     "forfeit": [],
-                                    "mapName": "",
-                                    "winners": [],
-                                    "gameMode": "",
+                                    "mapName": "Streets",
+                                    "winners": [
+                                      "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9"
+                                    ],
+                                    "gameMode": "Slayer",
                                     "teamScores": {
-                                      "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9": 0,
-                                      "935be205-2642-4a00-b70b-cf4989365fcb": 0
+                                      "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9": 50,
+                                      "935be205-2642-4a00-b70b-cf4989365fcb": 40
                                     },
-                                    "mapModeCombo": ""
+                                    "mapModeCombo": "Slayer - Streets"
                                   },
                                   "3": {
                                     "forfeit": [],
@@ -20113,7 +20117,7 @@
                                       "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9": 0,
                                       "935be205-2642-4a00-b70b-cf4989365fcb": 0
                                     },
-                                    "mapModeCombo": ""
+                                    "mapModeCombo": "-"
                                   },
                                   "4": {
                                     "forfeit": [],
@@ -20124,7 +20128,7 @@
                                       "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9": 0,
                                       "935be205-2642-4a00-b70b-cf4989365fcb": 0
                                     },
-                                    "mapModeCombo": ""
+                                    "mapModeCombo": "-"
                                   },
                                   "5": {
                                     "forfeit": [],
@@ -20135,7 +20139,7 @@
                                       "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9": 0,
                                       "935be205-2642-4a00-b70b-cf4989365fcb": 0
                                     },
-                                    "mapModeCombo": ""
+                                    "mapModeCombo": "-"
                                   }
                                 },
                                 "disqualified": [],
@@ -20903,119 +20907,6 @@
                           "roundNum": 1,
                           "matches": [
                             {
-                              "publicId": "411d2a30-fe18-4f35-961e-ed4229bece83",
-                              "matchNum": "Pool 4 - 4 vs 13",
-                              "actualStartTime": "2023-02-25T17:55:04",
-                              "actualEndTime": null,
-                              "verifiedTime": null,
-                              "status": "Waiting for Match Result",
-                              "teams": [
-                                {
-                                  "publicId": "097ab542-8214-4db5-968e-e8a10df7b407",
-                                  "creationDate": "2023-02-22T19:36:57Z",
-                                  "updatedDate": "2023-02-23T23:25:19Z",
-                                  "deletedAt": null,
-                                  "name": "Complexity",
-                                  "creationReason": "adminCreated",
-                                  "status": "checkedIn",
-                                  "locked": true,
-                                  "nameLocked": true,
-                                  "disabled": false,
-                                  "acceptedRules": true,
-                                  "logoURL": null,
-                                  "hasPendingLogo": false,
-                                  "imageUploadEnabled": true,
-                                  "seedNumber": 13
-                                },
-                                {
-                                  "publicId": "51e9a5f5-660f-4677-81e0-af24c5869d51",
-                                  "creationDate": "2023-02-13T03:02:27Z",
-                                  "updatedDate": "2023-02-24T14:40:42Z",
-                                  "deletedAt": null,
-                                  "name": "TSS Esports",
-                                  "creationReason": "boughtPass",
-                                  "status": "checkedIn",
-                                  "locked": true,
-                                  "nameLocked": true,
-                                  "disabled": false,
-                                  "acceptedRules": true,
-                                  "logoURL": null,
-                                  "hasPendingLogo": false,
-                                  "imageUploadEnabled": true,
-                                  "seedNumber": 4
-                                }
-                              ],
-                              "result": {
-                                "losers": [],
-                                "winners": [],
-                                "mapScores": {
-                                  "1": {
-                                    "forfeit": [],
-                                    "mapName": "Argyle",
-                                    "winners": [
-                                      "097ab542-8214-4db5-968e-e8a10df7b407"
-                                    ],
-                                    "gameMode": "Capture The Flag",
-                                    "teamScores": {
-                                      "097ab542-8214-4db5-968e-e8a10df7b407": 1,
-                                      "51e9a5f5-660f-4677-81e0-af24c5869d51": 0
-                                    },
-                                    "mapModeCombo": "Capture The Flag - Argyle"
-                                  },
-                                  "2": {
-                                    "forfeit": [],
-                                    "mapName": "",
-                                    "winners": [],
-                                    "gameMode": "",
-                                    "teamScores": {
-                                      "097ab542-8214-4db5-968e-e8a10df7b407": 0,
-                                      "51e9a5f5-660f-4677-81e0-af24c5869d51": 0
-                                    },
-                                    "mapModeCombo": ""
-                                  },
-                                  "3": {
-                                    "forfeit": [],
-                                    "mapName": "",
-                                    "winners": [],
-                                    "gameMode": "",
-                                    "teamScores": {
-                                      "097ab542-8214-4db5-968e-e8a10df7b407": 0,
-                                      "51e9a5f5-660f-4677-81e0-af24c5869d51": 0
-                                    },
-                                    "mapModeCombo": ""
-                                  },
-                                  "4": {
-                                    "forfeit": [],
-                                    "mapName": "",
-                                    "winners": [],
-                                    "gameMode": "",
-                                    "teamScores": {
-                                      "097ab542-8214-4db5-968e-e8a10df7b407": 0,
-                                      "51e9a5f5-660f-4677-81e0-af24c5869d51": 0
-                                    },
-                                    "mapModeCombo": ""
-                                  },
-                                  "5": {
-                                    "forfeit": [],
-                                    "mapName": "",
-                                    "winners": [],
-                                    "gameMode": "",
-                                    "teamScores": {
-                                      "097ab542-8214-4db5-968e-e8a10df7b407": 0,
-                                      "51e9a5f5-660f-4677-81e0-af24c5869d51": 0
-                                    },
-                                    "mapModeCombo": ""
-                                  }
-                                },
-                                "disqualified": [],
-                                "numberOfGames": 5,
-                                "matchFormatType": "bestOf"
-                              },
-                              "projectedStartTime": "2023-02-25T18:00:00Z",
-                              "isBroadcast": false,
-                              "broadcastLinks": []
-                            },
-                            {
                               "publicId": "7e5804c0-9541-4a28-9151-83b6df118bbf",
                               "matchNum": "Pool 4 - 4 vs 5",
                               "actualStartTime": "2023-02-24T23:26:31",
@@ -21394,6 +21285,121 @@
                               "broadcastLinks": []
                             },
                             {
+                              "publicId": "411d2a30-fe18-4f35-961e-ed4229bece83",
+                              "matchNum": "Pool 4 - 4 vs 13",
+                              "actualStartTime": "2023-02-25T17:55:04",
+                              "actualEndTime": null,
+                              "verifiedTime": null,
+                              "status": "Waiting for Match Result",
+                              "teams": [
+                                {
+                                  "publicId": "097ab542-8214-4db5-968e-e8a10df7b407",
+                                  "creationDate": "2023-02-22T19:36:57Z",
+                                  "updatedDate": "2023-02-23T23:25:19Z",
+                                  "deletedAt": null,
+                                  "name": "Complexity",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": null,
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 13
+                                },
+                                {
+                                  "publicId": "51e9a5f5-660f-4677-81e0-af24c5869d51",
+                                  "creationDate": "2023-02-13T03:02:27Z",
+                                  "updatedDate": "2023-02-24T14:40:42Z",
+                                  "deletedAt": null,
+                                  "name": "TSS Esports",
+                                  "creationReason": "boughtPass",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": null,
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 4
+                                }
+                              ],
+                              "result": {
+                                "losers": [],
+                                "winners": [],
+                                "mapScores": {
+                                  "1": {
+                                    "forfeit": [],
+                                    "mapName": "Argyle",
+                                    "winners": [
+                                      "097ab542-8214-4db5-968e-e8a10df7b407"
+                                    ],
+                                    "gameMode": "Capture The Flag",
+                                    "teamScores": {
+                                      "097ab542-8214-4db5-968e-e8a10df7b407": 1,
+                                      "51e9a5f5-660f-4677-81e0-af24c5869d51": 0
+                                    },
+                                    "mapModeCombo": "Capture The Flag - Argyle"
+                                  },
+                                  "2": {
+                                    "forfeit": [],
+                                    "mapName": "Empyrean",
+                                    "winners": [
+                                      "097ab542-8214-4db5-968e-e8a10df7b407"
+                                    ],
+                                    "gameMode": "Slayer",
+                                    "teamScores": {
+                                      "097ab542-8214-4db5-968e-e8a10df7b407": 50,
+                                      "51e9a5f5-660f-4677-81e0-af24c5869d51": 35
+                                    },
+                                    "mapModeCombo": "Slayer - Empyrean"
+                                  },
+                                  "3": {
+                                    "forfeit": [],
+                                    "mapName": "",
+                                    "winners": [],
+                                    "gameMode": "",
+                                    "teamScores": {
+                                      "097ab542-8214-4db5-968e-e8a10df7b407": 0,
+                                      "51e9a5f5-660f-4677-81e0-af24c5869d51": 0
+                                    },
+                                    "mapModeCombo": ""
+                                  },
+                                  "4": {
+                                    "forfeit": [],
+                                    "mapName": "",
+                                    "winners": [],
+                                    "gameMode": "",
+                                    "teamScores": {
+                                      "097ab542-8214-4db5-968e-e8a10df7b407": 0,
+                                      "51e9a5f5-660f-4677-81e0-af24c5869d51": 0
+                                    },
+                                    "mapModeCombo": ""
+                                  },
+                                  "5": {
+                                    "forfeit": [],
+                                    "mapName": "",
+                                    "winners": [],
+                                    "gameMode": "",
+                                    "teamScores": {
+                                      "097ab542-8214-4db5-968e-e8a10df7b407": 0,
+                                      "51e9a5f5-660f-4677-81e0-af24c5869d51": 0
+                                    },
+                                    "mapModeCombo": ""
+                                  }
+                                },
+                                "disqualified": [],
+                                "numberOfGames": 5,
+                                "matchFormatType": "bestOf"
+                              },
+                              "projectedStartTime": "2023-02-25T18:00:00Z",
+                              "isBroadcast": false,
+                              "broadcastLinks": []
+                            },
+                            {
                               "publicId": "1ed55727-4663-4fa7-bd30-db8adfcd891d",
                               "matchNum": "Pool 4 - 4 vs 12",
                               "actualStartTime": "2023-02-24T18:36:12",
@@ -21673,7 +21679,7 @@
               }
             ],
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677350502594,
+            "dataUpdatedAt": 1677350885595,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -21706,6 +21712,91 @@
                 {
                   "place": 17,
                   "roster": {
+                    "publicId": "28b20a98-c744-4125-9cd8-6dc77e1f759f",
+                    "creationDate": "2023-02-16T22:20:18Z",
+                    "updatedDate": "2023-02-23T23:13:09Z",
+                    "deletedAt": null,
+                    "name": "Native Red",
+                    "creationReason": "adminCreated",
+                    "status": "checkedIn",
+                    "locked": true,
+                    "nameLocked": true,
+                    "disabled": false,
+                    "acceptedRules": true,
+                    "logoURL": "https://assets.esportsengine.co/logos/28b20a98-c744-4125-9cd8-6dc77e1f759f.png",
+                    "hasPendingLogo": false,
+                    "imageUploadEnabled": true,
+                    "members": [
+                      {
+                        "publicId": "2041885d-c47c-4ad1-bba2-2802757fc7bb",
+                        "creationDate": "2023-02-16T22:25:05Z",
+                        "updatedDate": "2023-02-23T15:00:55Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "f790175d-0171-4215-bb07-4b17a1fddd59",
+                          "alias": "Taulek",
+                          "disabled": false,
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "03f3e07a-ce41-47ea-92bf-a61fe1a78c65",
+                        "creationDate": "2023-02-16T22:25:14Z",
+                        "updatedDate": "2023-02-23T15:01:24Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "239e26a2-b1c4-4d92-aff3-bba9a33a6f47",
+                          "alias": "zMannny",
+                          "disabled": false,
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "b1e03e82-33e0-465b-82d5-83392b5aca2e",
+                        "creationDate": "2023-02-16T22:25:20Z",
+                        "updatedDate": "2023-02-23T15:02:24Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "668f2b24-ab54-44bd-8e0f-c7b881856f5b",
+                          "alias": "SoulSnipe",
+                          "disabled": false,
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "e0d3a4eb-f66c-42de-9ede-02923ac636bb",
+                        "creationDate": "2023-02-23T15:04:06Z",
+                        "updatedDate": "2023-02-23T15:04:46Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "a4f1234f-1ad1-4910-b033-46e8d38343db",
+                          "alias": "Diagram",
+                          "disabled": false,
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      }
+                    ]
+                  }
+                },
+                {
+                  "place": 17,
+                  "roster": {
                     "publicId": "a528d816-6d60-4694-ba93-e4af3d5329fe",
                     "creationDate": "2023-02-16T22:57:32Z",
                     "updatedDate": "2023-02-23T23:23:30Z",
@@ -21721,6 +21812,22 @@
                     "hasPendingLogo": false,
                     "imageUploadEnabled": true,
                     "members": [
+                      {
+                        "publicId": "68ed43ad-5cc4-4017-9133-ea1d538af750",
+                        "creationDate": "2023-02-16T22:57:53Z",
+                        "updatedDate": "2023-02-23T23:23:13Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "a1345313-a085-48a4-8831-7fe65ffeacc5",
+                          "alias": "Strikeyy",
+                          "disabled": false,
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
                       {
                         "publicId": "5c8ff788-d534-4d97-8646-f189abd16cd5",
                         "creationDate": "2023-02-16T22:58:06Z",
@@ -21768,107 +21875,6 @@
                           "status": ""
                         },
                         "checkedIn": true
-                      },
-                      {
-                        "publicId": "68ed43ad-5cc4-4017-9133-ea1d538af750",
-                        "creationDate": "2023-02-16T22:57:53Z",
-                        "updatedDate": "2023-02-23T23:23:13Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "a1345313-a085-48a4-8831-7fe65ffeacc5",
-                          "alias": "Strikeyy",
-                          "disabled": false,
-                          "lockedUntil": "",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      }
-                    ]
-                  }
-                },
-                {
-                  "place": 17,
-                  "roster": {
-                    "publicId": "28b20a98-c744-4125-9cd8-6dc77e1f759f",
-                    "creationDate": "2023-02-16T22:20:18Z",
-                    "updatedDate": "2023-02-23T23:13:09Z",
-                    "deletedAt": null,
-                    "name": "Native Red",
-                    "creationReason": "adminCreated",
-                    "status": "checkedIn",
-                    "locked": true,
-                    "nameLocked": true,
-                    "disabled": false,
-                    "acceptedRules": true,
-                    "logoURL": "https://assets.esportsengine.co/logos/28b20a98-c744-4125-9cd8-6dc77e1f759f.png",
-                    "hasPendingLogo": false,
-                    "imageUploadEnabled": true,
-                    "members": [
-                      {
-                        "publicId": "2041885d-c47c-4ad1-bba2-2802757fc7bb",
-                        "creationDate": "2023-02-16T22:25:05Z",
-                        "updatedDate": "2023-02-23T15:00:55Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "f790175d-0171-4215-bb07-4b17a1fddd59",
-                          "alias": "Taulek",
-                          "disabled": false,
-                          "lockedUntil": "",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
-                        "publicId": "e0d3a4eb-f66c-42de-9ede-02923ac636bb",
-                        "creationDate": "2023-02-23T15:04:06Z",
-                        "updatedDate": "2023-02-23T15:04:46Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "a4f1234f-1ad1-4910-b033-46e8d38343db",
-                          "alias": "Diagram",
-                          "disabled": false,
-                          "lockedUntil": "",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
-                        "publicId": "b1e03e82-33e0-465b-82d5-83392b5aca2e",
-                        "creationDate": "2023-02-16T22:25:20Z",
-                        "updatedDate": "2023-02-23T15:02:24Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "668f2b24-ab54-44bd-8e0f-c7b881856f5b",
-                          "alias": "SoulSnipe",
-                          "disabled": false,
-                          "lockedUntil": "",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
-                        "publicId": "03f3e07a-ce41-47ea-92bf-a61fe1a78c65",
-                        "creationDate": "2023-02-16T22:25:14Z",
-                        "updatedDate": "2023-02-23T15:01:24Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "239e26a2-b1c4-4d92-aff3-bba9a33a6f47",
-                          "alias": "zMannny",
-                          "disabled": false,
-                          "lockedUntil": "",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
                       }
                     ]
                   }
@@ -21892,30 +21898,14 @@
                     "imageUploadEnabled": true,
                     "members": [
                       {
-                        "publicId": "74804712-24f1-417d-8dc2-3cdee34581fa",
-                        "creationDate": "2023-02-16T22:55:16Z",
-                        "updatedDate": "2023-02-24T01:00:10Z",
+                        "publicId": "731428d9-883e-4ef8-a34e-d0c50bd14cd6",
+                        "creationDate": "2023-02-16T22:55:23Z",
+                        "updatedDate": "2023-02-24T01:02:26Z",
                         "deletedAt": null,
                         "competitionRole": "starter",
                         "player": {
-                          "publicId": "a9559af2-59ae-4abb-9ee1-ec447434e72c",
-                          "alias": "GloryGGz",
-                          "disabled": false,
-                          "lockedUntil": "",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
-                        "publicId": "f0cd0707-a07a-424b-a7c1-15ee4841d15b",
-                        "creationDate": "2023-02-16T22:55:09Z",
-                        "updatedDate": "2023-02-24T00:59:22Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "fc11acb0-e78c-4b3e-b9c6-29486fcc233e",
-                          "alias": "MQSE",
+                          "publicId": "c6fd6166-960e-4664-b07a-7e207474c259",
+                          "alias": "Phlux",
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21940,14 +21930,30 @@
                         "checkedIn": true
                       },
                       {
-                        "publicId": "731428d9-883e-4ef8-a34e-d0c50bd14cd6",
-                        "creationDate": "2023-02-16T22:55:23Z",
-                        "updatedDate": "2023-02-24T01:02:26Z",
+                        "publicId": "f0cd0707-a07a-424b-a7c1-15ee4841d15b",
+                        "creationDate": "2023-02-16T22:55:09Z",
+                        "updatedDate": "2023-02-24T00:59:22Z",
                         "deletedAt": null,
                         "competitionRole": "starter",
                         "player": {
-                          "publicId": "c6fd6166-960e-4664-b07a-7e207474c259",
-                          "alias": "Phlux",
+                          "publicId": "fc11acb0-e78c-4b3e-b9c6-29486fcc233e",
+                          "alias": "MQSE",
+                          "disabled": false,
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "74804712-24f1-417d-8dc2-3cdee34581fa",
+                        "creationDate": "2023-02-16T22:55:16Z",
+                        "updatedDate": "2023-02-24T01:00:10Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "a9559af2-59ae-4abb-9ee1-ec447434e72c",
+                          "alias": "GloryGGz",
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21977,22 +21983,6 @@
                     "imageUploadEnabled": true,
                     "members": [
                       {
-                        "publicId": "48378a8b-c1eb-4617-b4da-f1306648d4fb",
-                        "creationDate": "2023-02-16T22:54:20Z",
-                        "updatedDate": "2023-02-23T23:19:50Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "4d327962-9dea-46b2-80a1-a1a702654d14",
-                          "alias": "PiggySaiyan",
-                          "disabled": false,
-                          "lockedUntil": "",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
                         "publicId": "3be0fb00-a9d5-4136-b005-3667724117e1",
                         "creationDate": "2023-02-16T22:54:06Z",
                         "updatedDate": "2023-02-23T23:19:12Z",
@@ -22001,6 +21991,22 @@
                         "player": {
                           "publicId": "6ca6d948-ec57-4181-bce6-bd938f5faf90",
                           "alias": "KingJay",
+                          "disabled": false,
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "48378a8b-c1eb-4617-b4da-f1306648d4fb",
+                        "creationDate": "2023-02-16T22:54:20Z",
+                        "updatedDate": "2023-02-23T23:19:50Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "4d327962-9dea-46b2-80a1-a1a702654d14",
+                          "alias": "PiggySaiyan",
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22046,11 +22052,11 @@
                 {
                   "place": 21,
                   "roster": {
-                    "publicId": "61d27e19-9f30-4ac9-9318-c2786925be50",
-                    "creationDate": "2023-02-14T18:08:31Z",
-                    "updatedDate": "2023-02-24T01:02:18Z",
+                    "publicId": "fdd5f048-b070-427f-8212-3470b37088b9",
+                    "creationDate": "2023-01-23T21:22:21Z",
+                    "updatedDate": "2023-02-24T00:24:12Z",
                     "deletedAt": null,
-                    "name": "Rogue",
+                    "name": "derfGang",
                     "creationReason": "boughtPass",
                     "status": "checkedIn",
                     "locked": false,
@@ -22062,30 +22068,14 @@
                     "imageUploadEnabled": true,
                     "members": [
                       {
-                        "publicId": "cd69d719-61fa-4105-8e90-f38fffbffee8",
-                        "creationDate": "2023-02-16T02:22:36Z",
-                        "updatedDate": "2023-02-24T01:02:16Z",
+                        "publicId": "d1fe25f3-9543-4836-8be3-c4ef60775bcc",
+                        "creationDate": "2023-02-17T02:09:08Z",
+                        "updatedDate": "2023-02-24T00:24:12Z",
                         "deletedAt": null,
                         "competitionRole": "starter",
                         "player": {
-                          "publicId": "580dff60-337d-45ba-9ab6-e0fd31d2eef6",
-                          "alias": "Toni2turnt",
-                          "disabled": false,
-                          "lockedUntil": "2022-02-17",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
-                        "publicId": "a03c2dc1-af82-48de-87d9-043f37d49b65",
-                        "creationDate": "2023-02-15T19:57:11Z",
-                        "updatedDate": "2023-02-24T01:01:54Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "923f8be6-b500-4f8a-adee-940e4ea8b96f",
-                          "alias": "Envore",
+                          "publicId": "461e2929-a945-491d-90a6-f480dcab1eb1",
+                          "alias": "Maffyml",
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22094,14 +22084,14 @@
                         "checkedIn": true
                       },
                       {
-                        "publicId": "5b8cff0c-25dd-4b0a-b18e-13d195c72e01",
-                        "creationDate": "2023-02-15T23:48:59Z",
-                        "updatedDate": "2023-02-24T01:02:18Z",
+                        "publicId": "1c898247-e3c4-4a39-9283-2778d0948be2",
+                        "creationDate": "2023-02-17T02:16:01Z",
+                        "updatedDate": "2023-02-24T00:24:09Z",
                         "deletedAt": null,
                         "competitionRole": "starter",
                         "player": {
-                          "publicId": "3fe9bce4-d28b-45b5-aa67-0aa2760ccaae",
-                          "alias": "Articc",
+                          "publicId": "26d0a6f2-12ee-4fe2-a4e8-743dd941b450",
+                          "alias": "pi3",
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22110,51 +22100,14 @@
                         "checkedIn": true
                       },
                       {
-                        "publicId": "63becace-e7a7-4665-9639-fb3007a3c5be",
-                        "creationDate": "2023-02-15T23:50:25Z",
-                        "updatedDate": "2023-02-24T01:01:53Z",
+                        "publicId": "a6dc82df-0104-438e-b9a4-918d8bbde036",
+                        "creationDate": "2023-02-17T02:17:04Z",
+                        "updatedDate": "2023-02-24T00:23:58Z",
                         "deletedAt": null,
                         "competitionRole": "starter",
                         "player": {
-                          "publicId": "17414c82-fb78-4167-b58e-1ebb33dc5c3c",
-                          "alias": "Avenue",
-                          "disabled": false,
-                          "lockedUntil": "",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      }
-                    ]
-                  }
-                },
-                {
-                  "place": 21,
-                  "roster": {
-                    "publicId": "84988506-5555-4792-9b95-f4c774ca4611",
-                    "creationDate": "2023-02-16T20:00:42Z",
-                    "updatedDate": "2023-02-24T00:58:39Z",
-                    "deletedAt": null,
-                    "name": "JLINGZ",
-                    "creationReason": "boughtPass",
-                    "status": "checkedIn",
-                    "locked": false,
-                    "nameLocked": false,
-                    "disabled": false,
-                    "acceptedRules": true,
-                    "logoURL": null,
-                    "hasPendingLogo": false,
-                    "imageUploadEnabled": true,
-                    "members": [
-                      {
-                        "publicId": "d81a626a-7e5f-4fb7-a96b-5074f7113576",
-                        "creationDate": "2023-02-16T20:01:32Z",
-                        "updatedDate": "2023-02-24T00:57:52Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "69246692-d973-43c3-8e01-10fd2d46ab3b",
-                          "alias": "Burton",
+                          "publicId": "1a2cc20f-7a5e-47a6-8707-f141146a52fc",
+                          "alias": "Derderf",
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22163,46 +22116,14 @@
                         "checkedIn": true
                       },
                       {
-                        "publicId": "11b41c85-6d58-46f0-8d37-41ecb69f74ff",
-                        "creationDate": "2023-02-16T20:05:34Z",
-                        "updatedDate": "2023-02-24T00:58:39Z",
+                        "publicId": "b86e28a2-36a2-49d4-852e-d486ced2a24e",
+                        "creationDate": "2023-02-17T02:29:01Z",
+                        "updatedDate": "2023-02-24T00:24:04Z",
                         "deletedAt": null,
                         "competitionRole": "starter",
                         "player": {
-                          "publicId": "2183c263-82d8-4f20-8da6-2ddb04e8022a",
-                          "alias": "Septiq",
-                          "disabled": false,
-                          "lockedUntil": "2022-03-28",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
-                        "publicId": "4c473f54-83fe-4ef9-a8aa-9eab36008aac",
-                        "creationDate": "2023-02-16T20:06:54Z",
-                        "updatedDate": "2023-02-24T00:57:56Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "caf0746b-1bbb-414e-97ad-5155c6f59e58",
-                          "alias": "Quad",
-                          "disabled": false,
-                          "lockedUntil": "",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
-                        "publicId": "3651317d-5ff5-463d-83b8-2186444e4c4b",
-                        "creationDate": "2023-02-24T00:58:33Z",
-                        "updatedDate": "2023-02-24T00:58:39Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "ba54f93d-a8fb-4167-9dcc-1d7babd0865c",
-                          "alias": "Morguhhh",
+                          "publicId": "9838f6b0-6e24-4696-b4d8-d102cad2771f",
+                          "alias": "Seuszz",
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22301,11 +22222,11 @@
                 {
                   "place": 21,
                   "roster": {
-                    "publicId": "fdd5f048-b070-427f-8212-3470b37088b9",
-                    "creationDate": "2023-01-23T21:22:21Z",
-                    "updatedDate": "2023-02-24T00:24:12Z",
+                    "publicId": "84988506-5555-4792-9b95-f4c774ca4611",
+                    "creationDate": "2023-02-16T20:00:42Z",
+                    "updatedDate": "2023-02-24T00:58:39Z",
                     "deletedAt": null,
-                    "name": "derfGang",
+                    "name": "JLINGZ",
                     "creationReason": "boughtPass",
                     "status": "checkedIn",
                     "locked": false,
@@ -22317,14 +22238,14 @@
                     "imageUploadEnabled": true,
                     "members": [
                       {
-                        "publicId": "d1fe25f3-9543-4836-8be3-c4ef60775bcc",
-                        "creationDate": "2023-02-17T02:09:08Z",
-                        "updatedDate": "2023-02-24T00:24:12Z",
+                        "publicId": "3651317d-5ff5-463d-83b8-2186444e4c4b",
+                        "creationDate": "2023-02-24T00:58:33Z",
+                        "updatedDate": "2023-02-24T00:58:39Z",
                         "deletedAt": null,
                         "competitionRole": "starter",
                         "player": {
-                          "publicId": "461e2929-a945-491d-90a6-f480dcab1eb1",
-                          "alias": "Maffyml",
+                          "publicId": "ba54f93d-a8fb-4167-9dcc-1d7babd0865c",
+                          "alias": "Morguhhh",
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22333,14 +22254,14 @@
                         "checkedIn": true
                       },
                       {
-                        "publicId": "1c898247-e3c4-4a39-9283-2778d0948be2",
-                        "creationDate": "2023-02-17T02:16:01Z",
-                        "updatedDate": "2023-02-24T00:24:09Z",
+                        "publicId": "d81a626a-7e5f-4fb7-a96b-5074f7113576",
+                        "creationDate": "2023-02-16T20:01:32Z",
+                        "updatedDate": "2023-02-24T00:57:52Z",
                         "deletedAt": null,
                         "competitionRole": "starter",
                         "player": {
-                          "publicId": "26d0a6f2-12ee-4fe2-a4e8-743dd941b450",
-                          "alias": "pi3",
+                          "publicId": "69246692-d973-43c3-8e01-10fd2d46ab3b",
+                          "alias": "Burton",
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22349,30 +22270,30 @@
                         "checkedIn": true
                       },
                       {
-                        "publicId": "a6dc82df-0104-438e-b9a4-918d8bbde036",
-                        "creationDate": "2023-02-17T02:17:04Z",
-                        "updatedDate": "2023-02-24T00:23:58Z",
+                        "publicId": "11b41c85-6d58-46f0-8d37-41ecb69f74ff",
+                        "creationDate": "2023-02-16T20:05:34Z",
+                        "updatedDate": "2023-02-24T00:58:39Z",
                         "deletedAt": null,
                         "competitionRole": "starter",
                         "player": {
-                          "publicId": "1a2cc20f-7a5e-47a6-8707-f141146a52fc",
-                          "alias": "Derderf",
+                          "publicId": "2183c263-82d8-4f20-8da6-2ddb04e8022a",
+                          "alias": "Septiq",
                           "disabled": false,
-                          "lockedUntil": "",
+                          "lockedUntil": "2022-03-28",
                           "partnerId": "XBL",
                           "status": ""
                         },
                         "checkedIn": true
                       },
                       {
-                        "publicId": "b86e28a2-36a2-49d4-852e-d486ced2a24e",
-                        "creationDate": "2023-02-17T02:29:01Z",
-                        "updatedDate": "2023-02-24T00:24:04Z",
+                        "publicId": "4c473f54-83fe-4ef9-a8aa-9eab36008aac",
+                        "creationDate": "2023-02-16T20:06:54Z",
+                        "updatedDate": "2023-02-24T00:57:56Z",
                         "deletedAt": null,
                         "competitionRole": "starter",
                         "player": {
-                          "publicId": "9838f6b0-6e24-4696-b4d8-d102cad2771f",
-                          "alias": "Seuszz",
+                          "publicId": "caf0746b-1bbb-414e-97ad-5155c6f59e58",
+                          "alias": "Quad",
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22384,13 +22305,13 @@
                   }
                 },
                 {
-                  "place": 25,
+                  "place": 21,
                   "roster": {
-                    "publicId": "12ff34f4-8d57-4ba9-bbe7-6d381ca14adb",
-                    "creationDate": "2023-02-20T01:25:49Z",
-                    "updatedDate": "2023-02-24T13:40:12Z",
+                    "publicId": "61d27e19-9f30-4ac9-9318-c2786925be50",
+                    "creationDate": "2023-02-14T18:08:31Z",
+                    "updatedDate": "2023-02-24T01:02:18Z",
                     "deletedAt": null,
-                    "name": "Milk & Honey",
+                    "name": "Rogue",
                     "creationReason": "boughtPass",
                     "status": "checkedIn",
                     "locked": false,
@@ -22402,30 +22323,14 @@
                     "imageUploadEnabled": true,
                     "members": [
                       {
-                        "publicId": "816a172e-256e-4be3-8028-329c8fb5900e",
-                        "creationDate": "2023-02-20T01:28:46Z",
-                        "updatedDate": "2023-02-24T00:10:04Z",
+                        "publicId": "a03c2dc1-af82-48de-87d9-043f37d49b65",
+                        "creationDate": "2023-02-15T19:57:11Z",
+                        "updatedDate": "2023-02-24T01:01:54Z",
                         "deletedAt": null,
                         "competitionRole": "starter",
                         "player": {
-                          "publicId": "c6773312-3779-4f55-9579-5e25326ffa5e",
-                          "alias": "gran",
-                          "disabled": false,
-                          "lockedUntil": "2022-08-18",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
-                        "publicId": "feba34cf-7ad6-485d-af86-60de205f1c06",
-                        "creationDate": "2023-02-20T01:57:53Z",
-                        "updatedDate": "2023-02-23T23:48:37Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "34499c26-413d-4948-a229-ca0c76a4014c",
-                          "alias": "DakotaNY",
+                          "publicId": "923f8be6-b500-4f8a-adee-940e4ea8b96f",
+                          "alias": "Envore",
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22434,14 +22339,14 @@
                         "checkedIn": true
                       },
                       {
-                        "publicId": "ddf2e595-b194-491e-bf76-1afcbc237a4b",
-                        "creationDate": "2023-02-20T19:10:09Z",
-                        "updatedDate": "2023-02-24T13:40:12Z",
+                        "publicId": "5b8cff0c-25dd-4b0a-b18e-13d195c72e01",
+                        "creationDate": "2023-02-15T23:48:59Z",
+                        "updatedDate": "2023-02-24T01:02:18Z",
                         "deletedAt": null,
                         "competitionRole": "starter",
                         "player": {
-                          "publicId": "0f3db41d-7483-4162-ab22-dc292869c575",
-                          "alias": "yakzn",
+                          "publicId": "3fe9bce4-d28b-45b5-aa67-0aa2760ccaae",
+                          "alias": "Articc",
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22450,14 +22355,115 @@
                         "checkedIn": true
                       },
                       {
-                        "publicId": "451187fc-af54-42de-be91-6f2260523e93",
-                        "creationDate": "2023-02-20T19:15:31Z",
-                        "updatedDate": "2023-02-23T23:48:15Z",
+                        "publicId": "63becace-e7a7-4665-9639-fb3007a3c5be",
+                        "creationDate": "2023-02-15T23:50:25Z",
+                        "updatedDate": "2023-02-24T01:01:53Z",
                         "deletedAt": null,
                         "competitionRole": "starter",
                         "player": {
-                          "publicId": "7bed3f93-2c65-4783-ae9d-2042ed98a988",
-                          "alias": "Tricky",
+                          "publicId": "17414c82-fb78-4167-b58e-1ebb33dc5c3c",
+                          "alias": "Avenue",
+                          "disabled": false,
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "cd69d719-61fa-4105-8e90-f38fffbffee8",
+                        "creationDate": "2023-02-16T02:22:36Z",
+                        "updatedDate": "2023-02-24T01:02:16Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "580dff60-337d-45ba-9ab6-e0fd31d2eef6",
+                          "alias": "Toni2turnt",
+                          "disabled": false,
+                          "lockedUntil": "2022-02-17",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      }
+                    ]
+                  }
+                },
+                {
+                  "place": 25,
+                  "roster": {
+                    "publicId": "f8289704-54b2-4898-9aef-dc2b906603af",
+                    "creationDate": "2023-02-16T22:59:31Z",
+                    "updatedDate": "2023-02-24T14:07:36Z",
+                    "deletedAt": null,
+                    "name": "VERTEX ESC",
+                    "creationReason": "adminCreated",
+                    "status": "checkedIn",
+                    "locked": true,
+                    "nameLocked": true,
+                    "disabled": false,
+                    "acceptedRules": true,
+                    "logoURL": null,
+                    "hasPendingLogo": false,
+                    "imageUploadEnabled": true,
+                    "members": [
+                      {
+                        "publicId": "c8845945-90e3-464d-9a8d-44acc9885de2",
+                        "creationDate": "2023-02-16T22:59:44Z",
+                        "updatedDate": "2023-02-24T14:06:54Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "cb4ea263-bdf8-4c58-80a8-213bb6f86ab1",
+                          "alias": "ManOfChicken",
+                          "disabled": false,
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "df5fbe5a-34ca-44c9-af1b-8b34fa415723",
+                        "creationDate": "2023-02-16T22:59:50Z",
+                        "updatedDate": "2023-02-24T14:06:36Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "2857cae4-1a4c-45f5-b434-dc65e6de3ea8",
+                          "alias": "Djvinity",
+                          "disabled": false,
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "b9581ff2-0087-4980-babd-ec41be9e0cef",
+                        "creationDate": "2023-02-16T22:59:55Z",
+                        "updatedDate": "2023-02-24T14:06:15Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "8a76bcea-3898-4508-8676-7ba0a1ca6155",
+                          "alias": "Ryuu",
+                          "disabled": false,
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "fe5eb163-c0df-4b42-968e-969b5a533c79",
+                        "creationDate": "2023-02-16T23:00:02Z",
+                        "updatedDate": "2023-02-24T14:07:36Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "b7c29781-8113-4f13-ba48-a094b1973a16",
+                          "alias": "Scoobmeistr",
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22556,6 +22562,91 @@
                 {
                   "place": 25,
                   "roster": {
+                    "publicId": "12ff34f4-8d57-4ba9-bbe7-6d381ca14adb",
+                    "creationDate": "2023-02-20T01:25:49Z",
+                    "updatedDate": "2023-02-24T13:40:12Z",
+                    "deletedAt": null,
+                    "name": "Milk & Honey",
+                    "creationReason": "boughtPass",
+                    "status": "checkedIn",
+                    "locked": false,
+                    "nameLocked": false,
+                    "disabled": false,
+                    "acceptedRules": true,
+                    "logoURL": null,
+                    "hasPendingLogo": false,
+                    "imageUploadEnabled": true,
+                    "members": [
+                      {
+                        "publicId": "816a172e-256e-4be3-8028-329c8fb5900e",
+                        "creationDate": "2023-02-20T01:28:46Z",
+                        "updatedDate": "2023-02-24T00:10:04Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "c6773312-3779-4f55-9579-5e25326ffa5e",
+                          "alias": "gran",
+                          "disabled": false,
+                          "lockedUntil": "2022-08-18",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "feba34cf-7ad6-485d-af86-60de205f1c06",
+                        "creationDate": "2023-02-20T01:57:53Z",
+                        "updatedDate": "2023-02-23T23:48:37Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "34499c26-413d-4948-a229-ca0c76a4014c",
+                          "alias": "DakotaNY",
+                          "disabled": false,
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "ddf2e595-b194-491e-bf76-1afcbc237a4b",
+                        "creationDate": "2023-02-20T19:10:09Z",
+                        "updatedDate": "2023-02-24T13:40:12Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "0f3db41d-7483-4162-ab22-dc292869c575",
+                          "alias": "yakzn",
+                          "disabled": false,
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "451187fc-af54-42de-be91-6f2260523e93",
+                        "creationDate": "2023-02-20T19:15:31Z",
+                        "updatedDate": "2023-02-23T23:48:15Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "7bed3f93-2c65-4783-ae9d-2042ed98a988",
+                          "alias": "Tricky",
+                          "disabled": false,
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      }
+                    ]
+                  }
+                },
+                {
+                  "place": 25,
+                  "roster": {
                     "publicId": "6d424c6b-becd-45ce-b031-0f9dd9af3b4c",
                     "creationDate": "2023-02-13T22:22:50Z",
                     "updatedDate": "2023-02-24T14:01:54Z",
@@ -22572,14 +22663,30 @@
                     "imageUploadEnabled": true,
                     "members": [
                       {
-                        "publicId": "a3f4b9a1-ca23-4852-9535-6518b91e9ec3",
-                        "creationDate": "2023-02-13T22:25:13Z",
-                        "updatedDate": "2023-02-23T23:48:54Z",
+                        "publicId": "f98e6c16-e2e4-44e1-8afa-1ee56b5dfb28",
+                        "creationDate": "2023-02-14T03:26:26Z",
+                        "updatedDate": "2023-02-23T23:49:08Z",
                         "deletedAt": null,
                         "competitionRole": "starter",
                         "player": {
-                          "publicId": "b010d01e-e8c3-448a-9dfd-10352f935544",
-                          "alias": "Ret",
+                          "publicId": "acc3b6f6-d158-45c4-bafe-492559294996",
+                          "alias": "Squilly",
+                          "disabled": false,
+                          "lockedUntil": "2022-02-17",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "2ba5e0c0-0a2d-4871-ba37-2e1a80adf406",
+                        "creationDate": "2023-02-14T03:31:53Z",
+                        "updatedDate": "2023-02-24T14:01:54Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "ebcbd2e3-1196-4be4-b060-ecb9c2a87bc5",
+                          "alias": "Neeruh",
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22604,115 +22711,14 @@
                         "checkedIn": true
                       },
                       {
-                        "publicId": "2ba5e0c0-0a2d-4871-ba37-2e1a80adf406",
-                        "creationDate": "2023-02-14T03:31:53Z",
-                        "updatedDate": "2023-02-24T14:01:54Z",
+                        "publicId": "a3f4b9a1-ca23-4852-9535-6518b91e9ec3",
+                        "creationDate": "2023-02-13T22:25:13Z",
+                        "updatedDate": "2023-02-23T23:48:54Z",
                         "deletedAt": null,
                         "competitionRole": "starter",
                         "player": {
-                          "publicId": "ebcbd2e3-1196-4be4-b060-ecb9c2a87bc5",
-                          "alias": "Neeruh",
-                          "disabled": false,
-                          "lockedUntil": "",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
-                        "publicId": "f98e6c16-e2e4-44e1-8afa-1ee56b5dfb28",
-                        "creationDate": "2023-02-14T03:26:26Z",
-                        "updatedDate": "2023-02-23T23:49:08Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "acc3b6f6-d158-45c4-bafe-492559294996",
-                          "alias": "Squilly",
-                          "disabled": false,
-                          "lockedUntil": "2022-02-17",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      }
-                    ]
-                  }
-                },
-                {
-                  "place": 25,
-                  "roster": {
-                    "publicId": "f8289704-54b2-4898-9aef-dc2b906603af",
-                    "creationDate": "2023-02-16T22:59:31Z",
-                    "updatedDate": "2023-02-24T14:07:36Z",
-                    "deletedAt": null,
-                    "name": "VERTEX ESC",
-                    "creationReason": "adminCreated",
-                    "status": "checkedIn",
-                    "locked": true,
-                    "nameLocked": true,
-                    "disabled": false,
-                    "acceptedRules": true,
-                    "logoURL": null,
-                    "hasPendingLogo": false,
-                    "imageUploadEnabled": true,
-                    "members": [
-                      {
-                        "publicId": "c8845945-90e3-464d-9a8d-44acc9885de2",
-                        "creationDate": "2023-02-16T22:59:44Z",
-                        "updatedDate": "2023-02-24T14:06:54Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "cb4ea263-bdf8-4c58-80a8-213bb6f86ab1",
-                          "alias": "ManOfChicken",
-                          "disabled": false,
-                          "lockedUntil": "",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
-                        "publicId": "df5fbe5a-34ca-44c9-af1b-8b34fa415723",
-                        "creationDate": "2023-02-16T22:59:50Z",
-                        "updatedDate": "2023-02-24T14:06:36Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "2857cae4-1a4c-45f5-b434-dc65e6de3ea8",
-                          "alias": "Djvinity",
-                          "disabled": false,
-                          "lockedUntil": "",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
-                        "publicId": "b9581ff2-0087-4980-babd-ec41be9e0cef",
-                        "creationDate": "2023-02-16T22:59:55Z",
-                        "updatedDate": "2023-02-24T14:06:15Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "8a76bcea-3898-4508-8676-7ba0a1ca6155",
-                          "alias": "Ryuu",
-                          "disabled": false,
-                          "lockedUntil": "",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
-                        "publicId": "fe5eb163-c0df-4b42-968e-969b5a533c79",
-                        "creationDate": "2023-02-16T23:00:02Z",
-                        "updatedDate": "2023-02-24T14:07:36Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "b7c29781-8113-4f13-ba48-a094b1973a16",
-                          "alias": "Scoobmeistr",
+                          "publicId": "b010d01e-e8c3-448a-9dfd-10352f935544",
+                          "alias": "Ret",
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22726,11 +22732,11 @@
                 {
                   "place": 29,
                   "roster": {
-                    "publicId": "b3efb646-9cf2-419e-995f-e9089d98f554",
-                    "creationDate": "2023-02-20T01:16:26Z",
-                    "updatedDate": "2023-02-23T23:36:09Z",
+                    "publicId": "0d7c3019-923c-4fcf-a75a-d1c02012a33e",
+                    "creationDate": "2023-01-23T18:13:50Z",
+                    "updatedDate": "2023-02-24T14:33:16Z",
                     "deletedAt": null,
-                    "name": "Falling Esports",
+                    "name": "Tenacious",
                     "creationReason": "boughtPass",
                     "status": "checkedIn",
                     "locked": false,
@@ -22742,14 +22748,14 @@
                     "imageUploadEnabled": true,
                     "members": [
                       {
-                        "publicId": "00c2b1fb-2969-4776-b5a7-2f752be1d079",
-                        "creationDate": "2023-02-20T02:27:55Z",
-                        "updatedDate": "2023-02-23T23:35:06Z",
+                        "publicId": "c9b2d34b-a789-4111-874d-ab3ec3609ea0",
+                        "creationDate": "2023-02-11T21:28:34Z",
+                        "updatedDate": "2023-02-24T14:05:16Z",
                         "deletedAt": null,
                         "competitionRole": "starter",
                         "player": {
-                          "publicId": "60ee111d-a84f-45b0-8434-ad47a9527258",
-                          "alias": "Name",
+                          "publicId": "80ec1ba9-4e0e-42c0-b584-7f094981eb97",
+                          "alias": "CollecTive",
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22758,30 +22764,14 @@
                         "checkedIn": true
                       },
                       {
-                        "publicId": "c3a70f91-98f2-4c20-85fe-6f3c2a920485",
-                        "creationDate": "2023-02-20T01:26:06Z",
-                        "updatedDate": "2023-02-23T23:36:09Z",
+                        "publicId": "4cc64e70-6594-4669-bb69-325a441044d8",
+                        "creationDate": "2023-01-23T18:31:24Z",
+                        "updatedDate": "2023-02-24T14:05:33Z",
                         "deletedAt": null,
                         "competitionRole": "starter",
                         "player": {
-                          "publicId": "bd4adfee-c3e5-4892-8d45-892d304a846f",
-                          "alias": "Native",
-                          "disabled": false,
-                          "lockedUntil": "2023-05-21",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
-                        "publicId": "51358193-c73f-409d-8b0c-a28cb8840cef",
-                        "creationDate": "2023-02-20T02:28:49Z",
-                        "updatedDate": "2023-02-23T23:34:50Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "c0e3cc52-719b-4e78-87bc-9d1cb0f3ead8",
-                          "alias": "Cherished",
+                          "publicId": "b2fce11f-f06d-42ad-85bb-c66d9927adf0",
+                          "alias": "Kaplz",
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22790,16 +22780,32 @@
                         "checkedIn": true
                       },
                       {
-                        "publicId": "59482803-3e98-4aec-abc7-d733e023205f",
-                        "creationDate": "2023-02-20T01:20:44Z",
-                        "updatedDate": "2023-02-23T23:35:06Z",
+                        "publicId": "d6ac8f38-6258-4944-a52d-af4abcae3238",
+                        "creationDate": "2023-01-23T18:16:07Z",
+                        "updatedDate": "2023-02-24T14:30:53Z",
                         "deletedAt": null,
                         "competitionRole": "starter",
                         "player": {
-                          "publicId": "c05959a3-bb51-4c5c-8b79-09edb5d48568",
-                          "alias": "ShocKiLL",
+                          "publicId": "77ef248a-7706-4b48-8576-116ab9ac759d",
+                          "alias": "Parabola",
                           "disabled": false,
-                          "lockedUntil": "",
+                          "lockedUntil": "2022-05-17",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "e16f5ff2-3304-4a55-bb7b-4892ea0c00eb",
+                        "creationDate": "2023-01-23T18:32:01Z",
+                        "updatedDate": "2023-02-24T14:33:16Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "a9f923d1-c83e-43f6-a573-3e4ecc6c5f15",
+                          "alias": "Ivonized",
+                          "disabled": false,
+                          "lockedUntil": "2022-12-22",
                           "partnerId": "XBL",
                           "status": ""
                         },
@@ -22883,6 +22889,91 @@
                         "player": {
                           "publicId": "c2201a43-fa83-4c57-bf1a-e01a89f21a63",
                           "alias": "ForAtticus",
+                          "disabled": false,
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      }
+                    ]
+                  }
+                },
+                {
+                  "place": 29,
+                  "roster": {
+                    "publicId": "f711991b-c6ec-4841-8a43-fd5dfcd23428",
+                    "creationDate": "2023-02-09T03:30:15Z",
+                    "updatedDate": "2023-02-24T15:07:20Z",
+                    "deletedAt": null,
+                    "name": "TeamMETA",
+                    "creationReason": "boughtPass",
+                    "status": "checkedIn",
+                    "locked": false,
+                    "nameLocked": false,
+                    "disabled": false,
+                    "acceptedRules": true,
+                    "logoURL": null,
+                    "hasPendingLogo": false,
+                    "imageUploadEnabled": true,
+                    "members": [
+                      {
+                        "publicId": "c65b3885-f8ef-4905-aa7b-ea7a5951c06f",
+                        "creationDate": "2023-02-09T17:06:44Z",
+                        "updatedDate": "2023-02-24T14:28:46Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "2daecec0-f282-496e-8069-40d587750c6b",
+                          "alias": "CommandStation",
+                          "disabled": false,
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "b055e9c6-66b3-4f30-971d-69d95e4e26dd",
+                        "creationDate": "2023-02-09T21:23:33Z",
+                        "updatedDate": "2023-02-24T15:07:08Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "f110bcba-5455-4bb1-97a2-560958ce97b7",
+                          "alias": "AceTV",
+                          "disabled": false,
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "b5c3530e-b40b-4e40-8e9d-ed2700b33491",
+                        "creationDate": "2023-02-10T02:52:14Z",
+                        "updatedDate": "2023-02-24T15:07:20Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "ff942c2c-c0d4-43d5-a543-b41b60239ab0",
+                          "alias": "Lehcar",
+                          "disabled": false,
+                          "lockedUntil": "2023-05-10",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "08f16e6b-af17-406a-8ce1-232aa079d15b",
+                        "creationDate": "2023-02-09T06:07:50Z",
+                        "updatedDate": "2023-02-24T15:07:03Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "1b3148e2-b04f-476e-bb36-0aa947c47d5c",
+                          "alias": "Cratos",
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22981,11 +23072,11 @@
                 {
                   "place": 29,
                   "roster": {
-                    "publicId": "f711991b-c6ec-4841-8a43-fd5dfcd23428",
-                    "creationDate": "2023-02-09T03:30:15Z",
-                    "updatedDate": "2023-02-24T15:07:20Z",
+                    "publicId": "b3efb646-9cf2-419e-995f-e9089d98f554",
+                    "creationDate": "2023-02-20T01:16:26Z",
+                    "updatedDate": "2023-02-23T23:36:09Z",
                     "deletedAt": null,
-                    "name": "TeamMETA",
+                    "name": "Falling Esports",
                     "creationReason": "boughtPass",
                     "status": "checkedIn",
                     "locked": false,
@@ -22997,14 +23088,30 @@
                     "imageUploadEnabled": true,
                     "members": [
                       {
-                        "publicId": "c65b3885-f8ef-4905-aa7b-ea7a5951c06f",
-                        "creationDate": "2023-02-09T17:06:44Z",
-                        "updatedDate": "2023-02-24T14:28:46Z",
+                        "publicId": "c3a70f91-98f2-4c20-85fe-6f3c2a920485",
+                        "creationDate": "2023-02-20T01:26:06Z",
+                        "updatedDate": "2023-02-23T23:36:09Z",
                         "deletedAt": null,
                         "competitionRole": "starter",
                         "player": {
-                          "publicId": "2daecec0-f282-496e-8069-40d587750c6b",
-                          "alias": "CommandStation",
+                          "publicId": "bd4adfee-c3e5-4892-8d45-892d304a846f",
+                          "alias": "Native",
+                          "disabled": false,
+                          "lockedUntil": "2023-05-21",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "51358193-c73f-409d-8b0c-a28cb8840cef",
+                        "creationDate": "2023-02-20T02:28:49Z",
+                        "updatedDate": "2023-02-23T23:34:50Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "c0e3cc52-719b-4e78-87bc-9d1cb0f3ead8",
+                          "alias": "Cherished",
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -23013,14 +23120,14 @@
                         "checkedIn": true
                       },
                       {
-                        "publicId": "b055e9c6-66b3-4f30-971d-69d95e4e26dd",
-                        "creationDate": "2023-02-09T21:23:33Z",
-                        "updatedDate": "2023-02-24T15:07:08Z",
+                        "publicId": "59482803-3e98-4aec-abc7-d733e023205f",
+                        "creationDate": "2023-02-20T01:20:44Z",
+                        "updatedDate": "2023-02-23T23:35:06Z",
                         "deletedAt": null,
                         "competitionRole": "starter",
                         "player": {
-                          "publicId": "f110bcba-5455-4bb1-97a2-560958ce97b7",
-                          "alias": "AceTV",
+                          "publicId": "c05959a3-bb51-4c5c-8b79-09edb5d48568",
+                          "alias": "ShocKiLL",
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -23029,30 +23136,99 @@
                         "checkedIn": true
                       },
                       {
-                        "publicId": "b5c3530e-b40b-4e40-8e9d-ed2700b33491",
-                        "creationDate": "2023-02-10T02:52:14Z",
-                        "updatedDate": "2023-02-24T15:07:20Z",
+                        "publicId": "00c2b1fb-2969-4776-b5a7-2f752be1d079",
+                        "creationDate": "2023-02-20T02:27:55Z",
+                        "updatedDate": "2023-02-23T23:35:06Z",
                         "deletedAt": null,
                         "competitionRole": "starter",
                         "player": {
-                          "publicId": "ff942c2c-c0d4-43d5-a543-b41b60239ab0",
-                          "alias": "Lehcar",
+                          "publicId": "60ee111d-a84f-45b0-8434-ad47a9527258",
+                          "alias": "Name",
                           "disabled": false,
-                          "lockedUntil": "2023-05-10",
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      }
+                    ]
+                  }
+                },
+                {
+                  "place": 29,
+                  "roster": {
+                    "publicId": "bc549923-06b3-4b29-b6d3-310220647da8",
+                    "creationDate": "2023-01-24T00:53:53Z",
+                    "updatedDate": "2023-02-24T15:16:48Z",
+                    "deletedAt": null,
+                    "name": "Surpassing Limits",
+                    "creationReason": "boughtPass",
+                    "status": "checkedIn",
+                    "locked": false,
+                    "nameLocked": false,
+                    "disabled": false,
+                    "acceptedRules": true,
+                    "logoURL": null,
+                    "hasPendingLogo": false,
+                    "imageUploadEnabled": true,
+                    "members": [
+                      {
+                        "publicId": "1e303132-9fb1-42f4-8455-74290b499394",
+                        "creationDate": "2023-02-11T02:43:44Z",
+                        "updatedDate": "2023-02-24T15:03:21Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "a1b52e47-b622-4eb3-b851-4c1d772a28db",
+                          "alias": "Suheven",
+                          "disabled": false,
+                          "lockedUntil": "",
                           "partnerId": "XBL",
                           "status": ""
                         },
                         "checkedIn": true
                       },
                       {
-                        "publicId": "08f16e6b-af17-406a-8ce1-232aa079d15b",
-                        "creationDate": "2023-02-09T06:07:50Z",
-                        "updatedDate": "2023-02-24T15:07:03Z",
+                        "publicId": "a17ab6c1-83f9-4e37-9587-9b5f8f2441b6",
+                        "creationDate": "2023-01-24T04:30:44Z",
+                        "updatedDate": "2023-02-24T15:01:25Z",
                         "deletedAt": null,
                         "competitionRole": "starter",
                         "player": {
-                          "publicId": "1b3148e2-b04f-476e-bb36-0aa947c47d5c",
-                          "alias": "Cratos",
+                          "publicId": "55610b4e-5167-47ab-8ce2-bedaec017231",
+                          "alias": "CadenDespair",
+                          "disabled": false,
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "390dece2-3ffc-4f00-9928-ed9883068d91",
+                        "creationDate": "2023-01-27T01:34:28Z",
+                        "updatedDate": "2023-02-24T15:01:43Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "9103fb03-c415-4cce-b12c-c61f19a6585f",
+                          "alias": "Cruvu",
+                          "disabled": false,
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "b686cc1e-7e11-451c-850a-f7ea4f1ff8cc",
+                        "creationDate": "2023-02-15T19:22:35Z",
+                        "updatedDate": "2023-02-24T15:16:48Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "341fe2bb-ca0e-4191-9ea4-b92c3c10df8d",
+                          "alias": "Glowzii",
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -23234,176 +23410,6 @@
                   }
                 },
                 {
-                  "place": 29,
-                  "roster": {
-                    "publicId": "bc549923-06b3-4b29-b6d3-310220647da8",
-                    "creationDate": "2023-01-24T00:53:53Z",
-                    "updatedDate": "2023-02-24T15:16:48Z",
-                    "deletedAt": null,
-                    "name": "Surpassing Limits",
-                    "creationReason": "boughtPass",
-                    "status": "checkedIn",
-                    "locked": false,
-                    "nameLocked": false,
-                    "disabled": false,
-                    "acceptedRules": true,
-                    "logoURL": null,
-                    "hasPendingLogo": false,
-                    "imageUploadEnabled": true,
-                    "members": [
-                      {
-                        "publicId": "1e303132-9fb1-42f4-8455-74290b499394",
-                        "creationDate": "2023-02-11T02:43:44Z",
-                        "updatedDate": "2023-02-24T15:03:21Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "a1b52e47-b622-4eb3-b851-4c1d772a28db",
-                          "alias": "Suheven",
-                          "disabled": false,
-                          "lockedUntil": "",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
-                        "publicId": "a17ab6c1-83f9-4e37-9587-9b5f8f2441b6",
-                        "creationDate": "2023-01-24T04:30:44Z",
-                        "updatedDate": "2023-02-24T15:01:25Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "55610b4e-5167-47ab-8ce2-bedaec017231",
-                          "alias": "CadenDespair",
-                          "disabled": false,
-                          "lockedUntil": "",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
-                        "publicId": "390dece2-3ffc-4f00-9928-ed9883068d91",
-                        "creationDate": "2023-01-27T01:34:28Z",
-                        "updatedDate": "2023-02-24T15:01:43Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "9103fb03-c415-4cce-b12c-c61f19a6585f",
-                          "alias": "Cruvu",
-                          "disabled": false,
-                          "lockedUntil": "",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
-                        "publicId": "b686cc1e-7e11-451c-850a-f7ea4f1ff8cc",
-                        "creationDate": "2023-02-15T19:22:35Z",
-                        "updatedDate": "2023-02-24T15:16:48Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "341fe2bb-ca0e-4191-9ea4-b92c3c10df8d",
-                          "alias": "Glowzii",
-                          "disabled": false,
-                          "lockedUntil": "",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      }
-                    ]
-                  }
-                },
-                {
-                  "place": 29,
-                  "roster": {
-                    "publicId": "0d7c3019-923c-4fcf-a75a-d1c02012a33e",
-                    "creationDate": "2023-01-23T18:13:50Z",
-                    "updatedDate": "2023-02-24T14:33:16Z",
-                    "deletedAt": null,
-                    "name": "Tenacious",
-                    "creationReason": "boughtPass",
-                    "status": "checkedIn",
-                    "locked": false,
-                    "nameLocked": false,
-                    "disabled": false,
-                    "acceptedRules": true,
-                    "logoURL": null,
-                    "hasPendingLogo": false,
-                    "imageUploadEnabled": true,
-                    "members": [
-                      {
-                        "publicId": "c9b2d34b-a789-4111-874d-ab3ec3609ea0",
-                        "creationDate": "2023-02-11T21:28:34Z",
-                        "updatedDate": "2023-02-24T14:05:16Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "80ec1ba9-4e0e-42c0-b584-7f094981eb97",
-                          "alias": "CollecTive",
-                          "disabled": false,
-                          "lockedUntil": "",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
-                        "publicId": "4cc64e70-6594-4669-bb69-325a441044d8",
-                        "creationDate": "2023-01-23T18:31:24Z",
-                        "updatedDate": "2023-02-24T14:05:33Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "b2fce11f-f06d-42ad-85bb-c66d9927adf0",
-                          "alias": "Kaplz",
-                          "disabled": false,
-                          "lockedUntil": "",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
-                        "publicId": "d6ac8f38-6258-4944-a52d-af4abcae3238",
-                        "creationDate": "2023-01-23T18:16:07Z",
-                        "updatedDate": "2023-02-24T14:30:53Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "77ef248a-7706-4b48-8576-116ab9ac759d",
-                          "alias": "Parabola",
-                          "disabled": false,
-                          "lockedUntil": "2022-05-17",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
-                        "publicId": "e16f5ff2-3304-4a55-bb7b-4892ea0c00eb",
-                        "creationDate": "2023-01-23T18:32:01Z",
-                        "updatedDate": "2023-02-24T14:33:16Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "a9f923d1-c83e-43f6-a573-3e4ecc6c5f15",
-                          "alias": "Ivonized",
-                          "disabled": false,
-                          "lockedUntil": "2022-12-22",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      }
-                    ]
-                  }
-                },
-                {
                   "place": 37,
                   "roster": {
                     "publicId": "a443a3a1-4e1e-4f18-b4e1-1573b280e986",
@@ -23421,6 +23427,22 @@
                     "hasPendingLogo": false,
                     "imageUploadEnabled": true,
                     "members": [
+                      {
+                        "publicId": "46bf9744-aaa5-46a9-8313-6bd7eae9e566",
+                        "creationDate": "2023-01-23T22:23:24Z",
+                        "updatedDate": "2023-02-24T00:31:37Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "74a15bd7-8dc1-435a-abb9-a7062212b72e",
+                          "alias": "CLIPZ",
+                          "disabled": false,
+                          "lockedUntil": "2023-04-23",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
                       {
                         "publicId": "c2e2fa49-1457-42f2-9b3d-3afa57ecac15",
                         "creationDate": "2023-01-23T20:04:14Z",
@@ -23468,192 +23490,6 @@
                           "status": ""
                         },
                         "checkedIn": true
-                      },
-                      {
-                        "publicId": "46bf9744-aaa5-46a9-8313-6bd7eae9e566",
-                        "creationDate": "2023-01-23T22:23:24Z",
-                        "updatedDate": "2023-02-24T00:31:37Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "74a15bd7-8dc1-435a-abb9-a7062212b72e",
-                          "alias": "CLIPZ",
-                          "disabled": false,
-                          "lockedUntil": "2023-04-23",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      }
-                    ]
-                  }
-                },
-                {
-                  "place": 37,
-                  "roster": {
-                    "publicId": "3d082e08-82f6-41d4-b5b2-7b1120e9325f",
-                    "creationDate": "2023-02-22T19:24:24Z",
-                    "updatedDate": "2023-02-24T14:35:09Z",
-                    "deletedAt": null,
-                    "name": "Status Quo",
-                    "creationReason": "boughtPass",
-                    "status": "checkedIn",
-                    "locked": false,
-                    "nameLocked": false,
-                    "disabled": false,
-                    "acceptedRules": true,
-                    "logoURL": null,
-                    "hasPendingLogo": false,
-                    "imageUploadEnabled": true,
-                    "members": [
-                      {
-                        "publicId": "08fd1823-4e73-4ae0-868c-4ae39d60a9fd",
-                        "creationDate": "2023-02-24T00:48:49Z",
-                        "updatedDate": "2023-02-24T00:49:11Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "3ba6f5d6-be9f-457e-8b37-79814f708490",
-                          "alias": "Blazepc",
-                          "disabled": false,
-                          "lockedUntil": "",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
-                        "publicId": "212854c1-ccf9-46fa-a03e-d3a6d485a490",
-                        "creationDate": "2023-02-24T00:49:02Z",
-                        "updatedDate": "2023-02-24T00:49:13Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "76367831-1da4-4339-8ba6-20b4802bc9f8",
-                          "alias": "Perzecute",
-                          "disabled": false,
-                          "lockedUntil": "",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
-                        "publicId": "e7b210e2-1c49-4603-a01e-2e3ee9b030c6",
-                        "creationDate": "2023-02-24T14:35:03Z",
-                        "updatedDate": "2023-02-24T14:35:09Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "7b04c72c-43e1-4354-9562-0649a92d6e7c",
-                          "alias": "Clay",
-                          "disabled": false,
-                          "lockedUntil": "2023-01-18",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
-                        "publicId": "e86e1a2d-e1cc-4fad-a36a-e47da8581deb",
-                        "creationDate": "2023-02-24T00:48:36Z",
-                        "updatedDate": "2023-02-24T00:49:07Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "ee2ab582-43d2-4113-b0c2-8a135cfcf4e8",
-                          "alias": "Nesity",
-                          "disabled": false,
-                          "lockedUntil": "",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      }
-                    ]
-                  }
-                },
-                {
-                  "place": 37,
-                  "roster": {
-                    "publicId": "747bc173-3e29-4f94-9bbd-320b0683f0b5",
-                    "creationDate": "2023-01-24T01:48:56Z",
-                    "updatedDate": "2023-02-25T06:13:14Z",
-                    "deletedAt": null,
-                    "name": "Targetslidez",
-                    "creationReason": "boughtPass",
-                    "status": "checkedIn",
-                    "locked": false,
-                    "nameLocked": false,
-                    "disabled": false,
-                    "acceptedRules": true,
-                    "logoURL": null,
-                    "hasPendingLogo": false,
-                    "imageUploadEnabled": true,
-                    "members": [
-                      {
-                        "publicId": "619c1e53-e566-48c3-ab60-60bd6009cbf9",
-                        "creationDate": "2023-01-24T19:01:51Z",
-                        "updatedDate": "2023-02-23T23:54:24Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "b1b266ea-b8d8-4650-ac01-f2e962cd7784",
-                          "alias": "zSilvuh",
-                          "disabled": false,
-                          "lockedUntil": "2023-04-24",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
-                        "publicId": "47414c15-a072-4e4f-b5ad-61775014c858",
-                        "creationDate": "2023-02-16T18:47:10Z",
-                        "updatedDate": "2023-02-23T23:54:17Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "89eba8c4-9895-4571-afa0-221a8ac31bd3",
-                          "alias": "Lerskey",
-                          "disabled": false,
-                          "lockedUntil": "",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
-                        "publicId": "97976441-1af9-4a25-b628-4b296de27017",
-                        "creationDate": "2023-02-15T04:59:34Z",
-                        "updatedDate": "2023-02-23T23:54:37Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "3b3a6730-500d-4e45-9e22-fcd6d539a450",
-                          "alias": "RairRezT",
-                          "disabled": false,
-                          "lockedUntil": "2023-04-24",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
-                        "publicId": "90e8c21b-5cb8-491a-8a8c-39ed96d2a669",
-                        "creationDate": "2023-01-24T19:07:15Z",
-                        "updatedDate": "2023-02-23T23:54:03Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "9256740d-92ca-4cad-b60d-94e275b34156",
-                          "alias": "Bolt",
-                          "disabled": false,
-                          "lockedUntil": "",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
                       }
                     ]
                   }
@@ -23677,14 +23513,30 @@
                     "imageUploadEnabled": true,
                     "members": [
                       {
-                        "publicId": "d104ed37-576a-4d3d-96d6-5326f7fd8d3b",
-                        "creationDate": "2023-02-19T07:17:39Z",
-                        "updatedDate": "2023-02-24T13:58:45Z",
+                        "publicId": "d715d83a-3cbd-4e9d-a00c-92718bcc42c1",
+                        "creationDate": "2023-02-13T04:50:06Z",
+                        "updatedDate": "2023-02-24T13:58:05Z",
                         "deletedAt": null,
                         "competitionRole": "starter",
                         "player": {
-                          "publicId": "b2c000ad-994a-46e7-af71-6cd4840d05a2",
-                          "alias": "dog7",
+                          "publicId": "46987342-b66c-4b7a-b44a-bc7a06a89746",
+                          "alias": "maceskii",
+                          "disabled": false,
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "751baf88-c1ff-47f7-bb68-822b6cd8e5a6",
+                        "creationDate": "2023-02-13T04:52:49Z",
+                        "updatedDate": "2023-02-24T13:57:47Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "128d0ea6-45fa-498e-8a59-2469ffdb461e",
+                          "alias": "Schlayygs",
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -23709,30 +23561,14 @@
                         "checkedIn": true
                       },
                       {
-                        "publicId": "751baf88-c1ff-47f7-bb68-822b6cd8e5a6",
-                        "creationDate": "2023-02-13T04:52:49Z",
-                        "updatedDate": "2023-02-24T13:57:47Z",
+                        "publicId": "d104ed37-576a-4d3d-96d6-5326f7fd8d3b",
+                        "creationDate": "2023-02-19T07:17:39Z",
+                        "updatedDate": "2023-02-24T13:58:45Z",
                         "deletedAt": null,
                         "competitionRole": "starter",
                         "player": {
-                          "publicId": "128d0ea6-45fa-498e-8a59-2469ffdb461e",
-                          "alias": "Schlayygs",
-                          "disabled": false,
-                          "lockedUntil": "",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
-                        "publicId": "d715d83a-3cbd-4e9d-a00c-92718bcc42c1",
-                        "creationDate": "2023-02-13T04:50:06Z",
-                        "updatedDate": "2023-02-24T13:58:05Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "46987342-b66c-4b7a-b44a-bc7a06a89746",
-                          "alias": "maceskii",
+                          "publicId": "b2c000ad-994a-46e7-af71-6cd4840d05a2",
+                          "alias": "dog7",
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -23827,11 +23663,181 @@
                       }
                     ]
                   }
+                },
+                {
+                  "place": 37,
+                  "roster": {
+                    "publicId": "3d082e08-82f6-41d4-b5b2-7b1120e9325f",
+                    "creationDate": "2023-02-22T19:24:24Z",
+                    "updatedDate": "2023-02-24T14:35:09Z",
+                    "deletedAt": null,
+                    "name": "Status Quo",
+                    "creationReason": "boughtPass",
+                    "status": "checkedIn",
+                    "locked": false,
+                    "nameLocked": false,
+                    "disabled": false,
+                    "acceptedRules": true,
+                    "logoURL": null,
+                    "hasPendingLogo": false,
+                    "imageUploadEnabled": true,
+                    "members": [
+                      {
+                        "publicId": "e86e1a2d-e1cc-4fad-a36a-e47da8581deb",
+                        "creationDate": "2023-02-24T00:48:36Z",
+                        "updatedDate": "2023-02-24T00:49:07Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "ee2ab582-43d2-4113-b0c2-8a135cfcf4e8",
+                          "alias": "Nesity",
+                          "disabled": false,
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "08fd1823-4e73-4ae0-868c-4ae39d60a9fd",
+                        "creationDate": "2023-02-24T00:48:49Z",
+                        "updatedDate": "2023-02-24T00:49:11Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "3ba6f5d6-be9f-457e-8b37-79814f708490",
+                          "alias": "Blazepc",
+                          "disabled": false,
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "212854c1-ccf9-46fa-a03e-d3a6d485a490",
+                        "creationDate": "2023-02-24T00:49:02Z",
+                        "updatedDate": "2023-02-24T00:49:13Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "76367831-1da4-4339-8ba6-20b4802bc9f8",
+                          "alias": "Perzecute",
+                          "disabled": false,
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "e7b210e2-1c49-4603-a01e-2e3ee9b030c6",
+                        "creationDate": "2023-02-24T14:35:03Z",
+                        "updatedDate": "2023-02-24T14:35:09Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "7b04c72c-43e1-4354-9562-0649a92d6e7c",
+                          "alias": "Clay",
+                          "disabled": false,
+                          "lockedUntil": "2023-01-18",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      }
+                    ]
+                  }
+                },
+                {
+                  "place": 37,
+                  "roster": {
+                    "publicId": "747bc173-3e29-4f94-9bbd-320b0683f0b5",
+                    "creationDate": "2023-01-24T01:48:56Z",
+                    "updatedDate": "2023-02-25T06:13:14Z",
+                    "deletedAt": null,
+                    "name": "Targetslidez",
+                    "creationReason": "boughtPass",
+                    "status": "checkedIn",
+                    "locked": false,
+                    "nameLocked": false,
+                    "disabled": false,
+                    "acceptedRules": true,
+                    "logoURL": null,
+                    "hasPendingLogo": false,
+                    "imageUploadEnabled": true,
+                    "members": [
+                      {
+                        "publicId": "619c1e53-e566-48c3-ab60-60bd6009cbf9",
+                        "creationDate": "2023-01-24T19:01:51Z",
+                        "updatedDate": "2023-02-23T23:54:24Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "b1b266ea-b8d8-4650-ac01-f2e962cd7784",
+                          "alias": "zSilvuh",
+                          "disabled": false,
+                          "lockedUntil": "2023-04-24",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "47414c15-a072-4e4f-b5ad-61775014c858",
+                        "creationDate": "2023-02-16T18:47:10Z",
+                        "updatedDate": "2023-02-23T23:54:17Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "89eba8c4-9895-4571-afa0-221a8ac31bd3",
+                          "alias": "Lerskey",
+                          "disabled": false,
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "97976441-1af9-4a25-b628-4b296de27017",
+                        "creationDate": "2023-02-15T04:59:34Z",
+                        "updatedDate": "2023-02-23T23:54:37Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "3b3a6730-500d-4e45-9e22-fcd6d539a450",
+                          "alias": "RairRezT",
+                          "disabled": false,
+                          "lockedUntil": "2023-04-24",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "90e8c21b-5cb8-491a-8a8c-39ed96d2a669",
+                        "creationDate": "2023-01-24T19:07:15Z",
+                        "updatedDate": "2023-02-23T23:54:03Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "9256740d-92ca-4cad-b60d-94e275b34156",
+                          "alias": "Bolt",
+                          "disabled": false,
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      }
+                    ]
+                  }
                 }
               ]
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677350502667,
+            "dataUpdatedAt": 1677350885668,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
