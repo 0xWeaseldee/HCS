@@ -95,7 +95,7 @@
               "eventSlug": "charlotte"
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677347205541,
+            "dataUpdatedAt": 1677348368523,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -18284,10 +18284,10 @@
                             {
                               "publicId": "795a1cfb-bf4b-4bb2-a547-10058459f0ac",
                               "matchNum": "Pool 1 - 9 vs 16",
-                              "actualStartTime": null,
+                              "actualStartTime": "2023-02-25T17:50:34",
                               "actualEndTime": null,
                               "verifiedTime": null,
-                              "status": "Waiting to be Started",
+                              "status": "Waiting for Match Result",
                               "teams": [
                                 {
                                   "publicId": "c9c64e94-f5b3-454f-9840-fa42846839bf",
@@ -18324,7 +18324,72 @@
                                   "seedNumber": 9
                                 }
                               ],
-                              "result": null,
+                              "result": {
+                                "losers": [],
+                                "winners": [],
+                                "mapScores": {
+                                  "1": {
+                                    "forfeit": [],
+                                    "mapName": "Argyle",
+                                    "winners": [
+                                      "c9c64e94-f5b3-454f-9840-fa42846839bf"
+                                    ],
+                                    "gameMode": "Capture The Flag",
+                                    "teamScores": {
+                                      "c9c64e94-f5b3-454f-9840-fa42846839bf": 3,
+                                      "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2": 0
+                                    },
+                                    "mapModeCombo": "Capture The Flag - Argyle"
+                                  },
+                                  "2": {
+                                    "forfeit": [],
+                                    "mapName": "",
+                                    "winners": [],
+                                    "gameMode": "",
+                                    "teamScores": {
+                                      "c9c64e94-f5b3-454f-9840-fa42846839bf": 0,
+                                      "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2": 0
+                                    },
+                                    "mapModeCombo": ""
+                                  },
+                                  "3": {
+                                    "forfeit": [],
+                                    "mapName": "",
+                                    "winners": [],
+                                    "gameMode": "",
+                                    "teamScores": {
+                                      "c9c64e94-f5b3-454f-9840-fa42846839bf": 0,
+                                      "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2": 0
+                                    },
+                                    "mapModeCombo": ""
+                                  },
+                                  "4": {
+                                    "forfeit": [],
+                                    "mapName": "",
+                                    "winners": [],
+                                    "gameMode": "",
+                                    "teamScores": {
+                                      "c9c64e94-f5b3-454f-9840-fa42846839bf": 0,
+                                      "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2": 0
+                                    },
+                                    "mapModeCombo": ""
+                                  },
+                                  "5": {
+                                    "forfeit": [],
+                                    "mapName": "",
+                                    "winners": [],
+                                    "gameMode": "",
+                                    "teamScores": {
+                                      "c9c64e94-f5b3-454f-9840-fa42846839bf": 0,
+                                      "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2": 0
+                                    },
+                                    "mapModeCombo": ""
+                                  }
+                                },
+                                "disqualified": [],
+                                "numberOfGames": 5,
+                                "matchFormatType": "bestOf"
+                              },
                               "projectedStartTime": "2023-02-25T18:00:00Z",
                               "isBroadcast": false,
                               "broadcastLinks": []
@@ -19084,119 +19149,6 @@
                           "roundNum": 1,
                           "matches": [
                             {
-                              "publicId": "c1c096db-b0b4-4d46-b925-a0633bb7eed1",
-                              "matchNum": "Pool 2 - 10 vs 15",
-                              "actualStartTime": "2023-02-25T17:17:46",
-                              "actualEndTime": null,
-                              "verifiedTime": null,
-                              "status": "Waiting for Match Result",
-                              "teams": [
-                                {
-                                  "publicId": "0e42296d-ce3b-435c-af63-7bc3d91a1984",
-                                  "creationDate": "2023-02-22T19:40:21Z",
-                                  "updatedDate": "2023-02-24T21:20:35Z",
-                                  "deletedAt": null,
-                                  "name": "Cloud9",
-                                  "creationReason": "adminCreated",
-                                  "status": "checkedIn",
-                                  "locked": true,
-                                  "nameLocked": true,
-                                  "disabled": false,
-                                  "acceptedRules": true,
-                                  "logoURL": null,
-                                  "hasPendingLogo": false,
-                                  "imageUploadEnabled": true,
-                                  "seedNumber": 15
-                                },
-                                {
-                                  "publicId": "5a43bf41-e26c-4da5-a916-b791ca4d33d6",
-                                  "creationDate": "2023-02-16T22:49:11Z",
-                                  "updatedDate": "2023-02-23T17:31:31Z",
-                                  "deletedAt": null,
-                                  "name": "Quadrant",
-                                  "creationReason": "adminCreated",
-                                  "status": "checkedIn",
-                                  "locked": true,
-                                  "nameLocked": true,
-                                  "disabled": false,
-                                  "acceptedRules": true,
-                                  "logoURL": "https://assets.esportsengine.co/logos/5a43bf41-e26c-4da5-a916-b791ca4d33d6.png",
-                                  "hasPendingLogo": false,
-                                  "imageUploadEnabled": true,
-                                  "seedNumber": 10
-                                }
-                              ],
-                              "result": {
-                                "losers": [],
-                                "winners": [],
-                                "mapScores": {
-                                  "1": {
-                                    "forfeit": [],
-                                    "mapName": "Argyle",
-                                    "winners": [
-                                      "5a43bf41-e26c-4da5-a916-b791ca4d33d6"
-                                    ],
-                                    "gameMode": "Capture The Flag",
-                                    "teamScores": {
-                                      "0e42296d-ce3b-435c-af63-7bc3d91a1984": 1,
-                                      "5a43bf41-e26c-4da5-a916-b791ca4d33d6": 2
-                                    },
-                                    "mapModeCombo": "Capture The Flag - Argyle"
-                                  },
-                                  "2": {
-                                    "forfeit": [],
-                                    "mapName": "",
-                                    "winners": [],
-                                    "gameMode": "",
-                                    "teamScores": {
-                                      "0e42296d-ce3b-435c-af63-7bc3d91a1984": 0,
-                                      "5a43bf41-e26c-4da5-a916-b791ca4d33d6": 0
-                                    },
-                                    "mapModeCombo": ""
-                                  },
-                                  "3": {
-                                    "forfeit": [],
-                                    "mapName": "",
-                                    "winners": [],
-                                    "gameMode": "",
-                                    "teamScores": {
-                                      "0e42296d-ce3b-435c-af63-7bc3d91a1984": 0,
-                                      "5a43bf41-e26c-4da5-a916-b791ca4d33d6": 0
-                                    },
-                                    "mapModeCombo": ""
-                                  },
-                                  "4": {
-                                    "forfeit": [],
-                                    "mapName": "",
-                                    "winners": [],
-                                    "gameMode": "",
-                                    "teamScores": {
-                                      "0e42296d-ce3b-435c-af63-7bc3d91a1984": 0,
-                                      "5a43bf41-e26c-4da5-a916-b791ca4d33d6": 0
-                                    },
-                                    "mapModeCombo": ""
-                                  },
-                                  "5": {
-                                    "forfeit": [],
-                                    "mapName": "",
-                                    "winners": [],
-                                    "gameMode": "",
-                                    "teamScores": {
-                                      "0e42296d-ce3b-435c-af63-7bc3d91a1984": 0,
-                                      "5a43bf41-e26c-4da5-a916-b791ca4d33d6": 0
-                                    },
-                                    "mapModeCombo": ""
-                                  }
-                                },
-                                "disqualified": [],
-                                "numberOfGames": 5,
-                                "matchFormatType": "bestOf"
-                              },
-                              "projectedStartTime": "2023-02-25T18:00:00Z",
-                              "isBroadcast": false,
-                              "broadcastLinks": []
-                            },
-                            {
                               "publicId": "4233bf61-5892-401d-b977-81869804c378",
                               "matchNum": "Pool 2 - 7 vs 10",
                               "actualStartTime": "2023-02-24T19:41:24",
@@ -19851,6 +19803,121 @@
                               "projectedStartTime": "2023-02-25T16:30:00Z",
                               "isBroadcast": false,
                               "broadcastLinks": []
+                            },
+                            {
+                              "publicId": "c1c096db-b0b4-4d46-b925-a0633bb7eed1",
+                              "matchNum": "Pool 2 - 10 vs 15",
+                              "actualStartTime": "2023-02-25T17:17:46",
+                              "actualEndTime": null,
+                              "verifiedTime": null,
+                              "status": "Waiting for Match Result",
+                              "teams": [
+                                {
+                                  "publicId": "0e42296d-ce3b-435c-af63-7bc3d91a1984",
+                                  "creationDate": "2023-02-22T19:40:21Z",
+                                  "updatedDate": "2023-02-24T21:20:35Z",
+                                  "deletedAt": null,
+                                  "name": "Cloud9",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": null,
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 15
+                                },
+                                {
+                                  "publicId": "5a43bf41-e26c-4da5-a916-b791ca4d33d6",
+                                  "creationDate": "2023-02-16T22:49:11Z",
+                                  "updatedDate": "2023-02-23T17:31:31Z",
+                                  "deletedAt": null,
+                                  "name": "Quadrant",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/5a43bf41-e26c-4da5-a916-b791ca4d33d6.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 10
+                                }
+                              ],
+                              "result": {
+                                "losers": [],
+                                "winners": [],
+                                "mapScores": {
+                                  "1": {
+                                    "forfeit": [],
+                                    "mapName": "Argyle",
+                                    "winners": [
+                                      "5a43bf41-e26c-4da5-a916-b791ca4d33d6"
+                                    ],
+                                    "gameMode": "Capture The Flag",
+                                    "teamScores": {
+                                      "0e42296d-ce3b-435c-af63-7bc3d91a1984": 1,
+                                      "5a43bf41-e26c-4da5-a916-b791ca4d33d6": 2
+                                    },
+                                    "mapModeCombo": "Capture The Flag - Argyle"
+                                  },
+                                  "2": {
+                                    "forfeit": [],
+                                    "mapName": "Empyrean",
+                                    "winners": [
+                                      "0e42296d-ce3b-435c-af63-7bc3d91a1984"
+                                    ],
+                                    "gameMode": "Slayer",
+                                    "teamScores": {
+                                      "0e42296d-ce3b-435c-af63-7bc3d91a1984": 50,
+                                      "5a43bf41-e26c-4da5-a916-b791ca4d33d6": 48
+                                    },
+                                    "mapModeCombo": "Slayer - Empyrean"
+                                  },
+                                  "3": {
+                                    "forfeit": [],
+                                    "mapName": "",
+                                    "winners": [],
+                                    "gameMode": "",
+                                    "teamScores": {
+                                      "0e42296d-ce3b-435c-af63-7bc3d91a1984": 0,
+                                      "5a43bf41-e26c-4da5-a916-b791ca4d33d6": 0
+                                    },
+                                    "mapModeCombo": "-"
+                                  },
+                                  "4": {
+                                    "forfeit": [],
+                                    "mapName": "",
+                                    "winners": [],
+                                    "gameMode": "",
+                                    "teamScores": {
+                                      "0e42296d-ce3b-435c-af63-7bc3d91a1984": 0,
+                                      "5a43bf41-e26c-4da5-a916-b791ca4d33d6": 0
+                                    },
+                                    "mapModeCombo": "-"
+                                  },
+                                  "5": {
+                                    "forfeit": [],
+                                    "mapName": "",
+                                    "winners": [],
+                                    "gameMode": "",
+                                    "teamScores": {
+                                      "0e42296d-ce3b-435c-af63-7bc3d91a1984": 0,
+                                      "5a43bf41-e26c-4da5-a916-b791ca4d33d6": 0
+                                    },
+                                    "mapModeCombo": "-"
+                                  }
+                                },
+                                "disqualified": [],
+                                "numberOfGames": 5,
+                                "matchFormatType": "bestOf"
+                              },
+                              "projectedStartTime": "2023-02-25T18:00:00Z",
+                              "isBroadcast": false,
+                              "broadcastLinks": []
                             }
                           ]
                         }
@@ -20347,14 +20414,16 @@
                                   },
                                   "4": {
                                     "forfeit": [],
-                                    "mapName": "",
-                                    "winners": [],
-                                    "gameMode": "",
+                                    "mapName": "Aquarius",
+                                    "winners": [
+                                      "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9"
+                                    ],
+                                    "gameMode": "Capture The Flag",
                                     "teamScores": {
-                                      "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9": 0,
-                                      "ee4cc932-1be9-47c6-ab0c-ddcd60f9a81b": 0
+                                      "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9": 3,
+                                      "ee4cc932-1be9-47c6-ab0c-ddcd60f9a81b": 2
                                     },
-                                    "mapModeCombo": "-"
+                                    "mapModeCombo": "Capture The Flag - Aquarius"
                                   },
                                   "5": {
                                     "forfeit": [],
@@ -20755,10 +20824,10 @@
                             {
                               "publicId": "411d2a30-fe18-4f35-961e-ed4229bece83",
                               "matchNum": "Pool 4 - 4 vs 13",
-                              "actualStartTime": null,
+                              "actualStartTime": "2023-02-25T17:55:04",
                               "actualEndTime": null,
                               "verifiedTime": null,
-                              "status": "Waiting to be Started",
+                              "status": "Waiting for Match Result",
                               "teams": [
                                 {
                                   "publicId": "097ab542-8214-4db5-968e-e8a10df7b407",
@@ -21059,9 +21128,9 @@
                               "publicId": "5a30ca77-8329-4537-80ba-7e0643cda094",
                               "matchNum": "Pool 4 - 13 vs 5",
                               "actualStartTime": "2023-02-25T16:46:15",
-                              "actualEndTime": null,
+                              "actualEndTime": "2023-02-25T17:54:53",
                               "verifiedTime": null,
-                              "status": "Waiting for Match Result",
+                              "status": "Waiting for Verification",
                               "teams": [
                                 {
                                   "publicId": "097ab542-8214-4db5-968e-e8a10df7b407",
@@ -21099,8 +21168,12 @@
                                 }
                               ],
                               "result": {
-                                "losers": [],
-                                "winners": [],
+                                "losers": [
+                                  "097ab542-8214-4db5-968e-e8a10df7b407"
+                                ],
+                                "winners": [
+                                  "393c68a8-1428-4324-9d93-360c5ee0b0a0"
+                                ],
                                 "mapScores": {
                                   "1": {
                                     "forfeit": [],
@@ -21143,14 +21216,16 @@
                                   },
                                   "4": {
                                     "forfeit": [],
-                                    "mapName": "",
-                                    "winners": [],
-                                    "gameMode": "",
+                                    "mapName": "Aquarius",
+                                    "winners": [
+                                      "393c68a8-1428-4324-9d93-360c5ee0b0a0"
+                                    ],
+                                    "gameMode": "Capture The Flag",
                                     "teamScores": {
-                                      "097ab542-8214-4db5-968e-e8a10df7b407": 0,
-                                      "393c68a8-1428-4324-9d93-360c5ee0b0a0": 0
+                                      "097ab542-8214-4db5-968e-e8a10df7b407": 4,
+                                      "393c68a8-1428-4324-9d93-360c5ee0b0a0": 5
                                     },
-                                    "mapModeCombo": "-"
+                                    "mapModeCombo": "Capture The Flag - Aquarius"
                                   },
                                   "5": {
                                     "forfeit": [],
@@ -21452,7 +21527,7 @@
               }
             ],
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677347205671,
+            "dataUpdatedAt": 1677348368685,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -23610,7 +23685,7 @@
               ]
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677347205744,
+            "dataUpdatedAt": 1677348368759,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
