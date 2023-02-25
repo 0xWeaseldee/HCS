@@ -95,7 +95,7 @@
               "eventSlug": "charlotte"
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677283680677,
+            "dataUpdatedAt": 1677284063008,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -8948,11 +8948,13 @@
                               "3": {
                                 "forfeit": [],
                                 "mapName": "Live Fire",
-                                "winners": [],
+                                "winners": [
+                                  "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9"
+                                ],
                                 "gameMode": "King Of The Hill",
                                 "teamScores": {
                                   "0e42296d-ce3b-435c-af63-7bc3d91a1984": 0,
-                                  "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9": 0
+                                  "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9": 4
                                 },
                                 "mapModeCombo": "King Of The Hill - Live Fire"
                               },
@@ -16651,11 +16653,13 @@
                               "2": {
                                 "forfeit": [],
                                 "mapName": "Streets",
-                                "winners": [],
+                                "winners": [
+                                  "6e426711-e5c3-4020-aa52-deb750dc64c6"
+                                ],
                                 "gameMode": "Slayer",
                                 "teamScores": {
-                                  "59543935-e2f6-4fc7-af20-715f6fb7819d": 0,
-                                  "6e426711-e5c3-4020-aa52-deb750dc64c6": 0
+                                  "59543935-e2f6-4fc7-af20-715f6fb7819d": 45,
+                                  "6e426711-e5c3-4020-aa52-deb750dc64c6": 50
                                 },
                                 "mapModeCombo": "Slayer - Streets"
                               },
@@ -20163,7 +20167,7 @@
               }
             ],
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677283680803,
+            "dataUpdatedAt": 1677284063135,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -22621,7 +22625,7 @@
               ]
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677283680895,
+            "dataUpdatedAt": 1677284063209,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
