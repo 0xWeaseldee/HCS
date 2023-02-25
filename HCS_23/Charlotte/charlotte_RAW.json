@@ -95,7 +95,7 @@
               "eventSlug": "charlotte"
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677348368523,
+            "dataUpdatedAt": 1677349053386,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -18098,7 +18098,7 @@
                         "roster": {
                           "publicId": "ee4cc932-1be9-47c6-ab0c-ddcd60f9a81b",
                           "name": "G1",
-                          "wins": 2,
+                          "wins": 3,
                           "losses": 0
                         },
                         "locked": false,
@@ -18119,7 +18119,7 @@
                           "publicId": "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9",
                           "name": "Native White",
                           "wins": 1,
-                          "losses": 0
+                          "losses": 1
                         },
                         "locked": false,
                         "phasePlacementConnection": 11
@@ -18140,7 +18140,7 @@
                         "roster": {
                           "publicId": "393c68a8-1428-4324-9d93-360c5ee0b0a0",
                           "name": "Spacestation Gaming",
-                          "wins": 2,
+                          "wins": 3,
                           "losses": 0
                         },
                         "locked": false,
@@ -18161,7 +18161,7 @@
                           "publicId": "097ab542-8214-4db5-968e-e8a10df7b407",
                           "name": "Complexity",
                           "wins": 1,
-                          "losses": 0
+                          "losses": 1
                         },
                         "locked": false,
                         "phasePlacementConnection": 12
@@ -19879,14 +19879,16 @@
                                   },
                                   "3": {
                                     "forfeit": [],
-                                    "mapName": "",
-                                    "winners": [],
-                                    "gameMode": "",
+                                    "mapName": "Live Fire",
+                                    "winners": [
+                                      "5a43bf41-e26c-4da5-a916-b791ca4d33d6"
+                                    ],
+                                    "gameMode": "King Of The Hill",
                                     "teamScores": {
-                                      "0e42296d-ce3b-435c-af63-7bc3d91a1984": 0,
-                                      "5a43bf41-e26c-4da5-a916-b791ca4d33d6": 0
+                                      "0e42296d-ce3b-435c-af63-7bc3d91a1984": 224,
+                                      "5a43bf41-e26c-4da5-a916-b791ca4d33d6": 250
                                     },
-                                    "mapModeCombo": "-"
+                                    "mapModeCombo": "King Of The Hill - Live Fire"
                                   },
                                   "4": {
                                     "forfeit": [],
@@ -19927,7 +19929,7 @@
                       "teams": [
                         {
                           "placement": 1,
-                          "wins": 2,
+                          "wins": 3,
                           "losses": 0,
                           "locked": false,
                           "roster": {
@@ -19974,7 +19976,7 @@
                         {
                           "placement": 3,
                           "wins": 1,
-                          "losses": 0,
+                          "losses": 1,
                           "locked": false,
                           "roster": {
                             "publicId": "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9",
@@ -20330,9 +20332,9 @@
                               "publicId": "b66be22a-ec18-4987-8ca8-7bbd4134de2b",
                               "matchNum": "Pool 3 - 3 vs 14",
                               "actualStartTime": "2023-02-25T16:40:22",
-                              "actualEndTime": null,
-                              "verifiedTime": null,
-                              "status": "Waiting for Match Result",
+                              "actualEndTime": "2023-02-25T18:10:02",
+                              "verifiedTime": "2023-02-25T18:10:07",
+                              "status": "Completed",
                               "teams": [
                                 {
                                   "publicId": "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9",
@@ -20370,8 +20372,12 @@
                                 }
                               ],
                               "result": {
-                                "losers": [],
-                                "winners": [],
+                                "losers": [
+                                  "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9"
+                                ],
+                                "winners": [
+                                  "ee4cc932-1be9-47c6-ab0c-ddcd60f9a81b"
+                                ],
                                 "mapScores": {
                                   "1": {
                                     "forfeit": [],
@@ -20427,14 +20433,16 @@
                                   },
                                   "5": {
                                     "forfeit": [],
-                                    "mapName": "",
-                                    "winners": [],
-                                    "gameMode": "",
+                                    "mapName": "Empyrean",
+                                    "winners": [
+                                      "ee4cc932-1be9-47c6-ab0c-ddcd60f9a81b"
+                                    ],
+                                    "gameMode": "Slayer",
                                     "teamScores": {
-                                      "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9": 0,
-                                      "ee4cc932-1be9-47c6-ab0c-ddcd60f9a81b": 0
+                                      "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9": 40,
+                                      "ee4cc932-1be9-47c6-ab0c-ddcd60f9a81b": 50
                                     },
-                                    "mapModeCombo": "-"
+                                    "mapModeCombo": "Slayer - Empyrean"
                                   }
                                 },
                                 "disqualified": [],
@@ -20725,7 +20733,7 @@
                       "teams": [
                         {
                           "placement": 1,
-                          "wins": 2,
+                          "wins": 3,
                           "losses": 0,
                           "locked": false,
                           "roster": {
@@ -20772,7 +20780,7 @@
                         {
                           "placement": 3,
                           "wins": 1,
-                          "losses": 0,
+                          "losses": 1,
                           "locked": false,
                           "roster": {
                             "publicId": "097ab542-8214-4db5-968e-e8a10df7b407",
@@ -21129,8 +21137,8 @@
                               "matchNum": "Pool 4 - 13 vs 5",
                               "actualStartTime": "2023-02-25T16:46:15",
                               "actualEndTime": "2023-02-25T17:54:53",
-                              "verifiedTime": null,
-                              "status": "Waiting for Verification",
+                              "verifiedTime": "2023-02-25T18:05:34",
+                              "status": "Completed",
                               "teams": [
                                 {
                                   "publicId": "097ab542-8214-4db5-968e-e8a10df7b407",
@@ -21527,7 +21535,7 @@
               }
             ],
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677348368685,
+            "dataUpdatedAt": 1677349053523,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -23685,7 +23693,7 @@
               ]
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677348368759,
+            "dataUpdatedAt": 1677349053597,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
