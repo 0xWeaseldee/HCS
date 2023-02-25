@@ -97,7 +97,7 @@
               "eventSlug": "charlotte"
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677291312191,
+            "dataUpdatedAt": 1677292033070,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -17561,11 +17561,13 @@
                               "2": {
                                 "forfeit": [],
                                 "mapName": "Recharge",
-                                "winners": [],
+                                "winners": [
+                                  "28b20a98-c744-4125-9cd8-6dc77e1f759f"
+                                ],
                                 "gameMode": "Slayer",
                                 "teamScores": {
-                                  "28b20a98-c744-4125-9cd8-6dc77e1f759f": 0,
-                                  "6e426711-e5c3-4020-aa52-deb750dc64c6": 0
+                                  "28b20a98-c744-4125-9cd8-6dc77e1f759f": 50,
+                                  "6e426711-e5c3-4020-aa52-deb750dc64c6": 41
                                 },
                                 "mapModeCombo": "Slayer - Recharge"
                               },
@@ -17661,9 +17663,14 @@
                               "1": {
                                 "forfeit": [],
                                 "mapName": "Argyle",
-                                "winners": [],
+                                "winners": [
+                                  "c9c64e94-f5b3-454f-9840-fa42846839bf"
+                                ],
                                 "gameMode": "Capture The Flag",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "c9c64e94-f5b3-454f-9840-fa42846839bf": 2,
+                                  "ea75c808-7190-4894-a0aa-4d5bf488633b": 1
+                                },
                                 "mapModeCombo": "Capture The Flag - Argyle"
                               },
                               "2": {
@@ -17671,7 +17678,10 @@
                                 "mapName": "Recharge",
                                 "winners": [],
                                 "gameMode": "Slayer",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "c9c64e94-f5b3-454f-9840-fa42846839bf": 0,
+                                  "ea75c808-7190-4894-a0aa-4d5bf488633b": 0
+                                },
                                 "mapModeCombo": "Slayer - Recharge"
                               },
                               "3": {
@@ -17679,7 +17689,10 @@
                                 "mapName": "Streets",
                                 "winners": [],
                                 "gameMode": "King Of The Hill",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "c9c64e94-f5b3-454f-9840-fa42846839bf": 0,
+                                  "ea75c808-7190-4894-a0aa-4d5bf488633b": 0
+                                },
                                 "mapModeCombo": "King Of The Hill - Streets"
                               },
                               "4": {
@@ -17687,7 +17700,10 @@
                                 "mapName": "Live Fire",
                                 "winners": [],
                                 "gameMode": "Strongholds",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "c9c64e94-f5b3-454f-9840-fa42846839bf": 0,
+                                  "ea75c808-7190-4894-a0aa-4d5bf488633b": 0
+                                },
                                 "mapModeCombo": "Strongholds - Live Fire"
                               },
                               "5": {
@@ -17695,11 +17711,16 @@
                                 "mapName": "Empyrean",
                                 "winners": [],
                                 "gameMode": "Slayer",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "c9c64e94-f5b3-454f-9840-fa42846839bf": 0,
+                                  "ea75c808-7190-4894-a0aa-4d5bf488633b": 0
+                                },
                                 "mapModeCombo": "Slayer - Empyrean"
                               }
                             },
-                            "disqualified": []
+                            "disqualified": [],
+                            "numberOfGames": 5,
+                            "matchFormatType": "bestOf"
                           },
                           "projectedStartTime": "2023-02-25T01:00:00Z",
                           "isBroadcast": false,
@@ -20474,7 +20495,7 @@
               }
             ],
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677291312337,
+            "dataUpdatedAt": 1677292033203,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -22632,7 +22653,7 @@
               ]
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677291312417,
+            "dataUpdatedAt": 1677292033277,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
