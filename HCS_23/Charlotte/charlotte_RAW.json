@@ -95,7 +95,7 @@
               "eventSlug": "charlotte"
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677296036243,
+            "dataUpdatedAt": 1677296951902,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -17833,11 +17833,13 @@
                               "4": {
                                 "forfeit": [],
                                 "mapName": "Recharge",
-                                "winners": [],
+                                "winners": [
+                                  "0e42296d-ce3b-435c-af63-7bc3d91a1984"
+                                ],
                                 "gameMode": "King Of The Hill",
                                 "teamScores": {
-                                  "0e42296d-ce3b-435c-af63-7bc3d91a1984": 0,
-                                  "28b20a98-c744-4125-9cd8-6dc77e1f759f": 0
+                                  "0e42296d-ce3b-435c-af63-7bc3d91a1984": 4,
+                                  "28b20a98-c744-4125-9cd8-6dc77e1f759f": 2
                                 },
                                 "mapModeCombo": "King Of The Hill - Recharge"
                               },
@@ -20591,7 +20593,7 @@
               }
             ],
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677296036369,
+            "dataUpdatedAt": 1677296952044,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -22749,7 +22751,7 @@
               ]
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677296036479,
+            "dataUpdatedAt": 1677296952120,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
