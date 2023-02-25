@@ -95,7 +95,7 @@
               "eventSlug": "charlotte"
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677286475297,
+            "dataUpdatedAt": 1677287594435,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -17182,11 +17182,13 @@
                               "2": {
                                 "forfeit": [],
                                 "mapName": "Empyrean",
-                                "winners": [],
+                                "winners": [
+                                  "55344fe0-1123-4e6a-abca-1946215e829a"
+                                ],
                                 "gameMode": "Slayer",
                                 "teamScores": {
-                                  "55344fe0-1123-4e6a-abca-1946215e829a": 0,
-                                  "6e426711-e5c3-4020-aa52-deb750dc64c6": 0
+                                  "55344fe0-1123-4e6a-abca-1946215e829a": 50,
+                                  "6e426711-e5c3-4020-aa52-deb750dc64c6": 44
                                 },
                                 "mapModeCombo": "Slayer - Empyrean"
                               },
@@ -17308,11 +17310,13 @@
                               "3": {
                                 "forfeit": [],
                                 "mapName": "Streets",
-                                "winners": [],
+                                "winners": [
+                                  "84988506-5555-4792-9b95-f4c774ca4611"
+                                ],
                                 "gameMode": "Strongholds",
                                 "teamScores": {
-                                  "84988506-5555-4792-9b95-f4c774ca4611": 0,
-                                  "ea75c808-7190-4894-a0aa-4d5bf488633b": 0
+                                  "84988506-5555-4792-9b95-f4c774ca4611": 250,
+                                  "ea75c808-7190-4894-a0aa-4d5bf488633b": 240
                                 },
                                 "mapModeCombo": "Strongholds - Streets"
                               },
@@ -17874,7 +17878,7 @@
                         "roster": {
                           "publicId": "ee4cc932-1be9-47c6-ab0c-ddcd60f9a81b",
                           "name": "G1",
-                          "wins": 1,
+                          "wins": 2,
                           "losses": 0
                         },
                         "locked": false,
@@ -17885,7 +17889,7 @@
                           "publicId": "935be205-2642-4a00-b70b-cf4989365fcb",
                           "name": "Believe the Hype",
                           "wins": 1,
-                          "losses": 0
+                          "losses": 1
                         },
                         "locked": false,
                         "phasePlacementConnection": 6
@@ -17914,9 +17918,9 @@
                     "4": {
                       "1": {
                         "roster": {
-                          "publicId": "51e9a5f5-660f-4677-81e0-af24c5869d51",
-                          "name": "TSS Esports",
-                          "wins": 1,
+                          "publicId": "393c68a8-1428-4324-9d93-360c5ee0b0a0",
+                          "name": "Spacestation Gaming",
+                          "wins": 2,
                           "losses": 0
                         },
                         "locked": false,
@@ -17924,10 +17928,10 @@
                       },
                       "2": {
                         "roster": {
-                          "publicId": "393c68a8-1428-4324-9d93-360c5ee0b0a0",
-                          "name": "Spacestation Gaming",
+                          "publicId": "51e9a5f5-660f-4677-81e0-af24c5869d51",
+                          "name": "TSS Esports",
                           "wins": 1,
-                          "losses": 0
+                          "losses": 1
                         },
                         "locked": false,
                         "phasePlacementConnection": 5
@@ -19171,7 +19175,7 @@
                       "teams": [
                         {
                           "placement": 1,
-                          "wins": 1,
+                          "wins": 2,
                           "losses": 0,
                           "locked": false,
                           "roster": {
@@ -19195,7 +19199,7 @@
                         {
                           "placement": 2,
                           "wins": 1,
-                          "losses": 0,
+                          "losses": 1,
                           "locked": false,
                           "roster": {
                             "publicId": "935be205-2642-4a00-b70b-cf4989365fcb",
@@ -19364,8 +19368,8 @@
                               "matchNum": "Pool 3 - 3 vs 6",
                               "actualStartTime": "2023-02-24T23:31:46",
                               "actualEndTime": "2023-02-25T00:15:25",
-                              "verifiedTime": null,
-                              "status": "Waiting for Verification",
+                              "verifiedTime": "2023-02-25T00:58:11",
+                              "status": "Completed",
                               "teams": [
                                 {
                                   "publicId": "935be205-2642-4a00-b70b-cf4989365fcb",
@@ -19773,30 +19777,7 @@
                       "teams": [
                         {
                           "placement": 1,
-                          "wins": 1,
-                          "losses": 0,
-                          "locked": false,
-                          "roster": {
-                            "publicId": "51e9a5f5-660f-4677-81e0-af24c5869d51",
-                            "creationDate": "2023-02-13T03:02:27Z",
-                            "updatedDate": "2023-02-24T14:40:42Z",
-                            "deletedAt": null,
-                            "name": "TSS Esports",
-                            "creationReason": "boughtPass",
-                            "status": "checkedIn",
-                            "locked": true,
-                            "nameLocked": true,
-                            "disabled": false,
-                            "acceptedRules": true,
-                            "logoURL": null,
-                            "hasPendingLogo": false,
-                            "imageUploadEnabled": true,
-                            "seedNumber": 4
-                          }
-                        },
-                        {
-                          "placement": 2,
-                          "wins": 1,
+                          "wins": 2,
                           "losses": 0,
                           "locked": false,
                           "roster": {
@@ -19815,6 +19796,29 @@
                             "hasPendingLogo": false,
                             "imageUploadEnabled": true,
                             "seedNumber": 5
+                          }
+                        },
+                        {
+                          "placement": 2,
+                          "wins": 1,
+                          "losses": 1,
+                          "locked": false,
+                          "roster": {
+                            "publicId": "51e9a5f5-660f-4677-81e0-af24c5869d51",
+                            "creationDate": "2023-02-13T03:02:27Z",
+                            "updatedDate": "2023-02-24T14:40:42Z",
+                            "deletedAt": null,
+                            "name": "TSS Esports",
+                            "creationReason": "boughtPass",
+                            "status": "checkedIn",
+                            "locked": true,
+                            "nameLocked": true,
+                            "disabled": false,
+                            "acceptedRules": true,
+                            "logoURL": null,
+                            "hasPendingLogo": false,
+                            "imageUploadEnabled": true,
+                            "seedNumber": 4
                           }
                         },
                         {
@@ -19966,8 +19970,8 @@
                               "matchNum": "Pool 4 - 4 vs 5",
                               "actualStartTime": "2023-02-24T23:26:31",
                               "actualEndTime": "2023-02-24T23:53:14",
-                              "verifiedTime": null,
-                              "status": "Waiting for Verification",
+                              "verifiedTime": "2023-02-25T00:58:03",
+                              "status": "Completed",
                               "teams": [
                                 {
                                   "publicId": "393c68a8-1428-4324-9d93-360c5ee0b0a0",
@@ -20375,7 +20379,7 @@
               }
             ],
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677286475431,
+            "dataUpdatedAt": 1677287594565,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -20432,9 +20436,6 @@
                         "player": {
                           "publicId": "461e2929-a945-491d-90a6-f480dcab1eb1",
                           "alias": "Maffyml",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -20451,9 +20452,6 @@
                         "player": {
                           "publicId": "9838f6b0-6e24-4696-b4d8-d102cad2771f",
                           "alias": "Seuszz",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -20470,9 +20468,6 @@
                         "player": {
                           "publicId": "1a2cc20f-7a5e-47a6-8707-f141146a52fc",
                           "alias": "Derderf",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -20489,9 +20484,6 @@
                         "player": {
                           "publicId": "26d0a6f2-12ee-4fe2-a4e8-743dd941b450",
                           "alias": "pi3",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -20529,9 +20521,6 @@
                         "player": {
                           "publicId": "acc3b6f6-d158-45c4-bafe-492559294996",
                           "alias": "Squilly",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "2022-02-17",
                           "partnerId": "XBL",
@@ -20548,9 +20537,6 @@
                         "player": {
                           "publicId": "ebcbd2e3-1196-4be4-b060-ecb9c2a87bc5",
                           "alias": "Neeruh",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -20567,9 +20553,6 @@
                         "player": {
                           "publicId": "2bf5c3be-5f29-4192-b0a5-061e20da6e43",
                           "alias": "LeaderNess",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -20586,9 +20569,6 @@
                         "player": {
                           "publicId": "b010d01e-e8c3-448a-9dfd-10352f935544",
                           "alias": "Ret",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -20626,9 +20606,6 @@
                         "player": {
                           "publicId": "2857cae4-1a4c-45f5-b434-dc65e6de3ea8",
                           "alias": "Djvinity",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -20645,9 +20622,6 @@
                         "player": {
                           "publicId": "8a76bcea-3898-4508-8676-7ba0a1ca6155",
                           "alias": "Ryuu",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -20664,9 +20638,6 @@
                         "player": {
                           "publicId": "b7c29781-8113-4f13-ba48-a094b1973a16",
                           "alias": "Scoobmeistr",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -20683,9 +20654,6 @@
                         "player": {
                           "publicId": "cb4ea263-bdf8-4c58-80a8-213bb6f86ab1",
                           "alias": "ManOfChicken",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -20723,9 +20691,6 @@
                         "player": {
                           "publicId": "c6773312-3779-4f55-9579-5e25326ffa5e",
                           "alias": "gran",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "2022-08-18",
                           "partnerId": "XBL",
@@ -20742,9 +20707,6 @@
                         "player": {
                           "publicId": "34499c26-413d-4948-a229-ca0c76a4014c",
                           "alias": "DakotaNY",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -20761,9 +20723,6 @@
                         "player": {
                           "publicId": "0f3db41d-7483-4162-ab22-dc292869c575",
                           "alias": "yakzn",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -20780,9 +20739,6 @@
                         "player": {
                           "publicId": "7bed3f93-2c65-4783-ae9d-2042ed98a988",
                           "alias": "Tricky",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -20820,9 +20776,6 @@
                         "player": {
                           "publicId": "c538a6d9-f9d5-4ab1-a35e-6c509e3c8e06",
                           "alias": "Wiley",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -20839,9 +20792,6 @@
                         "player": {
                           "publicId": "fcdb78fc-11bd-4549-abfb-02246fc86136",
                           "alias": "Gamebxy",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -20858,9 +20808,6 @@
                         "player": {
                           "publicId": "35824ff5-964c-4ec9-9757-e99e676038b7",
                           "alias": "JukezIR",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -20877,9 +20824,6 @@
                         "player": {
                           "publicId": "83c7a03f-f5bb-4341-9eb8-d889b8a6a6ae",
                           "alias": "Ayysh",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -20917,9 +20861,6 @@
                         "player": {
                           "publicId": "f110bcba-5455-4bb1-97a2-560958ce97b7",
                           "alias": "AceTV",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -20936,9 +20877,6 @@
                         "player": {
                           "publicId": "ff942c2c-c0d4-43d5-a543-b41b60239ab0",
                           "alias": "Lehcar",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "2023-05-10",
                           "partnerId": "XBL",
@@ -20955,9 +20893,6 @@
                         "player": {
                           "publicId": "1b3148e2-b04f-476e-bb36-0aa947c47d5c",
                           "alias": "Cratos",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -20974,9 +20909,6 @@
                         "player": {
                           "publicId": "2daecec0-f282-496e-8069-40d587750c6b",
                           "alias": "CommandStation",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21014,9 +20946,6 @@
                         "player": {
                           "publicId": "262c4df1-bd24-4fda-b85c-b2a027113d17",
                           "alias": "Sylvanic",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21033,9 +20962,6 @@
                         "player": {
                           "publicId": "e83960b4-8798-40e8-95a3-f62e56d9dc23",
                           "alias": "Facty",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21052,9 +20978,6 @@
                         "player": {
                           "publicId": "71761c42-abb4-40a5-acd7-d68e81f0d87e",
                           "alias": "Flurriously",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21071,9 +20994,6 @@
                         "player": {
                           "publicId": "83dcb56f-83f1-4176-8543-bb2a8398fdc6",
                           "alias": "Despiteful3462",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21111,9 +21031,6 @@
                         "player": {
                           "publicId": "a1b52e47-b622-4eb3-b851-4c1d772a28db",
                           "alias": "Suheven",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21130,9 +21047,6 @@
                         "player": {
                           "publicId": "55610b4e-5167-47ab-8ce2-bedaec017231",
                           "alias": "CadenDespair",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21149,9 +21063,6 @@
                         "player": {
                           "publicId": "9103fb03-c415-4cce-b12c-c61f19a6585f",
                           "alias": "Cruvu",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21168,9 +21079,6 @@
                         "player": {
                           "publicId": "341fe2bb-ca0e-4191-9ea4-b92c3c10df8d",
                           "alias": "Glowzii",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21208,9 +21116,6 @@
                         "player": {
                           "publicId": "caac6468-f083-4357-89a0-d352ebc858ba",
                           "alias": "KonFLicTioN",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21227,9 +21132,6 @@
                         "player": {
                           "publicId": "7124b50b-a0e0-40fe-907c-9f5f9d68c8a7",
                           "alias": "MissionHock3y",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21246,9 +21148,6 @@
                         "player": {
                           "publicId": "a43ee8b9-3d60-4318-9310-4ac080d66395",
                           "alias": "KleanUp",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21265,9 +21164,6 @@
                         "player": {
                           "publicId": "3cd93f37-31a1-4b9e-9035-871a69b505e1",
                           "alias": "Azency",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21305,9 +21201,6 @@
                         "player": {
                           "publicId": "2a37bf0d-e5f2-4852-984a-4179cecf7bf0",
                           "alias": "Zoom",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21324,9 +21217,6 @@
                         "player": {
                           "publicId": "eb995a77-3924-407f-9895-06e31ca5c476",
                           "alias": "Palfius",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21343,9 +21233,6 @@
                         "player": {
                           "publicId": "c2201a43-fa83-4c57-bf1a-e01a89f21a63",
                           "alias": "ForAtticus",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21362,9 +21249,6 @@
                         "player": {
                           "publicId": "b38b5a2d-45dd-497b-9c29-25ae23195b88",
                           "alias": "Mattie",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "2022-11-11",
                           "partnerId": "XBL",
@@ -21402,9 +21286,6 @@
                         "player": {
                           "publicId": "f295a789-205f-4b0e-bd72-5b78798e4592",
                           "alias": "Pipz",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21421,9 +21302,6 @@
                         "player": {
                           "publicId": "e14df686-748d-4e9b-bbd5-907f0fb81041",
                           "alias": "Plasma",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21440,9 +21318,6 @@
                         "player": {
                           "publicId": "8dda8e50-3080-4e21-8740-30f994606675",
                           "alias": "Benjy",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21459,9 +21334,6 @@
                         "player": {
                           "publicId": "a543d2e0-d9dc-4399-9d7f-6a1084a15e7b",
                           "alias": "Beastn",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21499,9 +21371,6 @@
                         "player": {
                           "publicId": "bd4adfee-c3e5-4892-8d45-892d304a846f",
                           "alias": "Native",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "2023-05-21",
                           "partnerId": "XBL",
@@ -21518,9 +21387,6 @@
                         "player": {
                           "publicId": "c0e3cc52-719b-4e78-87bc-9d1cb0f3ead8",
                           "alias": "Cherished",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21537,9 +21403,6 @@
                         "player": {
                           "publicId": "c05959a3-bb51-4c5c-8b79-09edb5d48568",
                           "alias": "ShocKiLL",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21556,9 +21419,6 @@
                         "player": {
                           "publicId": "60ee111d-a84f-45b0-8434-ad47a9527258",
                           "alias": "Name",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21596,9 +21456,6 @@
                         "player": {
                           "publicId": "a9f923d1-c83e-43f6-a573-3e4ecc6c5f15",
                           "alias": "Ivonized",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "2022-12-22",
                           "partnerId": "XBL",
@@ -21615,9 +21472,6 @@
                         "player": {
                           "publicId": "77ef248a-7706-4b48-8576-116ab9ac759d",
                           "alias": "Parabola",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "2022-05-17",
                           "partnerId": "XBL",
@@ -21634,9 +21488,6 @@
                         "player": {
                           "publicId": "b2fce11f-f06d-42ad-85bb-c66d9927adf0",
                           "alias": "Kaplz",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21653,9 +21504,6 @@
                         "player": {
                           "publicId": "80ec1ba9-4e0e-42c0-b584-7f094981eb97",
                           "alias": "CollecTive",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21693,9 +21541,6 @@
                         "player": {
                           "publicId": "a1971eb1-3a6a-4099-9d71-d2e1fa90676c",
                           "alias": "Equivocaly",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21712,9 +21557,6 @@
                         "player": {
                           "publicId": "730cea46-f0ba-4bc1-a5d0-f655ee1e1bdb",
                           "alias": "Morgan",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21731,9 +21573,6 @@
                         "player": {
                           "publicId": "25a54dc4-484d-4e35-81b7-9d2cb295c399",
                           "alias": "Bejezus",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21750,9 +21589,6 @@
                         "player": {
                           "publicId": "41422f40-0d11-44cd-b8ea-04db60396111",
                           "alias": "FPS",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21790,9 +21626,6 @@
                         "player": {
                           "publicId": "46987342-b66c-4b7a-b44a-bc7a06a89746",
                           "alias": "maceskii",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21809,9 +21642,6 @@
                         "player": {
                           "publicId": "128d0ea6-45fa-498e-8a59-2469ffdb461e",
                           "alias": "Schlayygs",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21828,9 +21658,6 @@
                         "player": {
                           "publicId": "8a253cf6-22db-4ff4-a51b-e797076b4c38",
                           "alias": "TDay",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "2023-04-24",
                           "partnerId": "XBL",
@@ -21847,9 +21674,6 @@
                         "player": {
                           "publicId": "b2c000ad-994a-46e7-af71-6cd4840d05a2",
                           "alias": "dog7",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21887,9 +21711,6 @@
                         "player": {
                           "publicId": "ee2ab582-43d2-4113-b0c2-8a135cfcf4e8",
                           "alias": "Nesity",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21906,9 +21727,6 @@
                         "player": {
                           "publicId": "3ba6f5d6-be9f-457e-8b37-79814f708490",
                           "alias": "Blazepc",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21925,9 +21743,6 @@
                         "player": {
                           "publicId": "76367831-1da4-4339-8ba6-20b4802bc9f8",
                           "alias": "Perzecute",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -21944,9 +21759,6 @@
                         "player": {
                           "publicId": "7b04c72c-43e1-4354-9562-0649a92d6e7c",
                           "alias": "Clay",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "2023-01-18",
                           "partnerId": "XBL",
@@ -21984,9 +21796,6 @@
                         "player": {
                           "publicId": "b1b266ea-b8d8-4650-ac01-f2e962cd7784",
                           "alias": "zSilvuh",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "2023-04-24",
                           "partnerId": "XBL",
@@ -22003,9 +21812,6 @@
                         "player": {
                           "publicId": "89eba8c4-9895-4571-afa0-221a8ac31bd3",
                           "alias": "Lerskey",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22022,9 +21828,6 @@
                         "player": {
                           "publicId": "3b3a6730-500d-4e45-9e22-fcd6d539a450",
                           "alias": "RairRezT",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "2023-04-24",
                           "partnerId": "XBL",
@@ -22041,9 +21844,6 @@
                         "player": {
                           "publicId": "9256740d-92ca-4cad-b60d-94e275b34156",
                           "alias": "Bolt",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22081,9 +21881,6 @@
                         "player": {
                           "publicId": "fcd4c049-662e-48b0-ac66-2facbde711a5",
                           "alias": "NoobiBlue",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22100,9 +21897,6 @@
                         "player": {
                           "publicId": "540472e1-ab18-433d-a9af-a75d95fbbe25",
                           "alias": "Promo",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "2023-04-23",
                           "partnerId": "XBL",
@@ -22119,9 +21913,6 @@
                         "player": {
                           "publicId": "c47ede49-921f-4259-8073-0b79b9b5a31b",
                           "alias": "invictid",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22138,9 +21929,6 @@
                         "player": {
                           "publicId": "9c9ac156-66b2-4e48-a770-133e82dc9065",
                           "alias": "Fictim",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22178,9 +21966,6 @@
                         "player": {
                           "publicId": "7784f9e5-0552-433f-b657-6dc0a82d2dbc",
                           "alias": "Euzey",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22197,9 +21982,6 @@
                         "player": {
                           "publicId": "b0ea2136-521a-4437-98d1-3db92da0d7be",
                           "alias": "Xuzeyy",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "2023-05-08",
                           "partnerId": "XBL",
@@ -22216,9 +21998,6 @@
                         "player": {
                           "publicId": "5cfea8f5-fca6-45f2-97c8-34d2b9701a0f",
                           "alias": "Ty",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22235,9 +22014,6 @@
                         "player": {
                           "publicId": "dffcfd59-6c82-4268-a7f3-77de03a3debb",
                           "alias": "ValidNick",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22275,9 +22051,6 @@
                         "player": {
                           "publicId": "16fed459-c591-4aed-b27e-c76e6fd836ce",
                           "alias": "HeLuSiK",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22294,9 +22067,6 @@
                         "player": {
                           "publicId": "1f48f6b1-675e-465a-bc03-b2d44c6a37d1",
                           "alias": "M305",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22313,9 +22083,6 @@
                         "player": {
                           "publicId": "8e996204-6760-4282-ba03-b55acc688586",
                           "alias": "JGravity",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22332,9 +22099,6 @@
                         "player": {
                           "publicId": "1d8f9e8e-c726-4e27-8b28-65d2b2d3b3b6",
                           "alias": "Pmak",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22372,9 +22136,6 @@
                         "player": {
                           "publicId": "74a15bd7-8dc1-435a-abb9-a7062212b72e",
                           "alias": "CLIPZ",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "2023-04-23",
                           "partnerId": "XBL",
@@ -22391,9 +22152,6 @@
                         "player": {
                           "publicId": "7d9f1efd-7c07-4cfa-b6df-65693493c65f",
                           "alias": "GhostyDL",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22410,9 +22168,6 @@
                         "player": {
                           "publicId": "5c7d41e8-e727-42a2-b2b1-9096d1466e08",
                           "alias": "Chato",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22429,9 +22184,6 @@
                         "player": {
                           "publicId": "27a4809b-30e0-491c-aabd-9f98e84279ab",
                           "alias": "Eversionx",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22469,9 +22221,6 @@
                         "player": {
                           "publicId": "55b468af-0b49-49e4-ae31-8219c91fc702",
                           "alias": "RoguePhos",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22488,9 +22237,6 @@
                         "player": {
                           "publicId": "453826ec-9505-4acb-9b69-7654a1da1d91",
                           "alias": "Carmine",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22507,9 +22253,6 @@
                         "player": {
                           "publicId": "116d0cf7-6683-4a8c-8b0d-27f0b7cd8e8c",
                           "alias": "Remorse",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22526,9 +22269,6 @@
                         "player": {
                           "publicId": "d0877d15-4709-4924-8aa7-fdb87e08c4fe",
                           "alias": "Triibull",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22566,9 +22306,6 @@
                         "player": {
                           "publicId": "6b55f088-08e3-4f73-be6f-cc5068371b51",
                           "alias": "AdVaKiT",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22585,9 +22322,6 @@
                         "player": {
                           "publicId": "8324c3d5-26b8-4052-b34c-05f86d23616e",
                           "alias": "MoRittzy",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22604,9 +22338,6 @@
                         "player": {
                           "publicId": "fc06da79-9bff-41e6-8caf-398632d1db70",
                           "alias": "Shadesnfades",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22623,9 +22354,6 @@
                         "player": {
                           "publicId": "8d6df0a4-6a1b-4033-b4ae-0ddc568c1a63",
                           "alias": "whoooodini",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22663,9 +22391,6 @@
                         "player": {
                           "publicId": "ff1ce142-5996-42d2-80f2-a1144d2b02c7",
                           "alias": "Kobu",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22682,9 +22407,6 @@
                         "player": {
                           "publicId": "aca10600-4769-4243-bf71-91621d1277d5",
                           "alias": "Barricade",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22701,9 +22423,6 @@
                         "player": {
                           "publicId": "05354d6d-52f7-4c0f-8a4c-7821baa51d7d",
                           "alias": "Skulls",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22720,9 +22439,6 @@
                         "player": {
                           "publicId": "877772dc-3d74-4578-94f7-b3cd90cf6c7d",
                           "alias": "Vulcan",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22760,9 +22476,6 @@
                         "player": {
                           "publicId": "10bd12c3-8f4e-4c39-972f-582bf8d02609",
                           "alias": "Blasian",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22779,9 +22492,6 @@
                         "player": {
                           "publicId": "40d1d151-dfa8-4ceb-98c0-59ec5001a132",
                           "alias": "Whiskey",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22798,9 +22508,6 @@
                         "player": {
                           "publicId": "7edc67c0-eeb4-4632-acb9-8ef0e51d332e",
                           "alias": "SSinatraSZN",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22817,9 +22524,6 @@
                         "player": {
                           "publicId": "fc765506-22f1-440b-a046-bd28fa97f1ab",
                           "alias": "CALLMEHSMiLEY",
-                           
-                           
-                           
                           "disabled": false,
                           "lockedUntil": "",
                           "partnerId": "XBL",
@@ -22833,7 +22537,7 @@
               ]
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677286475506,
+            "dataUpdatedAt": 1677287594641,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
