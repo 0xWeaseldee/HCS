@@ -4,3 +4,7 @@ regex cheat sheet: Find the following values in VS-Code and replace them with ""
 "aliasHash": "([^;]*)
 "email": "([^;]*)
 "rules": "([^;]*)
+
+empty lines
+
+^(\s)*$\n

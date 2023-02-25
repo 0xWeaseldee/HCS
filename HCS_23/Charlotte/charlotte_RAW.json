@@ -95,7 +95,7 @@
               "eventSlug": "charlotte"
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677296951902,
+            "dataUpdatedAt": 1677297535186,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -17748,9 +17748,9 @@
                           "publicId": "ecfaf521-1861-4ddc-ab4f-ea1e6896f8d1",
                           "matchNum": "L123",
                           "actualStartTime": "2023-02-25T02:49:31",
-                          "actualEndTime": null,
+                          "actualEndTime": "2023-02-25T03:55:16",
                           "verifiedTime": null,
-                          "status": "Waiting for Match Result",
+                          "status": "Waiting for Verification",
                           "teams": [
                             {
                               "publicId": "28b20a98-c744-4125-9cd8-6dc77e1f759f",
@@ -17788,8 +17788,12 @@
                             }
                           ],
                           "result": {
-                            "losers": [],
-                            "winners": [],
+                            "losers": [
+                              "28b20a98-c744-4125-9cd8-6dc77e1f759f"
+                            ],
+                            "winners": [
+                              "0e42296d-ce3b-435c-af63-7bc3d91a1984"
+                            ],
                             "mapScores": {
                               "1": {
                                 "forfeit": [],
@@ -17846,11 +17850,13 @@
                               "5": {
                                 "forfeit": [],
                                 "mapName": "Aquarius",
-                                "winners": [],
+                                "winners": [
+                                  "0e42296d-ce3b-435c-af63-7bc3d91a1984"
+                                ],
                                 "gameMode": "Slayer",
                                 "teamScores": {
-                                  "0e42296d-ce3b-435c-af63-7bc3d91a1984": 0,
-                                  "28b20a98-c744-4125-9cd8-6dc77e1f759f": 0
+                                  "0e42296d-ce3b-435c-af63-7bc3d91a1984": 50,
+                                  "28b20a98-c744-4125-9cd8-6dc77e1f759f": 49
                                 },
                                 "mapModeCombo": "Slayer - Aquarius"
                               }
@@ -20593,7 +20599,7 @@
               }
             ],
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677296952044,
+            "dataUpdatedAt": 1677297535317,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -22751,7 +22757,7 @@
               ]
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677296952120,
+            "dataUpdatedAt": 1677297535392,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
