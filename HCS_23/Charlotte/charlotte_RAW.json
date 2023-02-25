@@ -95,7 +95,7 @@
               "eventSlug": "charlotte"
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677359255083,
+            "dataUpdatedAt": 1677360112451,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -22067,11 +22067,13 @@
                               "4": {
                                 "forfeit": [],
                                 "mapName": "Live Fire",
-                                "winners": [],
+                                "winners": [
+                                  "097ab542-8214-4db5-968e-e8a10df7b407"
+                                ],
                                 "gameMode": "Oddball",
                                 "teamScores": {
-                                  "097ab542-8214-4db5-968e-e8a10df7b407": 0,
-                                  "ee4cc932-1be9-47c6-ab0c-ddcd60f9a81b": 0
+                                  "097ab542-8214-4db5-968e-e8a10df7b407": 2,
+                                  "ee4cc932-1be9-47c6-ab0c-ddcd60f9a81b": 1
                                 },
                                 "mapModeCombo": "Oddball - Live Fire"
                               },
@@ -22112,9 +22114,9 @@
                           "publicId": "32048a21-35c3-43e6-a9b0-adb515ee3dd3",
                           "matchNum": "W4",
                           "actualStartTime": "2023-02-25T20:09:56",
-                          "actualEndTime": null,
-                          "verifiedTime": null,
-                          "status": "Waiting for Match Result",
+                          "actualEndTime": "2023-02-25T21:10:43",
+                          "verifiedTime": "2023-02-25T21:10:59",
+                          "status": "Completed",
                           "teams": [
                             {
                               "publicId": "684f7b00-f40f-4905-af0f-198dfd4bc9b8",
@@ -22152,8 +22154,12 @@
                             }
                           ],
                           "result": {
-                            "losers": [],
-                            "winners": [],
+                            "losers": [
+                              "684f7b00-f40f-4905-af0f-198dfd4bc9b8"
+                            ],
+                            "winners": [
+                              "f38eea13-f027-467a-9f3a-e24630d25bf2"
+                            ],
                             "mapScores": {
                               "1": {
                                 "forfeit": [],
@@ -22197,11 +22203,13 @@
                               "4": {
                                 "forfeit": [],
                                 "mapName": "Live Fire",
-                                "winners": [],
+                                "winners": [
+                                  "f38eea13-f027-467a-9f3a-e24630d25bf2"
+                                ],
                                 "gameMode": "Oddball",
                                 "teamScores": {
                                   "684f7b00-f40f-4905-af0f-198dfd4bc9b8": 0,
-                                  "f38eea13-f027-467a-9f3a-e24630d25bf2": 0
+                                  "f38eea13-f027-467a-9f3a-e24630d25bf2": 2
                                 },
                                 "mapModeCombo": "Oddball - Live Fire"
                               },
@@ -22345,7 +22353,25 @@
                           "actualEndTime": null,
                           "verifiedTime": null,
                           "status": "Waiting to be Started",
-                          "teams": [],
+                          "teams": [
+                            {
+                              "publicId": "f38eea13-f027-467a-9f3a-e24630d25bf2",
+                              "creationDate": "2023-02-16T19:18:52Z",
+                              "updatedDate": "2023-02-23T20:38:48Z",
+                              "deletedAt": null,
+                              "name": "OpTic Gaming",
+                              "creationReason": "adminCreated",
+                              "status": "checkedIn",
+                              "locked": true,
+                              "nameLocked": true,
+                              "disabled": false,
+                              "acceptedRules": true,
+                              "logoURL": "https://assets.esportsengine.co/logos/f38eea13-f027-467a-9f3a-e24630d25bf2.png",
+                              "hasPendingLogo": false,
+                              "imageUploadEnabled": true,
+                              "seedNumber": 2
+                            }
+                          ],
                           "result": {
                             "losers": [],
                             "winners": [],
@@ -22473,10 +22499,10 @@
                         {
                           "publicId": "fba4f14a-3d56-48f9-a2bf-8ee12ab134eb",
                           "matchNum": "L1",
-                          "actualStartTime": null,
+                          "actualStartTime": "2023-02-25T21:07:44",
                           "actualEndTime": null,
                           "verifiedTime": null,
-                          "status": "Waiting to be Started",
+                          "status": "Waiting for Match Result",
                           "teams": [
                             {
                               "publicId": "b8fbeb83-109d-424b-bb13-304647094df7",
@@ -22743,6 +22769,23 @@
                           "verifiedTime": null,
                           "status": "Waiting to be Started",
                           "teams": [
+                            {
+                              "publicId": "684f7b00-f40f-4905-af0f-198dfd4bc9b8",
+                              "creationDate": "2023-01-23T19:36:29Z",
+                              "updatedDate": "2023-02-23T17:54:58Z",
+                              "deletedAt": null,
+                              "name": "Shopify Rebellion",
+                              "creationReason": "boughtPass",
+                              "status": "checkedIn",
+                              "locked": true,
+                              "nameLocked": true,
+                              "disabled": false,
+                              "acceptedRules": true,
+                              "logoURL": "https://assets.esportsengine.co/logos/684f7b00-f40f-4905-af0f-198dfd4bc9b8.png",
+                              "hasPendingLogo": false,
+                              "imageUploadEnabled": true,
+                              "seedNumber": 8
+                            },
                             {
                               "publicId": "51e9a5f5-660f-4677-81e0-af24c5869d51",
                               "creationDate": "2023-02-13T03:02:27Z",
@@ -23364,7 +23407,7 @@
               }
             ],
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677359255219,
+            "dataUpdatedAt": 1677360112567,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -25522,7 +25565,7 @@
               ]
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677359255299,
+            "dataUpdatedAt": 1677360112636,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
