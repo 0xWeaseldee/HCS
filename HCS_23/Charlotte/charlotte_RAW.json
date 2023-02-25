@@ -95,7 +95,7 @@
               "eventSlug": "charlotte"
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677346265559,
+            "dataUpdatedAt": 1677347205541,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -19126,7 +19126,72 @@
                                   "seedNumber": 10
                                 }
                               ],
-                              "result": null,
+                              "result": {
+                                "losers": [],
+                                "winners": [],
+                                "mapScores": {
+                                  "1": {
+                                    "forfeit": [],
+                                    "mapName": "Argyle",
+                                    "winners": [
+                                      "5a43bf41-e26c-4da5-a916-b791ca4d33d6"
+                                    ],
+                                    "gameMode": "Capture The Flag",
+                                    "teamScores": {
+                                      "0e42296d-ce3b-435c-af63-7bc3d91a1984": 1,
+                                      "5a43bf41-e26c-4da5-a916-b791ca4d33d6": 2
+                                    },
+                                    "mapModeCombo": "Capture The Flag - Argyle"
+                                  },
+                                  "2": {
+                                    "forfeit": [],
+                                    "mapName": "",
+                                    "winners": [],
+                                    "gameMode": "",
+                                    "teamScores": {
+                                      "0e42296d-ce3b-435c-af63-7bc3d91a1984": 0,
+                                      "5a43bf41-e26c-4da5-a916-b791ca4d33d6": 0
+                                    },
+                                    "mapModeCombo": ""
+                                  },
+                                  "3": {
+                                    "forfeit": [],
+                                    "mapName": "",
+                                    "winners": [],
+                                    "gameMode": "",
+                                    "teamScores": {
+                                      "0e42296d-ce3b-435c-af63-7bc3d91a1984": 0,
+                                      "5a43bf41-e26c-4da5-a916-b791ca4d33d6": 0
+                                    },
+                                    "mapModeCombo": ""
+                                  },
+                                  "4": {
+                                    "forfeit": [],
+                                    "mapName": "",
+                                    "winners": [],
+                                    "gameMode": "",
+                                    "teamScores": {
+                                      "0e42296d-ce3b-435c-af63-7bc3d91a1984": 0,
+                                      "5a43bf41-e26c-4da5-a916-b791ca4d33d6": 0
+                                    },
+                                    "mapModeCombo": ""
+                                  },
+                                  "5": {
+                                    "forfeit": [],
+                                    "mapName": "",
+                                    "winners": [],
+                                    "gameMode": "",
+                                    "teamScores": {
+                                      "0e42296d-ce3b-435c-af63-7bc3d91a1984": 0,
+                                      "5a43bf41-e26c-4da5-a916-b791ca4d33d6": 0
+                                    },
+                                    "mapModeCombo": ""
+                                  }
+                                },
+                                "disqualified": [],
+                                "numberOfGames": 5,
+                                "matchFormatType": "bestOf"
+                              },
                               "projectedStartTime": "2023-02-25T18:00:00Z",
                               "isBroadcast": false,
                               "broadcastLinks": []
@@ -21387,7 +21452,7 @@
               }
             ],
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677346265676,
+            "dataUpdatedAt": 1677347205671,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -21559,7 +21624,7 @@
                         "deletedAt": null,
                         "competitionRole": "starter",
                         "player": {
-                          "publicId": "d1fb9f17-3707-4474-9686-2873003cd69c",
+                          "publicId": "668f2b24-ab54-44bd-8e0f-c7b881856f5b",
                           "alias": "SoulSnipe",
                           "disabled": false,
                           "lockedUntil": "",
@@ -23545,7 +23610,7 @@
               ]
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677346265748,
+            "dataUpdatedAt": 1677347205744,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
