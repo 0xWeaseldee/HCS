@@ -54,7 +54,7 @@
                   },
                   "competitionStatus": "Waiting",
                   "tournamentEntryType": "openRegistration",
-                  "registrationStatus": true
+                  "registrationStatus": false
                 },
                 {
                   "publicId": "74939edf-1e65-4e7d-9c39-cc2e8791e63c",
@@ -95,7 +95,7 @@
               "eventSlug": "charlotte"
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677349834080,
+            "dataUpdatedAt": 1677350502469,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -20036,10 +20036,10 @@
                             {
                               "publicId": "8031aa73-4d33-42c1-95a6-e99b58654912",
                               "matchNum": "Pool 3 - 14 vs 6",
-                              "actualStartTime": null,
+                              "actualStartTime": "2023-02-25T18:31:13",
                               "actualEndTime": null,
                               "verifiedTime": null,
-                              "status": "Waiting to be Started",
+                              "status": "Waiting for Match Result",
                               "teams": [
                                 {
                                   "publicId": "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9",
@@ -20076,7 +20076,72 @@
                                   "seedNumber": 6
                                 }
                               ],
-                              "result": null,
+                              "result": {
+                                "losers": [],
+                                "winners": [],
+                                "mapScores": {
+                                  "1": {
+                                    "forfeit": [],
+                                    "mapName": "Live Fire",
+                                    "winners": [
+                                      "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9"
+                                    ],
+                                    "gameMode": "King Of The Hill",
+                                    "teamScores": {
+                                      "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9": 4,
+                                      "935be205-2642-4a00-b70b-cf4989365fcb": 2
+                                    },
+                                    "mapModeCombo": "King Of The Hill - Live Fire"
+                                  },
+                                  "2": {
+                                    "forfeit": [],
+                                    "mapName": "",
+                                    "winners": [],
+                                    "gameMode": "",
+                                    "teamScores": {
+                                      "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9": 0,
+                                      "935be205-2642-4a00-b70b-cf4989365fcb": 0
+                                    },
+                                    "mapModeCombo": ""
+                                  },
+                                  "3": {
+                                    "forfeit": [],
+                                    "mapName": "",
+                                    "winners": [],
+                                    "gameMode": "",
+                                    "teamScores": {
+                                      "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9": 0,
+                                      "935be205-2642-4a00-b70b-cf4989365fcb": 0
+                                    },
+                                    "mapModeCombo": ""
+                                  },
+                                  "4": {
+                                    "forfeit": [],
+                                    "mapName": "",
+                                    "winners": [],
+                                    "gameMode": "",
+                                    "teamScores": {
+                                      "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9": 0,
+                                      "935be205-2642-4a00-b70b-cf4989365fcb": 0
+                                    },
+                                    "mapModeCombo": ""
+                                  },
+                                  "5": {
+                                    "forfeit": [],
+                                    "mapName": "",
+                                    "winners": [],
+                                    "gameMode": "",
+                                    "teamScores": {
+                                      "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9": 0,
+                                      "935be205-2642-4a00-b70b-cf4989365fcb": 0
+                                    },
+                                    "mapModeCombo": ""
+                                  }
+                                },
+                                "disqualified": [],
+                                "numberOfGames": 5,
+                                "matchFormatType": "bestOf"
+                              },
                               "projectedStartTime": "2023-02-25T18:00:00Z",
                               "isBroadcast": false,
                               "broadcastLinks": []
@@ -21608,7 +21673,7 @@
               }
             ],
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677349834213,
+            "dataUpdatedAt": 1677350502594,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -23766,7 +23831,7 @@
               ]
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677349834290,
+            "dataUpdatedAt": 1677350502667,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
