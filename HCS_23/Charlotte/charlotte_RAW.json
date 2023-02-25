@@ -95,7 +95,7 @@
               "eventSlug": "charlotte"
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677295085257,
+            "dataUpdatedAt": 1677295518555,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -17922,11 +17922,13 @@
                               "2": {
                                 "forfeit": [],
                                 "mapName": "Live Fire",
-                                "winners": [],
+                                "winners": [
+                                  "c9c64e94-f5b3-454f-9840-fa42846839bf"
+                                ],
                                 "gameMode": "Slayer",
                                 "teamScores": {
-                                  "a528d816-6d60-4694-ba93-e4af3d5329fe": 0,
-                                  "c9c64e94-f5b3-454f-9840-fa42846839bf": 0
+                                  "a528d816-6d60-4694-ba93-e4af3d5329fe": 35,
+                                  "c9c64e94-f5b3-454f-9840-fa42846839bf": 50
                                 },
                                 "mapModeCombo": "Slayer - Live Fire"
                               },
@@ -20581,7 +20583,7 @@
               }
             ],
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677295085385,
+            "dataUpdatedAt": 1677295518685,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -22739,7 +22741,7 @@
               ]
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677295085459,
+            "dataUpdatedAt": 1677295518763,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
