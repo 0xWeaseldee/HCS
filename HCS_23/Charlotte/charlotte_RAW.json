@@ -95,7 +95,7 @@
               "eventSlug": "charlotte"
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677350885455,
+            "dataUpdatedAt": 1677352550340,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -18025,7 +18025,7 @@
                           "publicId": "c9c64e94-f5b3-454f-9840-fa42846839bf",
                           "name": "Proton Gaming",
                           "wins": 1,
-                          "losses": 1
+                          "losses": 2
                         },
                         "locked": false,
                         "phasePlacementConnection": 8
@@ -18044,7 +18044,7 @@
                         "roster": {
                           "publicId": "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2",
                           "name": "NaVi",
-                          "wins": 0,
+                          "wins": 1,
                           "losses": 2
                         },
                         "locked": false,
@@ -18106,9 +18106,9 @@
                       },
                       "2": {
                         "roster": {
-                          "publicId": "935be205-2642-4a00-b70b-cf4989365fcb",
-                          "name": "Believe the Hype",
-                          "wins": 1,
+                          "publicId": "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9",
+                          "name": "Native White",
+                          "wins": 2,
                           "losses": 1
                         },
                         "locked": false,
@@ -18116,10 +18116,10 @@
                       },
                       "3": {
                         "roster": {
-                          "publicId": "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9",
-                          "name": "Native White",
+                          "publicId": "935be205-2642-4a00-b70b-cf4989365fcb",
+                          "name": "Believe the Hype",
                           "wins": 1,
-                          "losses": 1
+                          "losses": 2
                         },
                         "locked": false,
                         "phasePlacementConnection": 11
@@ -18148,9 +18148,9 @@
                       },
                       "2": {
                         "roster": {
-                          "publicId": "51e9a5f5-660f-4677-81e0-af24c5869d51",
-                          "name": "TSS Esports",
-                          "wins": 1,
+                          "publicId": "097ab542-8214-4db5-968e-e8a10df7b407",
+                          "name": "Complexity",
+                          "wins": 2,
                           "losses": 1
                         },
                         "locked": false,
@@ -18158,10 +18158,10 @@
                       },
                       "3": {
                         "roster": {
-                          "publicId": "097ab542-8214-4db5-968e-e8a10df7b407",
-                          "name": "Complexity",
+                          "publicId": "51e9a5f5-660f-4677-81e0-af24c5869d51",
+                          "name": "TSS Esports",
                           "wins": 1,
-                          "losses": 1
+                          "losses": 2
                         },
                         "locked": false,
                         "phasePlacementConnection": 12
@@ -18209,7 +18209,7 @@
                         {
                           "placement": 2,
                           "wins": 1,
-                          "losses": 1,
+                          "losses": 2,
                           "locked": false,
                           "roster": {
                             "publicId": "c9c64e94-f5b3-454f-9840-fa42846839bf",
@@ -18254,7 +18254,7 @@
                         },
                         {
                           "placement": 4,
-                          "wins": 0,
+                          "wins": 1,
                           "losses": 2,
                           "locked": false,
                           "roster": {
@@ -18801,9 +18801,9 @@
                               "publicId": "795a1cfb-bf4b-4bb2-a547-10058459f0ac",
                               "matchNum": "Pool 1 - 9 vs 16",
                               "actualStartTime": "2023-02-25T17:50:34",
-                              "actualEndTime": null,
-                              "verifiedTime": null,
-                              "status": "Waiting for Match Result",
+                              "actualEndTime": "2023-02-25T19:05:47",
+                              "verifiedTime": "2023-02-25T19:07:07",
+                              "status": "Completed",
                               "teams": [
                                 {
                                   "publicId": "c9c64e94-f5b3-454f-9840-fa42846839bf",
@@ -18841,8 +18841,12 @@
                                 }
                               ],
                               "result": {
-                                "losers": [],
-                                "winners": [],
+                                "losers": [
+                                  "c9c64e94-f5b3-454f-9840-fa42846839bf"
+                                ],
+                                "winners": [
+                                  "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2"
+                                ],
                                 "mapScores": {
                                   "1": {
                                     "forfeit": [],
@@ -18885,14 +18889,16 @@
                                   },
                                   "4": {
                                     "forfeit": [],
-                                    "mapName": "",
-                                    "winners": [],
-                                    "gameMode": "",
+                                    "mapName": "Streets",
+                                    "winners": [
+                                      "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2"
+                                    ],
+                                    "gameMode": "Oddball",
                                     "teamScores": {
-                                      "c9c64e94-f5b3-454f-9840-fa42846839bf": 0,
-                                      "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2": 0
+                                      "c9c64e94-f5b3-454f-9840-fa42846839bf": 1,
+                                      "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2": 2
                                     },
-                                    "mapModeCombo": "-"
+                                    "mapModeCombo": "Oddball - Streets"
                                   },
                                   "5": {
                                     "forfeit": [],
@@ -19962,30 +19968,7 @@
                         },
                         {
                           "placement": 2,
-                          "wins": 1,
-                          "losses": 1,
-                          "locked": false,
-                          "roster": {
-                            "publicId": "935be205-2642-4a00-b70b-cf4989365fcb",
-                            "creationDate": "2023-02-16T22:26:01Z",
-                            "updatedDate": "2023-02-23T20:38:24Z",
-                            "deletedAt": null,
-                            "name": "Believe the Hype",
-                            "creationReason": "adminCreated",
-                            "status": "checkedIn",
-                            "locked": true,
-                            "nameLocked": true,
-                            "disabled": false,
-                            "acceptedRules": true,
-                            "logoURL": "https://assets.esportsengine.co/logos/935be205-2642-4a00-b70b-cf4989365fcb.png",
-                            "hasPendingLogo": false,
-                            "imageUploadEnabled": true,
-                            "seedNumber": 6
-                          }
-                        },
-                        {
-                          "placement": 3,
-                          "wins": 1,
+                          "wins": 2,
                           "losses": 1,
                           "locked": false,
                           "roster": {
@@ -20004,6 +19987,29 @@
                             "hasPendingLogo": false,
                             "imageUploadEnabled": true,
                             "seedNumber": 14
+                          }
+                        },
+                        {
+                          "placement": 3,
+                          "wins": 1,
+                          "losses": 2,
+                          "locked": false,
+                          "roster": {
+                            "publicId": "935be205-2642-4a00-b70b-cf4989365fcb",
+                            "creationDate": "2023-02-16T22:26:01Z",
+                            "updatedDate": "2023-02-23T20:38:24Z",
+                            "deletedAt": null,
+                            "name": "Believe the Hype",
+                            "creationReason": "adminCreated",
+                            "status": "checkedIn",
+                            "locked": true,
+                            "nameLocked": true,
+                            "disabled": false,
+                            "acceptedRules": true,
+                            "logoURL": "https://assets.esportsengine.co/logos/935be205-2642-4a00-b70b-cf4989365fcb.png",
+                            "hasPendingLogo": false,
+                            "imageUploadEnabled": true,
+                            "seedNumber": 6
                           }
                         },
                         {
@@ -20039,9 +20045,9 @@
                               "publicId": "8031aa73-4d33-42c1-95a6-e99b58654912",
                               "matchNum": "Pool 3 - 14 vs 6",
                               "actualStartTime": "2023-02-25T18:31:13",
-                              "actualEndTime": null,
-                              "verifiedTime": null,
-                              "status": "Waiting for Match Result",
+                              "actualEndTime": "2023-02-25T19:04:37",
+                              "verifiedTime": "2023-02-25T19:07:05",
+                              "status": "Completed",
                               "teams": [
                                 {
                                   "publicId": "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9",
@@ -20079,8 +20085,12 @@
                                 }
                               ],
                               "result": {
-                                "losers": [],
-                                "winners": [],
+                                "losers": [
+                                  "935be205-2642-4a00-b70b-cf4989365fcb"
+                                ],
+                                "winners": [
+                                  "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9"
+                                ],
                                 "mapScores": {
                                   "1": {
                                     "forfeit": [],
@@ -20110,14 +20120,16 @@
                                   },
                                   "3": {
                                     "forfeit": [],
-                                    "mapName": "",
-                                    "winners": [],
-                                    "gameMode": "",
+                                    "mapName": "Empyrean",
+                                    "winners": [
+                                      "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9"
+                                    ],
+                                    "gameMode": "Capture The Flag",
                                     "teamScores": {
-                                      "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9": 0,
+                                      "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9": 1,
                                       "935be205-2642-4a00-b70b-cf4989365fcb": 0
                                     },
-                                    "mapModeCombo": "-"
+                                    "mapModeCombo": "Capture The Flag - Empyrean"
                                   },
                                   "4": {
                                     "forfeit": [],
@@ -20833,30 +20845,7 @@
                         },
                         {
                           "placement": 2,
-                          "wins": 1,
-                          "losses": 1,
-                          "locked": false,
-                          "roster": {
-                            "publicId": "51e9a5f5-660f-4677-81e0-af24c5869d51",
-                            "creationDate": "2023-02-13T03:02:27Z",
-                            "updatedDate": "2023-02-24T14:40:42Z",
-                            "deletedAt": null,
-                            "name": "TSS Esports",
-                            "creationReason": "boughtPass",
-                            "status": "checkedIn",
-                            "locked": true,
-                            "nameLocked": true,
-                            "disabled": false,
-                            "acceptedRules": true,
-                            "logoURL": null,
-                            "hasPendingLogo": false,
-                            "imageUploadEnabled": true,
-                            "seedNumber": 4
-                          }
-                        },
-                        {
-                          "placement": 3,
-                          "wins": 1,
+                          "wins": 2,
                           "losses": 1,
                           "locked": false,
                           "roster": {
@@ -20875,6 +20864,29 @@
                             "hasPendingLogo": false,
                             "imageUploadEnabled": true,
                             "seedNumber": 13
+                          }
+                        },
+                        {
+                          "placement": 3,
+                          "wins": 1,
+                          "losses": 2,
+                          "locked": false,
+                          "roster": {
+                            "publicId": "51e9a5f5-660f-4677-81e0-af24c5869d51",
+                            "creationDate": "2023-02-13T03:02:27Z",
+                            "updatedDate": "2023-02-24T14:40:42Z",
+                            "deletedAt": null,
+                            "name": "TSS Esports",
+                            "creationReason": "boughtPass",
+                            "status": "checkedIn",
+                            "locked": true,
+                            "nameLocked": true,
+                            "disabled": false,
+                            "acceptedRules": true,
+                            "logoURL": null,
+                            "hasPendingLogo": false,
+                            "imageUploadEnabled": true,
+                            "seedNumber": 4
                           }
                         },
                         {
@@ -21288,9 +21300,9 @@
                               "publicId": "411d2a30-fe18-4f35-961e-ed4229bece83",
                               "matchNum": "Pool 4 - 4 vs 13",
                               "actualStartTime": "2023-02-25T17:55:04",
-                              "actualEndTime": null,
-                              "verifiedTime": null,
-                              "status": "Waiting for Match Result",
+                              "actualEndTime": "2023-02-25T19:06:26",
+                              "verifiedTime": "2023-02-25T19:07:10",
+                              "status": "Completed",
                               "teams": [
                                 {
                                   "publicId": "097ab542-8214-4db5-968e-e8a10df7b407",
@@ -21328,8 +21340,12 @@
                                 }
                               ],
                               "result": {
-                                "losers": [],
-                                "winners": [],
+                                "losers": [
+                                  "51e9a5f5-660f-4677-81e0-af24c5869d51"
+                                ],
+                                "winners": [
+                                  "097ab542-8214-4db5-968e-e8a10df7b407"
+                                ],
                                 "mapScores": {
                                   "1": {
                                     "forfeit": [],
@@ -21359,14 +21375,16 @@
                                   },
                                   "3": {
                                     "forfeit": [],
-                                    "mapName": "",
-                                    "winners": [],
-                                    "gameMode": "",
+                                    "mapName": "Live Fire",
+                                    "winners": [
+                                      "097ab542-8214-4db5-968e-e8a10df7b407"
+                                    ],
+                                    "gameMode": "King Of The Hill",
                                     "teamScores": {
-                                      "097ab542-8214-4db5-968e-e8a10df7b407": 0,
-                                      "51e9a5f5-660f-4677-81e0-af24c5869d51": 0
+                                      "097ab542-8214-4db5-968e-e8a10df7b407": 250,
+                                      "51e9a5f5-660f-4677-81e0-af24c5869d51": 228
                                     },
-                                    "mapModeCombo": ""
+                                    "mapModeCombo": "King Of The Hill - Live Fire"
                                   },
                                   "4": {
                                     "forfeit": [],
@@ -21673,13 +21691,13 @@
                     }
                   ]
                 },
-                "competitionStatus": "Active",
+                "competitionStatus": "Completed",
                 "isBeingBroadcast": true,
                 "phaseSlug": "pool-play"
               }
             ],
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677350885595,
+            "dataUpdatedAt": 1677352550472,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -23837,7 +23855,7 @@
               ]
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677350885668,
+            "dataUpdatedAt": 1677352550543,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
