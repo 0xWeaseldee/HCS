@@ -95,7 +95,7 @@
               "eventSlug": "charlotte"
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677349053386,
+            "dataUpdatedAt": 1677349834080,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -18076,7 +18076,7 @@
                         "roster": {
                           "publicId": "5a43bf41-e26c-4da5-a916-b791ca4d33d6",
                           "name": "Quadrant",
-                          "wins": 0,
+                          "wins": 1,
                           "losses": 2
                         },
                         "locked": false,
@@ -18087,7 +18087,7 @@
                           "publicId": "0e42296d-ce3b-435c-af63-7bc3d91a1984",
                           "name": "Cloud9",
                           "wins": 0,
-                          "losses": 2
+                          "losses": 3
                         },
                         "locked": false,
                         "phasePlacementConnection": 15
@@ -18281,119 +18281,6 @@
                           "id": 232,
                           "roundNum": 1,
                           "matches": [
-                            {
-                              "publicId": "795a1cfb-bf4b-4bb2-a547-10058459f0ac",
-                              "matchNum": "Pool 1 - 9 vs 16",
-                              "actualStartTime": "2023-02-25T17:50:34",
-                              "actualEndTime": null,
-                              "verifiedTime": null,
-                              "status": "Waiting for Match Result",
-                              "teams": [
-                                {
-                                  "publicId": "c9c64e94-f5b3-454f-9840-fa42846839bf",
-                                  "creationDate": "2023-01-23T18:03:15Z",
-                                  "updatedDate": "2023-02-24T14:22:17Z",
-                                  "deletedAt": null,
-                                  "name": "Proton Gaming",
-                                  "creationReason": "boughtPass",
-                                  "status": "checkedIn",
-                                  "locked": false,
-                                  "nameLocked": false,
-                                  "disabled": false,
-                                  "acceptedRules": true,
-                                  "logoURL": null,
-                                  "hasPendingLogo": false,
-                                  "imageUploadEnabled": true,
-                                  "seedNumber": 16
-                                },
-                                {
-                                  "publicId": "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2",
-                                  "creationDate": "2023-02-16T22:36:34Z",
-                                  "updatedDate": "2023-02-23T17:31:14Z",
-                                  "deletedAt": null,
-                                  "name": "NaVi",
-                                  "creationReason": "adminCreated",
-                                  "status": "checkedIn",
-                                  "locked": true,
-                                  "nameLocked": true,
-                                  "disabled": false,
-                                  "acceptedRules": true,
-                                  "logoURL": "https://assets.esportsengine.co/logos/d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2.png",
-                                  "hasPendingLogo": false,
-                                  "imageUploadEnabled": true,
-                                  "seedNumber": 9
-                                }
-                              ],
-                              "result": {
-                                "losers": [],
-                                "winners": [],
-                                "mapScores": {
-                                  "1": {
-                                    "forfeit": [],
-                                    "mapName": "Argyle",
-                                    "winners": [
-                                      "c9c64e94-f5b3-454f-9840-fa42846839bf"
-                                    ],
-                                    "gameMode": "Capture The Flag",
-                                    "teamScores": {
-                                      "c9c64e94-f5b3-454f-9840-fa42846839bf": 3,
-                                      "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2": 0
-                                    },
-                                    "mapModeCombo": "Capture The Flag - Argyle"
-                                  },
-                                  "2": {
-                                    "forfeit": [],
-                                    "mapName": "",
-                                    "winners": [],
-                                    "gameMode": "",
-                                    "teamScores": {
-                                      "c9c64e94-f5b3-454f-9840-fa42846839bf": 0,
-                                      "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2": 0
-                                    },
-                                    "mapModeCombo": ""
-                                  },
-                                  "3": {
-                                    "forfeit": [],
-                                    "mapName": "",
-                                    "winners": [],
-                                    "gameMode": "",
-                                    "teamScores": {
-                                      "c9c64e94-f5b3-454f-9840-fa42846839bf": 0,
-                                      "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2": 0
-                                    },
-                                    "mapModeCombo": ""
-                                  },
-                                  "4": {
-                                    "forfeit": [],
-                                    "mapName": "",
-                                    "winners": [],
-                                    "gameMode": "",
-                                    "teamScores": {
-                                      "c9c64e94-f5b3-454f-9840-fa42846839bf": 0,
-                                      "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2": 0
-                                    },
-                                    "mapModeCombo": ""
-                                  },
-                                  "5": {
-                                    "forfeit": [],
-                                    "mapName": "",
-                                    "winners": [],
-                                    "gameMode": "",
-                                    "teamScores": {
-                                      "c9c64e94-f5b3-454f-9840-fa42846839bf": 0,
-                                      "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2": 0
-                                    },
-                                    "mapModeCombo": ""
-                                  }
-                                },
-                                "disqualified": [],
-                                "numberOfGames": 5,
-                                "matchFormatType": "bestOf"
-                              },
-                              "projectedStartTime": "2023-02-25T18:00:00Z",
-                              "isBroadcast": false,
-                              "broadcastLinks": []
-                            },
                             {
                               "publicId": "1de023f3-d0f4-4440-b327-92d8046055c1",
                               "matchNum": "Pool 1 - 1 vs 8",
@@ -18911,6 +18798,121 @@
                               "broadcastLinks": []
                             },
                             {
+                              "publicId": "795a1cfb-bf4b-4bb2-a547-10058459f0ac",
+                              "matchNum": "Pool 1 - 9 vs 16",
+                              "actualStartTime": "2023-02-25T17:50:34",
+                              "actualEndTime": null,
+                              "verifiedTime": null,
+                              "status": "Waiting for Match Result",
+                              "teams": [
+                                {
+                                  "publicId": "c9c64e94-f5b3-454f-9840-fa42846839bf",
+                                  "creationDate": "2023-01-23T18:03:15Z",
+                                  "updatedDate": "2023-02-24T14:22:17Z",
+                                  "deletedAt": null,
+                                  "name": "Proton Gaming",
+                                  "creationReason": "boughtPass",
+                                  "status": "checkedIn",
+                                  "locked": false,
+                                  "nameLocked": false,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": null,
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 16
+                                },
+                                {
+                                  "publicId": "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2",
+                                  "creationDate": "2023-02-16T22:36:34Z",
+                                  "updatedDate": "2023-02-23T17:31:14Z",
+                                  "deletedAt": null,
+                                  "name": "NaVi",
+                                  "creationReason": "adminCreated",
+                                  "status": "checkedIn",
+                                  "locked": true,
+                                  "nameLocked": true,
+                                  "disabled": false,
+                                  "acceptedRules": true,
+                                  "logoURL": "https://assets.esportsengine.co/logos/d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2.png",
+                                  "hasPendingLogo": false,
+                                  "imageUploadEnabled": true,
+                                  "seedNumber": 9
+                                }
+                              ],
+                              "result": {
+                                "losers": [],
+                                "winners": [],
+                                "mapScores": {
+                                  "1": {
+                                    "forfeit": [],
+                                    "mapName": "Argyle",
+                                    "winners": [
+                                      "c9c64e94-f5b3-454f-9840-fa42846839bf"
+                                    ],
+                                    "gameMode": "Capture The Flag",
+                                    "teamScores": {
+                                      "c9c64e94-f5b3-454f-9840-fa42846839bf": 3,
+                                      "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2": 0
+                                    },
+                                    "mapModeCombo": "Capture The Flag - Argyle"
+                                  },
+                                  "2": {
+                                    "forfeit": [],
+                                    "mapName": "Empyrean",
+                                    "winners": [
+                                      "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2"
+                                    ],
+                                    "gameMode": "Slayer",
+                                    "teamScores": {
+                                      "c9c64e94-f5b3-454f-9840-fa42846839bf": 44,
+                                      "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2": 50
+                                    },
+                                    "mapModeCombo": "Slayer - Empyrean"
+                                  },
+                                  "3": {
+                                    "forfeit": [],
+                                    "mapName": "",
+                                    "winners": [],
+                                    "gameMode": "",
+                                    "teamScores": {
+                                      "c9c64e94-f5b3-454f-9840-fa42846839bf": 0,
+                                      "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2": 0
+                                    },
+                                    "mapModeCombo": "-"
+                                  },
+                                  "4": {
+                                    "forfeit": [],
+                                    "mapName": "",
+                                    "winners": [],
+                                    "gameMode": "",
+                                    "teamScores": {
+                                      "c9c64e94-f5b3-454f-9840-fa42846839bf": 0,
+                                      "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2": 0
+                                    },
+                                    "mapModeCombo": "-"
+                                  },
+                                  "5": {
+                                    "forfeit": [],
+                                    "mapName": "",
+                                    "winners": [],
+                                    "gameMode": "",
+                                    "teamScores": {
+                                      "c9c64e94-f5b3-454f-9840-fa42846839bf": 0,
+                                      "d5abb7d7-0108-4c17-8ee2-c443c6b5d5d2": 0
+                                    },
+                                    "mapModeCombo": "-"
+                                  }
+                                },
+                                "disqualified": [],
+                                "numberOfGames": 5,
+                                "matchFormatType": "bestOf"
+                              },
+                              "projectedStartTime": "2023-02-25T18:00:00Z",
+                              "isBroadcast": false,
+                              "broadcastLinks": []
+                            },
+                            {
                               "publicId": "9591d1e4-5692-4c16-8b65-a64f823c4798",
                               "matchNum": "Pool 1 - 8 vs 9",
                               "actualStartTime": "2023-02-24T18:39:21",
@@ -19098,7 +19100,7 @@
                         },
                         {
                           "placement": 3,
-                          "wins": 0,
+                          "wins": 1,
                           "losses": 2,
                           "locked": false,
                           "roster": {
@@ -19122,7 +19124,7 @@
                         {
                           "placement": 4,
                           "wins": 0,
-                          "losses": 2,
+                          "losses": 3,
                           "locked": false,
                           "roster": {
                             "publicId": "0e42296d-ce3b-435c-af63-7bc3d91a1984",
@@ -19808,9 +19810,9 @@
                               "publicId": "c1c096db-b0b4-4d46-b925-a0633bb7eed1",
                               "matchNum": "Pool 2 - 10 vs 15",
                               "actualStartTime": "2023-02-25T17:17:46",
-                              "actualEndTime": null,
-                              "verifiedTime": null,
-                              "status": "Waiting for Match Result",
+                              "actualEndTime": "2023-02-25T18:26:30",
+                              "verifiedTime": "2023-02-25T18:26:35",
+                              "status": "Completed",
                               "teams": [
                                 {
                                   "publicId": "0e42296d-ce3b-435c-af63-7bc3d91a1984",
@@ -19848,8 +19850,12 @@
                                 }
                               ],
                               "result": {
-                                "losers": [],
-                                "winners": [],
+                                "losers": [
+                                  "0e42296d-ce3b-435c-af63-7bc3d91a1984"
+                                ],
+                                "winners": [
+                                  "5a43bf41-e26c-4da5-a916-b791ca4d33d6"
+                                ],
                                 "mapScores": {
                                   "1": {
                                     "forfeit": [],
@@ -19892,14 +19898,16 @@
                                   },
                                   "4": {
                                     "forfeit": [],
-                                    "mapName": "",
-                                    "winners": [],
-                                    "gameMode": "",
+                                    "mapName": "Streets",
+                                    "winners": [
+                                      "5a43bf41-e26c-4da5-a916-b791ca4d33d6"
+                                    ],
+                                    "gameMode": "Oddball",
                                     "teamScores": {
                                       "0e42296d-ce3b-435c-af63-7bc3d91a1984": 0,
-                                      "5a43bf41-e26c-4da5-a916-b791ca4d33d6": 0
+                                      "5a43bf41-e26c-4da5-a916-b791ca4d33d6": 2
                                     },
-                                    "mapModeCombo": "-"
+                                    "mapModeCombo": "Oddball - Streets"
                                   },
                                   "5": {
                                     "forfeit": [],
@@ -20872,7 +20880,72 @@
                                   "seedNumber": 4
                                 }
                               ],
-                              "result": null,
+                              "result": {
+                                "losers": [],
+                                "winners": [],
+                                "mapScores": {
+                                  "1": {
+                                    "forfeit": [],
+                                    "mapName": "Argyle",
+                                    "winners": [
+                                      "097ab542-8214-4db5-968e-e8a10df7b407"
+                                    ],
+                                    "gameMode": "Capture The Flag",
+                                    "teamScores": {
+                                      "097ab542-8214-4db5-968e-e8a10df7b407": 1,
+                                      "51e9a5f5-660f-4677-81e0-af24c5869d51": 0
+                                    },
+                                    "mapModeCombo": "Capture The Flag - Argyle"
+                                  },
+                                  "2": {
+                                    "forfeit": [],
+                                    "mapName": "",
+                                    "winners": [],
+                                    "gameMode": "",
+                                    "teamScores": {
+                                      "097ab542-8214-4db5-968e-e8a10df7b407": 0,
+                                      "51e9a5f5-660f-4677-81e0-af24c5869d51": 0
+                                    },
+                                    "mapModeCombo": ""
+                                  },
+                                  "3": {
+                                    "forfeit": [],
+                                    "mapName": "",
+                                    "winners": [],
+                                    "gameMode": "",
+                                    "teamScores": {
+                                      "097ab542-8214-4db5-968e-e8a10df7b407": 0,
+                                      "51e9a5f5-660f-4677-81e0-af24c5869d51": 0
+                                    },
+                                    "mapModeCombo": ""
+                                  },
+                                  "4": {
+                                    "forfeit": [],
+                                    "mapName": "",
+                                    "winners": [],
+                                    "gameMode": "",
+                                    "teamScores": {
+                                      "097ab542-8214-4db5-968e-e8a10df7b407": 0,
+                                      "51e9a5f5-660f-4677-81e0-af24c5869d51": 0
+                                    },
+                                    "mapModeCombo": ""
+                                  },
+                                  "5": {
+                                    "forfeit": [],
+                                    "mapName": "",
+                                    "winners": [],
+                                    "gameMode": "",
+                                    "teamScores": {
+                                      "097ab542-8214-4db5-968e-e8a10df7b407": 0,
+                                      "51e9a5f5-660f-4677-81e0-af24c5869d51": 0
+                                    },
+                                    "mapModeCombo": ""
+                                  }
+                                },
+                                "disqualified": [],
+                                "numberOfGames": 5,
+                                "matchFormatType": "bestOf"
+                              },
                               "projectedStartTime": "2023-02-25T18:00:00Z",
                               "isBroadcast": false,
                               "broadcastLinks": []
@@ -21535,7 +21608,7 @@
               }
             ],
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677349053523,
+            "dataUpdatedAt": 1677349834213,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -23693,7 +23766,7 @@
               ]
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677349053597,
+            "dataUpdatedAt": 1677349834290,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
