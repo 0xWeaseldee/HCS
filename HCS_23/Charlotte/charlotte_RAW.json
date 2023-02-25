@@ -95,7 +95,7 @@
               "eventSlug": "charlotte"
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677294224958,
+            "dataUpdatedAt": 1677295085257,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -17794,17 +17794,27 @@
                               "1": {
                                 "forfeit": [],
                                 "mapName": "Streets",
-                                "winners": [],
+                                "winners": [
+                                  "28b20a98-c744-4125-9cd8-6dc77e1f759f"
+                                ],
                                 "gameMode": "Oddball",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "0e42296d-ce3b-435c-af63-7bc3d91a1984": 0,
+                                  "28b20a98-c744-4125-9cd8-6dc77e1f759f": 2
+                                },
                                 "mapModeCombo": "Oddball - Streets"
                               },
                               "2": {
                                 "forfeit": [],
                                 "mapName": "Live Fire",
-                                "winners": [],
+                                "winners": [
+                                  "28b20a98-c744-4125-9cd8-6dc77e1f759f"
+                                ],
                                 "gameMode": "Slayer",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "0e42296d-ce3b-435c-af63-7bc3d91a1984": 38,
+                                  "28b20a98-c744-4125-9cd8-6dc77e1f759f": 50
+                                },
                                 "mapModeCombo": "Slayer - Live Fire"
                               },
                               "3": {
@@ -17812,7 +17822,10 @@
                                 "mapName": "Empyrean",
                                 "winners": [],
                                 "gameMode": "Capture The Flag",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "0e42296d-ce3b-435c-af63-7bc3d91a1984": 0,
+                                  "28b20a98-c744-4125-9cd8-6dc77e1f759f": 0
+                                },
                                 "mapModeCombo": "Capture The Flag - Empyrean"
                               },
                               "4": {
@@ -17820,7 +17833,10 @@
                                 "mapName": "Recharge",
                                 "winners": [],
                                 "gameMode": "King Of The Hill",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "0e42296d-ce3b-435c-af63-7bc3d91a1984": 0,
+                                  "28b20a98-c744-4125-9cd8-6dc77e1f759f": 0
+                                },
                                 "mapModeCombo": "King Of The Hill - Recharge"
                               },
                               "5": {
@@ -17828,11 +17844,16 @@
                                 "mapName": "Aquarius",
                                 "winners": [],
                                 "gameMode": "Slayer",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "0e42296d-ce3b-435c-af63-7bc3d91a1984": 0,
+                                  "28b20a98-c744-4125-9cd8-6dc77e1f759f": 0
+                                },
                                 "mapModeCombo": "Slayer - Aquarius"
                               }
                             },
-                            "disqualified": []
+                            "disqualified": [],
+                            "numberOfGames": 5,
+                            "matchFormatType": "bestOf"
                           },
                           "projectedStartTime": "2023-02-26T02:30:00Z",
                           "isBroadcast": false,
@@ -17888,9 +17909,14 @@
                               "1": {
                                 "forfeit": [],
                                 "mapName": "Streets",
-                                "winners": [],
+                                "winners": [
+                                  "c9c64e94-f5b3-454f-9840-fa42846839bf"
+                                ],
                                 "gameMode": "Oddball",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "a528d816-6d60-4694-ba93-e4af3d5329fe": 0,
+                                  "c9c64e94-f5b3-454f-9840-fa42846839bf": 2
+                                },
                                 "mapModeCombo": "Oddball - Streets"
                               },
                               "2": {
@@ -17898,7 +17924,10 @@
                                 "mapName": "Live Fire",
                                 "winners": [],
                                 "gameMode": "Slayer",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "a528d816-6d60-4694-ba93-e4af3d5329fe": 0,
+                                  "c9c64e94-f5b3-454f-9840-fa42846839bf": 0
+                                },
                                 "mapModeCombo": "Slayer - Live Fire"
                               },
                               "3": {
@@ -17906,7 +17935,10 @@
                                 "mapName": "Empyrean",
                                 "winners": [],
                                 "gameMode": "Capture The Flag",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "a528d816-6d60-4694-ba93-e4af3d5329fe": 0,
+                                  "c9c64e94-f5b3-454f-9840-fa42846839bf": 0
+                                },
                                 "mapModeCombo": "Capture The Flag - Empyrean"
                               },
                               "4": {
@@ -17914,7 +17946,10 @@
                                 "mapName": "Recharge",
                                 "winners": [],
                                 "gameMode": "King Of The Hill",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "a528d816-6d60-4694-ba93-e4af3d5329fe": 0,
+                                  "c9c64e94-f5b3-454f-9840-fa42846839bf": 0
+                                },
                                 "mapModeCombo": "King Of The Hill - Recharge"
                               },
                               "5": {
@@ -17922,11 +17957,16 @@
                                 "mapName": "Aquarius",
                                 "winners": [],
                                 "gameMode": "Slayer",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "a528d816-6d60-4694-ba93-e4af3d5329fe": 0,
+                                  "c9c64e94-f5b3-454f-9840-fa42846839bf": 0
+                                },
                                 "mapModeCombo": "Slayer - Aquarius"
                               }
                             },
-                            "disqualified": []
+                            "disqualified": [],
+                            "numberOfGames": 5,
+                            "matchFormatType": "bestOf"
                           },
                           "projectedStartTime": "2023-02-26T02:30:00Z",
                           "isBroadcast": false,
@@ -20541,7 +20581,7 @@
               }
             ],
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677294225085,
+            "dataUpdatedAt": 1677295085385,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -22699,7 +22739,7 @@
               ]
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677294225154,
+            "dataUpdatedAt": 1677295085459,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
