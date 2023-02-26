@@ -95,7 +95,7 @@
               "eventSlug": "charlotte"
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677382895705,
+            "dataUpdatedAt": 1677440876058,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -21841,6 +21841,30 @@
                               "name": "HCS YouTube",
                               "publicId": "d19de06d-f144-491b-ba5d-42b2c7f5bccb",
                               "tournamentId": null
+                            },
+                            {
+                              "url": "https://www.twitch.tv/halo",
+                              "name": "Halo",
+                              "publicId": "68daedbc-dfdd-400e-91bc-c49fdd9ab806",
+                              "tournamentId": null
+                            },
+                            {
+                              "url": "https://www.youtube.com/c/HaloEsportsHCS",
+                              "name": "HCS YouTube",
+                              "publicId": "d19de06d-f144-491b-ba5d-42b2c7f5bccb",
+                              "tournamentId": null
+                            },
+                            {
+                              "url": "https://www.twitch.tv/halo",
+                              "name": "Halo",
+                              "publicId": "68daedbc-dfdd-400e-91bc-c49fdd9ab806",
+                              "tournamentId": null
+                            },
+                            {
+                              "url": "https://www.youtube.com/c/HaloEsportsHCS",
+                              "name": "HCS YouTube",
+                              "publicId": "d19de06d-f144-491b-ba5d-42b2c7f5bccb",
+                              "tournamentId": null
                             }
                           ]
                         },
@@ -22391,6 +22415,30 @@
                               "name": "Halo",
                               "publicId": "68daedbc-dfdd-400e-91bc-c49fdd9ab806",
                               "tournamentId": null
+                            },
+                            {
+                              "url": "https://www.twitch.tv/halo",
+                              "name": "Halo",
+                              "publicId": "68daedbc-dfdd-400e-91bc-c49fdd9ab806",
+                              "tournamentId": null
+                            },
+                            {
+                              "url": "https://www.youtube.com/c/HaloEsportsHCS",
+                              "name": "HCS YouTube",
+                              "publicId": "d19de06d-f144-491b-ba5d-42b2c7f5bccb",
+                              "tournamentId": null
+                            },
+                            {
+                              "url": "https://www.twitch.tv/halo",
+                              "name": "Halo",
+                              "publicId": "68daedbc-dfdd-400e-91bc-c49fdd9ab806",
+                              "tournamentId": null
+                            },
+                            {
+                              "url": "https://www.youtube.com/c/HaloEsportsHCS",
+                              "name": "HCS YouTube",
+                              "publicId": "d19de06d-f144-491b-ba5d-42b2c7f5bccb",
+                              "tournamentId": null
                             }
                           ]
                         },
@@ -22525,6 +22573,30 @@
                               "name": "Halo",
                               "publicId": "68daedbc-dfdd-400e-91bc-c49fdd9ab806",
                               "tournamentId": null
+                            },
+                            {
+                              "url": "https://www.twitch.tv/halo",
+                              "name": "Halo",
+                              "publicId": "68daedbc-dfdd-400e-91bc-c49fdd9ab806",
+                              "tournamentId": null
+                            },
+                            {
+                              "url": "https://www.youtube.com/c/HaloEsportsHCS",
+                              "name": "HCS YouTube",
+                              "publicId": "d19de06d-f144-491b-ba5d-42b2c7f5bccb",
+                              "tournamentId": null
+                            },
+                            {
+                              "url": "https://www.twitch.tv/halo",
+                              "name": "Halo",
+                              "publicId": "68daedbc-dfdd-400e-91bc-c49fdd9ab806",
+                              "tournamentId": null
+                            },
+                            {
+                              "url": "https://www.youtube.com/c/HaloEsportsHCS",
+                              "name": "HCS YouTube",
+                              "publicId": "d19de06d-f144-491b-ba5d-42b2c7f5bccb",
+                              "tournamentId": null
                             }
                           ]
                         }
@@ -22537,10 +22609,10 @@
                         {
                           "publicId": "eeeabd02-dae2-4fb2-bf0b-ab80292a7c75",
                           "matchNum": "W7",
-                          "actualStartTime": null,
+                          "actualStartTime": "2023-02-26T18:34:29",
                           "actualEndTime": null,
                           "verifiedTime": null,
-                          "status": "Waiting to be Announced",
+                          "status": "Waiting for Match Result",
                           "teams": [
                             {
                               "publicId": "8d44fe10-b042-4d21-af0c-5f9930783067",
@@ -22584,25 +22656,40 @@
                               "1": {
                                 "forfeit": [],
                                 "mapName": "Streets",
-                                "winners": [],
+                                "winners": [
+                                  "8d44fe10-b042-4d21-af0c-5f9930783067"
+                                ],
                                 "gameMode": "Oddball",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "8d44fe10-b042-4d21-af0c-5f9930783067": 2,
+                                  "f38eea13-f027-467a-9f3a-e24630d25bf2": 0
+                                },
                                 "mapModeCombo": "Oddball - Streets"
                               },
                               "2": {
                                 "forfeit": [],
                                 "mapName": "Recharge",
-                                "winners": [],
+                                "winners": [
+                                  "8d44fe10-b042-4d21-af0c-5f9930783067"
+                                ],
                                 "gameMode": "Slayer",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "8d44fe10-b042-4d21-af0c-5f9930783067": 50,
+                                  "f38eea13-f027-467a-9f3a-e24630d25bf2": 48
+                                },
                                 "mapModeCombo": "Slayer - Recharge"
                               },
                               "3": {
                                 "forfeit": [],
                                 "mapName": "Live Fire",
-                                "winners": [],
+                                "winners": [
+                                  "f38eea13-f027-467a-9f3a-e24630d25bf2"
+                                ],
                                 "gameMode": "King Of The Hill",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "8d44fe10-b042-4d21-af0c-5f9930783067": 3,
+                                  "f38eea13-f027-467a-9f3a-e24630d25bf2": 4
+                                },
                                 "mapModeCombo": "King Of The Hill - Live Fire"
                               },
                               "4": {
@@ -22610,7 +22697,10 @@
                                 "mapName": "Empyrean",
                                 "winners": [],
                                 "gameMode": "Capture The Flag",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "8d44fe10-b042-4d21-af0c-5f9930783067": 0,
+                                  "f38eea13-f027-467a-9f3a-e24630d25bf2": 0
+                                },
                                 "mapModeCombo": "Capture The Flag - Empyrean"
                               },
                               "5": {
@@ -22618,15 +22708,33 @@
                                 "mapName": "Aquarius",
                                 "winners": [],
                                 "gameMode": "Slayer",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "8d44fe10-b042-4d21-af0c-5f9930783067": 0,
+                                  "f38eea13-f027-467a-9f3a-e24630d25bf2": 0
+                                },
                                 "mapModeCombo": "Slayer - Aquarius"
                               }
                             },
-                            "disqualified": []
+                            "disqualified": [],
+                            "numberOfGames": 5,
+                            "matchFormatType": "bestOf"
                           },
                           "projectedStartTime": "2023-02-26T19:00:00Z",
-                          "isBroadcast": false,
-                          "broadcastLinks": []
+                          "isBroadcast": true,
+                          "broadcastLinks": [
+                            {
+                              "url": "https://www.twitch.tv/halo",
+                              "name": "Halo",
+                              "publicId": "68daedbc-dfdd-400e-91bc-c49fdd9ab806",
+                              "tournamentId": null
+                            },
+                            {
+                              "url": "https://www.youtube.com/c/HaloEsportsHCS",
+                              "name": "HCS YouTube",
+                              "publicId": "d19de06d-f144-491b-ba5d-42b2c7f5bccb",
+                              "tournamentId": null
+                            }
+                          ]
                         }
                       ]
                     }
@@ -23034,6 +23142,30 @@
                               "url": "https://www.twitch.tv/halo",
                               "name": "Halo",
                               "publicId": "68daedbc-dfdd-400e-91bc-c49fdd9ab806",
+                              "tournamentId": null
+                            },
+                            {
+                              "url": "https://www.twitch.tv/halo",
+                              "name": "Halo",
+                              "publicId": "68daedbc-dfdd-400e-91bc-c49fdd9ab806",
+                              "tournamentId": null
+                            },
+                            {
+                              "url": "https://www.youtube.com/c/HaloEsportsHCS",
+                              "name": "HCS YouTube",
+                              "publicId": "d19de06d-f144-491b-ba5d-42b2c7f5bccb",
+                              "tournamentId": null
+                            },
+                            {
+                              "url": "https://www.twitch.tv/halo",
+                              "name": "Halo",
+                              "publicId": "68daedbc-dfdd-400e-91bc-c49fdd9ab806",
+                              "tournamentId": null
+                            },
+                            {
+                              "url": "https://www.youtube.com/c/HaloEsportsHCS",
+                              "name": "HCS YouTube",
+                              "publicId": "d19de06d-f144-491b-ba5d-42b2c7f5bccb",
                               "tournamentId": null
                             }
                           ]
@@ -23739,10 +23871,10 @@
                         {
                           "publicId": "51053ce3-1570-4402-814f-ad286c2f3720",
                           "matchNum": "L9",
-                          "actualStartTime": null,
-                          "actualEndTime": null,
-                          "verifiedTime": null,
-                          "status": "Waiting to be Announced",
+                          "actualStartTime": "2023-02-26T17:46:31",
+                          "actualEndTime": "2023-02-26T18:32:21",
+                          "verifiedTime": "2023-02-26T18:32:34",
+                          "status": "Completed",
                           "teams": [
                             {
                               "publicId": "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9",
@@ -23780,31 +23912,50 @@
                             }
                           ],
                           "result": {
-                            "losers": [],
-                            "winners": [],
+                            "losers": [
+                              "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9"
+                            ],
+                            "winners": [
+                              "393c68a8-1428-4324-9d93-360c5ee0b0a0"
+                            ],
                             "mapScores": {
                               "1": {
                                 "forfeit": [],
                                 "mapName": "Empyrean",
-                                "winners": [],
+                                "winners": [
+                                  "393c68a8-1428-4324-9d93-360c5ee0b0a0"
+                                ],
                                 "gameMode": "Capture The Flag",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "393c68a8-1428-4324-9d93-360c5ee0b0a0": 3,
+                                  "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9": 1
+                                },
                                 "mapModeCombo": "Capture The Flag - Empyrean"
                               },
                               "2": {
                                 "forfeit": [],
                                 "mapName": "Streets",
-                                "winners": [],
+                                "winners": [
+                                  "393c68a8-1428-4324-9d93-360c5ee0b0a0"
+                                ],
                                 "gameMode": "Slayer",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "393c68a8-1428-4324-9d93-360c5ee0b0a0": 50,
+                                  "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9": 33
+                                },
                                 "mapModeCombo": "Slayer - Streets"
                               },
                               "3": {
                                 "forfeit": [],
                                 "mapName": "Live Fire",
-                                "winners": [],
+                                "winners": [
+                                  "393c68a8-1428-4324-9d93-360c5ee0b0a0"
+                                ],
                                 "gameMode": "Strongholds",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "393c68a8-1428-4324-9d93-360c5ee0b0a0": 250,
+                                  "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9": 40
+                                },
                                 "mapModeCombo": "Strongholds - Live Fire"
                               },
                               "4": {
@@ -23812,7 +23963,10 @@
                                 "mapName": "Recharge",
                                 "winners": [],
                                 "gameMode": "Oddball",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "393c68a8-1428-4324-9d93-360c5ee0b0a0": 0,
+                                  "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9": 0
+                                },
                                 "mapModeCombo": "Oddball - Recharge"
                               },
                               "5": {
@@ -23820,15 +23974,33 @@
                                 "mapName": "Aquarius",
                                 "winners": [],
                                 "gameMode": "Slayer",
-                                "teamScores": {},
+                                "teamScores": {
+                                  "393c68a8-1428-4324-9d93-360c5ee0b0a0": 0,
+                                  "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9": 0
+                                },
                                 "mapModeCombo": "Slayer - Aquarius"
                               }
                             },
-                            "disqualified": []
+                            "disqualified": [],
+                            "numberOfGames": 5,
+                            "matchFormatType": "bestOf"
                           },
                           "projectedStartTime": "2023-02-26T17:30:00Z",
-                          "isBroadcast": false,
-                          "broadcastLinks": []
+                          "isBroadcast": true,
+                          "broadcastLinks": [
+                            {
+                              "url": "https://www.twitch.tv/halo",
+                              "name": "Halo",
+                              "publicId": "68daedbc-dfdd-400e-91bc-c49fdd9ab806",
+                              "tournamentId": null
+                            },
+                            {
+                              "url": "https://www.youtube.com/c/HaloEsportsHCS",
+                              "name": "HCS YouTube",
+                              "publicId": "d19de06d-f144-491b-ba5d-42b2c7f5bccb",
+                              "tournamentId": null
+                            }
+                          ]
                         }
                       ]
                     },
@@ -23843,7 +24015,25 @@
                           "actualEndTime": null,
                           "verifiedTime": null,
                           "status": "Waiting to be Announced",
-                          "teams": [],
+                          "teams": [
+                            {
+                              "publicId": "393c68a8-1428-4324-9d93-360c5ee0b0a0",
+                              "creationDate": "2023-02-16T19:22:42Z",
+                              "updatedDate": "2023-02-23T17:18:53Z",
+                              "deletedAt": null,
+                              "name": "Spacestation Gaming",
+                              "creationReason": "adminCreated",
+                              "status": "checkedIn",
+                              "locked": true,
+                              "nameLocked": true,
+                              "disabled": false,
+                              "acceptedRules": true,
+                              "logoURL": "https://assets.esportsengine.co/logos/393c68a8-1428-4324-9d93-360c5ee0b0a0.png",
+                              "hasPendingLogo": false,
+                              "imageUploadEnabled": true,
+                              "seedNumber": 4
+                            }
+                          ],
                           "result": {
                             "losers": [],
                             "winners": [],
@@ -23892,8 +24082,21 @@
                             "disqualified": []
                           },
                           "projectedStartTime": "2023-02-26T20:30:00Z",
-                          "isBroadcast": false,
-                          "broadcastLinks": []
+                          "isBroadcast": true,
+                          "broadcastLinks": [
+                            {
+                              "url": "https://www.twitch.tv/halo",
+                              "name": "Halo",
+                              "publicId": "68daedbc-dfdd-400e-91bc-c49fdd9ab806",
+                              "tournamentId": null
+                            },
+                            {
+                              "url": "https://www.youtube.com/c/HaloEsportsHCS",
+                              "name": "HCS YouTube",
+                              "publicId": "d19de06d-f144-491b-ba5d-42b2c7f5bccb",
+                              "tournamentId": null
+                            }
+                          ]
                         }
                       ]
                     }
@@ -23975,8 +24178,21 @@
                             "disqualified": []
                           },
                           "projectedStartTime": "2023-02-26T22:00:00Z",
-                          "isBroadcast": false,
-                          "broadcastLinks": []
+                          "isBroadcast": true,
+                          "broadcastLinks": [
+                            {
+                              "url": "https://www.twitch.tv/halo",
+                              "name": "Halo",
+                              "publicId": "68daedbc-dfdd-400e-91bc-c49fdd9ab806",
+                              "tournamentId": null
+                            },
+                            {
+                              "url": "https://www.youtube.com/c/HaloEsportsHCS",
+                              "name": "HCS YouTube",
+                              "publicId": "d19de06d-f144-491b-ba5d-42b2c7f5bccb",
+                              "tournamentId": null
+                            }
+                          ]
                         }
                       ]
                     },
@@ -24056,8 +24272,21 @@
                             "disqualified": []
                           },
                           "projectedStartTime": "2023-02-27T00:00:00Z",
-                          "isBroadcast": false,
-                          "broadcastLinks": []
+                          "isBroadcast": true,
+                          "broadcastLinks": [
+                            {
+                              "url": "https://www.twitch.tv/halo",
+                              "name": "Halo",
+                              "publicId": "68daedbc-dfdd-400e-91bc-c49fdd9ab806",
+                              "tournamentId": null
+                            },
+                            {
+                              "url": "https://www.youtube.com/c/HaloEsportsHCS",
+                              "name": "HCS YouTube",
+                              "publicId": "d19de06d-f144-491b-ba5d-42b2c7f5bccb",
+                              "tournamentId": null
+                            }
+                          ]
                         }
                       ]
                     }
@@ -24069,7 +24298,7 @@
               }
             ],
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677382895846,
+            "dataUpdatedAt": 1677440876250,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
@@ -24094,11 +24323,96 @@
         {
           "state": {
             "data": {
-              "total": 74,
+              "total": 75,
               "perPage": 25,
               "currentPage": 1,
               "lastPage": 3,
               "results": [
+                {
+                  "place": 4,
+                  "roster": {
+                    "publicId": "5f17bf4f-aa3b-4345-b5e3-2a124dd37ef9",
+                    "creationDate": "2023-01-24T01:39:30Z",
+                    "updatedDate": "2023-02-24T14:21:33Z",
+                    "deletedAt": null,
+                    "name": "Native White",
+                    "creationReason": "boughtPass",
+                    "status": "checkedIn",
+                    "locked": false,
+                    "nameLocked": false,
+                    "disabled": false,
+                    "acceptedRules": true,
+                    "logoURL": null,
+                    "hasPendingLogo": false,
+                    "imageUploadEnabled": true,
+                    "members": [
+                      {
+                        "publicId": "6d1bffca-673c-4c7c-b88a-d118953c8b25",
+                        "creationDate": "2023-02-10T22:34:18Z",
+                        "updatedDate": "2023-02-24T14:21:26Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "9e274c93-0d6a-417c-9f06-f27061353eb5",
+                          "alias": "Barcode",
+                          "disabled": false,
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "136d549b-984c-44f0-a5e7-a4fe944cfde1",
+                        "creationDate": "2023-02-16T22:23:04Z",
+                        "updatedDate": "2023-02-24T14:21:33Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "f55b8a61-1690-4da1-8077-ae04f08a433f",
+                          "alias": "TappingButtons",
+                          "disabled": false,
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "411abaf1-cbef-4a4a-ad33-c38e21fbde96",
+                        "creationDate": "2023-01-24T08:05:41Z",
+                        "updatedDate": "2023-02-23T23:51:43Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "7220ad9e-f97b-42f5-afca-6249d52973ec",
+                          "alias": "Mikwen",
+                          "disabled": false,
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      },
+                      {
+                        "publicId": "fdbd3bc6-00ed-4420-b532-7f69f855ad37",
+                        "creationDate": "2023-01-24T08:07:31Z",
+                        "updatedDate": "2023-02-24T00:40:13Z",
+                        "deletedAt": null,
+                        "competitionRole": "starter",
+                        "player": {
+                          "publicId": "28eec6a1-bfe8-47f9-a2f4-4a91114e5d67",
+                          "alias": "Gilkey",
+                          "disabled": false,
+                          "lockedUntil": "",
+                          "partnerId": "XBL",
+                          "status": ""
+                        },
+                        "checkedIn": true
+                      }
+                    ]
+                  }
+                },
                 {
                   "place": 5,
                   "roster": {
@@ -26138,96 +26452,11 @@
                       }
                     ]
                   }
-                },
-                {
-                  "place": 29,
-                  "roster": {
-                    "publicId": "0d7c3019-923c-4fcf-a75a-d1c02012a33e",
-                    "creationDate": "2023-01-23T18:13:50Z",
-                    "updatedDate": "2023-02-24T14:33:16Z",
-                    "deletedAt": null,
-                    "name": "Tenacious",
-                    "creationReason": "boughtPass",
-                    "status": "checkedIn",
-                    "locked": false,
-                    "nameLocked": false,
-                    "disabled": false,
-                    "acceptedRules": true,
-                    "logoURL": null,
-                    "hasPendingLogo": false,
-                    "imageUploadEnabled": true,
-                    "members": [
-                      {
-                        "publicId": "c9b2d34b-a789-4111-874d-ab3ec3609ea0",
-                        "creationDate": "2023-02-11T21:28:34Z",
-                        "updatedDate": "2023-02-24T14:05:16Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "80ec1ba9-4e0e-42c0-b584-7f094981eb97",
-                          "alias": "CollecTive",
-                          "disabled": false,
-                          "lockedUntil": "",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
-                        "publicId": "4cc64e70-6594-4669-bb69-325a441044d8",
-                        "creationDate": "2023-01-23T18:31:24Z",
-                        "updatedDate": "2023-02-24T14:05:33Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "b2fce11f-f06d-42ad-85bb-c66d9927adf0",
-                          "alias": "Kaplz",
-                          "disabled": false,
-                          "lockedUntil": "",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
-                        "publicId": "d6ac8f38-6258-4944-a52d-af4abcae3238",
-                        "creationDate": "2023-01-23T18:16:07Z",
-                        "updatedDate": "2023-02-24T14:30:53Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "77ef248a-7706-4b48-8576-116ab9ac759d",
-                          "alias": "Parabola",
-                          "disabled": false,
-                          "lockedUntil": "2022-05-17",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      },
-                      {
-                        "publicId": "e16f5ff2-3304-4a55-bb7b-4892ea0c00eb",
-                        "creationDate": "2023-01-23T18:32:01Z",
-                        "updatedDate": "2023-02-24T14:33:16Z",
-                        "deletedAt": null,
-                        "competitionRole": "starter",
-                        "player": {
-                          "publicId": "a9f923d1-c83e-43f6-a573-3e4ecc6c5f15",
-                          "alias": "Ivonized",
-                          "disabled": false,
-                          "lockedUntil": "2022-12-22",
-                          "partnerId": "XBL",
-                          "status": ""
-                        },
-                        "checkedIn": true
-                      }
-                    ]
-                  }
                 }
               ]
             },
             "dataUpdateCount": 1,
-            "dataUpdatedAt": 1677382895918,
+            "dataUpdatedAt": 1677440876325,
             "error": null,
             "errorUpdateCount": 0,
             "errorUpdatedAt": 0,
